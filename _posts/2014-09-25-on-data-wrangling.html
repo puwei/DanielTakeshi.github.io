@@ -1,0 +1,35 @@
+---
+layout: post
+title: On Data Wrangling
+date: 2014-09-25 17:57:48.000000000 -07:00
+categories:
+- Computer Science
+tags:
+- Big Data
+- data science
+- data wrangling
+- machine learning
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '25629085'
+  geo_public: '0'
+  _publicize_pending: '1'
+author:
+  login: seitad
+  email: takeshidanny@gmail.com
+  display_name: Daniel Seita
+  first_name: ''
+  last_name: ''
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p><a href="https://seitad.files.wordpress.com/2014/09/data_science.png"><img class="aligncenter size-large wp-image-2001" src="assets/data_science.png?w=460" alt="data_science" width="460" height="292" /></a></p>
+<p>Last month, the New York Times <a href="http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html">published an interesting article</a> that connected with my experience working as a computer scientist. The idea is that there's so much data out there -- in case you've been living under a rock, it's the age of Big Data -- but it's becoming increasingly harder for us to make sense of it so that we can actually <em>use</em> the data well. Here's a relevant passage:</p>
+<blockquote><p>But if the value comes from combining different data sets, so does the headache. Data from sensors, documents, the web and conventional databases all come in different formats. Before a software algorithm can go looking for answers, the data must be cleaned up and converted into a unified form that the algorithm can understand.</p></blockquote>
+<p>So why does this article connect to me? <em>Every major computer science project </em>I've worked on has involved a nontrivial amount of data "wrangling" (for lack of a better word), such as the one I worked on at the <a href="http://seitad.wordpress.com/2012/07/27/wrapping-up-my-summer-research/">Bard REU</a>. I also had a brief internship last summer where my job was to implement <a href="http://machinelearning.wustl.edu/mlpapers/paper_files/BleiNJ03.pdf">Latent Dirichlet Allocation</a>, and it took me a substantial amount of time to convert a variety of documents (plain text, .doc, .docx, .pdf, and others) into a format that the algorithm could easily use.</p>
+<p>Fortunately, many researchers are trying to help us out, such as professors <a href="http://homes.cs.washington.edu/~jheer/">Jeff Heer</a> at the University of Washington and <a href="http://db.cs.berkeley.edu/jmh/">Joe Hellerstein</a> at the University of California, Berkeley. I met Jeff when I was <a href="http://seitad.wordpress.com/2014/03/29/graduate-school-visit-4-the-university-of-washington/">visiting the school a few months ago</a>, and he gave me an update on the amazing work he and his group have done.</p>
+<p>Meanwhile, as I finished reading the article, I was also thinking about how our computer science classes should prepare us for the inevitable amount of data wrangling we'll be doing in our jobs. The standard machine learning computer science project, for instance, will tell us to implement an algorithm and run it on some data. That data, though, is often formatted and "pre-packaged," which makes it easier for students but typically doesn't provide the experience of having to deal with a haphazard collection of data.</p>
+<p>So I would suggest that in a data-heavy computer science class, at least one of the projects should involve <em>some</em> data wrangling. These might be open-ended projects, where the student is given little to no starter code and must implement an algorithm while at the same time figuring out how to deal with the data.</p>
+<p>On a related note, I should also add that students should appreciate it when their data comes nicely formatted. <em>Someone</em> had to assemble the data, after all. In addition, for many computer science projects, such as the <a href="http://inst.eecs.berkeley.edu/~cs188/pacman/project_overview.html">Berkeley Pacman</a> assignments, much of the complicated, external code has already been written and tested, making our jobs much easier. So to anyone who is complaining about how hard their latest programming project is, just remember, someone probably had to work twice as hard as you did to <em>prepare</em> the project and its data in the first place.</p>

@@ -1,0 +1,56 @@
+---
+layout: post
+title: 'CS Theory Part 2 of 8: Proving Languages are not Regular'
+date: 2012-10-13 00:17:25.000000000 -07:00
+categories:
+- Computer Science
+tags:
+- automata
+- theory
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '25629085'
+  _publicize_pending: '1'
+  _wpas_skip_facebook: '1'
+  _wpas_skip_google_plus: '1'
+  _wpas_skip_twitter: '1'
+  _wpas_skip_linkedin: '1'
+  _wpas_skip_tumblr: '1'
+  _wpas_skip_path: '1'
+author:
+  login: seitad
+  email: takeshidanny@gmail.com
+  display_name: Daniel Seita
+  first_name: ''
+  last_name: ''
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>After a little bit of a delay, I'm back to writing a little bit more about theory of computation. (Be warned that this post will assume more prior knowledge about automata than the previous entry.) So far, we've been learning a lot about languages, which are a set of strings formed from some alphabet (e.g. 0 and 1 for binary numbers) that obey certain guidelines. Languages can be classified as either regular or non-regular. Regular languages are those that can be recognized by some DFA, and I made some examples of that in the first Theory post. But not all languages are regular. And so far, I believe there's three main ways to prove a language is not regular.</p>
+<ol>
+<li>Closure properties of regular languages (unions, intersections, concatenations, "star" operation, etc.)</li>
+<li><a href="http://en.wikipedia.org/wiki/Pumping_lemma_for_regular_languages">The Pumping Lemma</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Myhill-Nerode_theorem">The Myhill-Nerode Theorem</a> and Fooling Sets</li>
+</ol>
+<p><!--more--></p>
+<p>The usefulness of these three depends on the language. For some, the closure properties are the easiest to prove non-regularity; for others, it might be the Myhill-Nerode theorem. In fact, there are some languages that are not regular, yet are satisfied by the Pumping Lemma! That lemma is not a sufficient condition on non-regularity, so if a language satisfies it, all bets are off as to whether it's regular or not. But if a language "passes" the requirements of Myhill-Nerode, it <em>must</em> be regular. Clearly, languages require multiple strategies to prove regularity or non-regularity.</p>
+<p>I thought I'd present an example of  a non-regular language and see how all three methods could be applied. First, before we begin, the canonical non-regular language (meaning, the one language that often introduces students into the world of linguistic non-regularity) is the following:</p>
+<blockquote><p>$latex A = \{0^n1^n \mid n \ge 0\}$</p></blockquote>
+<p>It's the language consisting of all strings with an equal amount of zeroes and ones, with the ones following the zeroes. Intuitively, it's fairly simple to see that it's non-regular. If a DFA were to recognize this language, it would have to compute the total amount of zeroes, followed by the ones. Consequently, since there would be an infinite amount of states needed, we can't make a DFA since they are meant to be finite automata. That is, they have finitely many states. We will use this knowledge in hand, combined with the three common ways to prove non-regularity, when we consider this similar language:</p>
+<blockquote><p>$latex B = \{0^m1^n \mid m \ne n\}$</p></blockquote>
+<p>It's similar, but we just have to make sure that there are a different amount of zeroes and ones, and again, that the ones all come after the zeroes.</p>
+<p>So let's consider the different ways we could prove that this language is not regular.</p>
+<p><em><strong>Closure Properties</strong></em></p>
+<p>First, we look at closure properties of regular languages. A theorem of regular languages is that they are equivalent to the class of <em>regular expressions</em>. We know that $latex 0^*$ and $latex 1^*$ are both regular expressions. Furthermore, a theorem states that the class of expressions is closed under concatenation, so the following regular expression (i.e. regular <em>language</em>) $latex 0^*1^*$ <em>is</em> regular! Notice the key difference between this language and the previous two; the fact that we don't have restrictions on the amount of 0s and 1s makes it possible to construct a DFA for this! Such a DFA would be fairly simple to construct -- it would only require three states, one to start and represent the initial zeroes, one to represent the ones, and another to represent the death state, which is when, at any point, we see a 0 following a 1.</p>
+<p>Why is knowing $latex 0^*1^*$ important? The class of regular languages is closed under intersection, so consider the language</p>
+<blockquote><p>$latex \overline{B} \cap 0^*1^* = \{0^k1^k \mid k \ge 0\}$</p></blockquote>
+<p>Where $latex \overline{B}$ represents the complement of $latex B$. Yet another theorem is that regular languages are closed under complements. That is, if $latex B$ is regular, then $latex \overline{B}$ is regular. But notice that if we assume $latex B$ is regular, then the intersection $latex \overline{B} cap 0^*1^*$ must be regular by intersection closure. But we know that the intersection is equal to the canonical non-regular language! Hence, $latex B$ must be non-regular.</p>
+<p><strong><em>The Pumping Lemma</em></strong></p>
+<p>That wasn't too bad, but things will get slightly more complex when we use the pumping lemma. We assume, by way of contradiction, that $latex B$ is regular. Then by the pumping lemma, there exists some string length $latex p$ such that any string in this language that is at least this long can be partitioned into components $latex x, y, z$. Consider the string $latex s = 0^p1^{p! + p} \in B$, which clearly satisfies the minimum length requirement, so it can be pumped. We set $latex x = 0^a, y = 0^b, \mbox{ and } z = 0^{c}1^{p!+p}$, where $latex b \ge 1 \mbox{ and } a+b+c = p$. Let us pump the $latex y$ component $latex i +1 = p!/b + 1$ times in $latex s' = xy^{i+1}z$, which must be in the language by the pumping lemma. But pumping this string turns out to be $latex s' = 0^{a+b+c+p!}1^{p!+p} = 0^{p!+p}1^{p!+p} \not \in B$, a contradiction. Any language that fails the pumping lemma is not regular, so $latex B$ is non-regular.</p>
+<p><strong><em>The Myhill-Nerode Theorem</em></strong></p>
+<p>Knowing how to use the pumping lemma after reading the solution seems simple, but the hard part is actually coming up with the $latex p! + p$ component. We wrap up by using the often easier Myhill-Nerode method to prove that this language is not regular. Let's use the fooling set $latex F = \{0^i \mid i \ge 0\}$. Then for any distinct $latex x, y \in F$, we know that the have a different amount of zeroes in them. Let $latex x = 0^j \mbox{ and } y = 0^k$ Then take $latex z = 1^j$. We know that $latex xz \not \in B$, but we also have $latex yz \in B$ ... so these strings are distinguishable from each other! And since our fooling set is infinite, and any pairs of distinct strings in it are distinguishable, any DFA would have to have an infinite amount of states, which is impossible. Hence, this language is not regular.</p>
+<p>(Personally, I prefer the fooling set method to solving problems ... it's often very simple, and the same fooling sets can be used to prove non-regularity for multiple languages.)</p>
+<p>Up next in my studies are context-free grammars. Stay tuned!</p>
+<p>(On a side note, this is my 50th blog entry.)</p>

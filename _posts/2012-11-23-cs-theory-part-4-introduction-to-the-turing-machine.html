@@ -1,0 +1,50 @@
+---
+layout: post
+title: 'CS Theory Part 4 of 8: Introduction to the Turing Machine'
+date: 2012-11-23 10:01:24.000000000 -08:00
+categories:
+- Computer Science
+tags:
+- theory
+- Turing Machine
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '25629085'
+  _publicize_pending: '1'
+author:
+  login: seitad
+  email: takeshidanny@gmail.com
+  display_name: Daniel Seita
+  first_name: ''
+  last_name: ''
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p><a href="http://seitad.wordpress.com/2012/11/23/cs-theory-part-4-introduction-to-the-turing-machine/turingmachine/" rel="attachment wp-att-783"><img class="aligncenter size-large wp-image-783" title="TuringMachine" alt="" src="assets/turingmachine.png?w=460" width="460" height="255" /></a></p>
+<p>And here we are with what I think is the most important "new" concept in this course: the Turing Machine. Roughly speaking, these are automata that are equivalent in power to what we think of normal computers today. Therefore, any problems that are unsolvable by Turing Machines are beyond the limit of current computation. Let's briefly go over the automata we've seen thus far:</p>
+<ol>
+<li>Finite Automata (DFAs and NFAs)</li>
+<li>Pushdown Automata (PDAs and NPDAs)</li>
+<li>Turing Machines (TMs, NTMs)</li>
+</ol>
+<p>The N's denote the nondeterministic versions. In other words, they allow multiple branches of computation to proceed simultaneously, rather than having one strictly defined path for each input string as would be the case with deterministic automata.</p>
+<p><!--more--></p>
+<p>Here, the automata are listed in order of increasing power. Finite automata recognize the class of regular languages. Pushdown automata recognize the class of context-free languages. All context-free languages are regular, but not all regular languages are context-free. This is why pushdown automata are considered more "powerful" than finite automata, with respect to computability. Their infinite stack gives them more memory that can be useful to solve certain non-regular languages.</p>
+<p>But Turing Machines (abbreviated as TMs), which recognize the class of decidable and recognizable languages (to be explained in a future blog entry), take things a step further. Like finite automata and pushdown automata, TMs have states and use transition functions to determine the correct path through states to take upon reading in an input string. But they have an additional feature called an <em>infinite tape</em> that is depicted in the picture above. There is also a <em>tape head</em> that reads in one symbol from a TM. This is a fairly abstract concept, and it's often surprising to first realize that this simple addition to an automata allows it to recognize the class of all computable functions.</p>
+<p>For instance, if we wanted to compute the value of a function, such as a function that returns a value twice as much as its input (f(x) = 2x), then assuming our alphabet consists of 0s and 1s, the infinite tape <i>starts </i>with the binary symbol for the input, and then once the computation is over, contains the binary symbol for the output. Thus, the infinite tape can be the medium for which input/output occurs. Obviously, a TM must have some way of <i>modifying</i> the tape, and there are two ways of doing so.</p>
+<ol>
+<li>The function $latex \delta(q, a, L) = (q', b)$ means that, <em>if at state q and the head reading in an "a"</em>, the TM will replace the "a" with a "b" on the tape, move to state q', and move the tape head <em>left.</em></li>
+<li>The function $latex \delta(q, a, R) = (q', b)$ means that, <em>if at state q and the head reading in an "a"</em>, the TM will replace the "a" with a "b" on the tape, move to state q', and move the tape head <em>right</em>.</li>
+</ol>
+<p>That's literally all we need to know about a TM's transition function. That the tape head can move along the infinite tape and replace symbols on the tape from anything in the TM's pre-defined "tape alphabet" is what allows a TM to go through a computation. There's a small caveat: we obviously need a place for the tape head to start out on the tape! So when we say the TM's tape is infinite, we really mean it's infinite in the rightward direction. That is, there is a "bumper" that indicates the start of the tape, and the rest of the tape extends to the right. Therefore, if the TM's tape head is on the first symbol of the tape, it can't move left since the bumper prevents it from doing so. Thus, having a transition function that causes the tape head to move left while at the leftmost symbol of the tape will just leave the tape head where it is.</p>
+<p>Another important thing to know about the tape is that, since it's infinite, we need to have a symbol on each component. The input string takes up the first few segments of the tape, but beyond that, the tape is composed of what's known as the <em>blank symbol</em>. These are part of the tape alphabet, so it's legal to put them on the tape, as well as replace them if necessary.</p>
+<p>The infinite tape is not the only feature that makes TMs different from finite automata (for instance, TM's have only one accept and one reject state, and their effects take place immediately), but it's by far the most important one. To understand a TM, it is necessary to have a "good feel" of how the tape works in your head. I can't emphasize this enough. Don't waste time trying to get the technical details of the Turing Machine. Use a high-level view of them. Make sure you get an intuitive understanding of how they work. I like to do this by imagining arbitrary computation paths and moving the tape head around the infinite tape.</p>
+<p>Let's do a quick example question that highlights the importance of understanding how a TM works over the nitty gritty details.</p>
+<p><strong><em>Example Question and Answer</em></strong></p>
+<p><em>Question</em>: Say that a write-once Turing Machine is a single-tape TM that can alter each tape square <em>at most once, </em>including the input portion of the tape. Show that this variant TM model is equivalent to the ordinary TM model.</p>
+<p><em>Answer</em>: We first show how we can use a write-<em>twice</em> TM to simulate an ordinary TM, and then build a write-<em>once</em> TM out of the write-twice TM.</p>
+<p>The write-twice TM simulates one step of the original machine by copying the <em>entire tape over to a fresh portion</em> of the tape to the right of the portion used to hold the input. The copying procedure marks each character as it gets copied, so this procedure alters each tape square twice, once to write the character for the first time, and again to mark that it has been copied, which happens on the following step when the tape is re-copied. When copying the cells at or adjacent to the marked position, the tape content is updated according to the rules of the original TM, which allows this copying procedure to <em>simulate one step</em> of an ordinary TM. (Minor technical detail: we also need to know the location of the original TM's tape head on the corresponding copied symbol.)</p>
+<p>To carry out the simulation with a write-<em>once </em>machine, operate exactly as before, except that each cell of the previous tape is now represented by two cells. The first of these contains the original machine's tape symbol, and the second is for the mark used in the copying procedure. The input is not presented to the machine in the format with two cells per symbol, so the very first time the tape is copied, the copying marks are put directly over the input symbol.</p>
+<p>Quite nice, isn't it?</p>

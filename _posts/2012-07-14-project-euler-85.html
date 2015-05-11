@@ -1,0 +1,63 @@
+---
+layout: post
+title: Project Euler 85
+date: 2012-07-14 23:08:04.000000000 -07:00
+categories:
+- Computer Science
+tags:
+- Project Euler
+- Python
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '25629085'
+author:
+  login: seitad
+  email: takeshidanny@gmail.com
+  display_name: Daniel Seita
+  first_name: ''
+  last_name: ''
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>A few weeks ago, I remember solving a Project Euler question that particularly intrigued me. I saw problems similar to this when I was in middle school, but never recalled myself successfully solving something them. For reference, the problem was <a href="http://projecteuler.net/problem=85">Project Euler 85</a>, counting the number of rectangles in a rectangular grid.</p>
+<p>But when I attempted this particular problem? It took me fewer than thirty minutes to think of a solution and code it. So what changed?</p>
+<blockquote><p>I believe it's been my new algorithmic approach to solving problems.</p></blockquote>
+<p>I fully admit that I'm a brute-force, "try-them-all" kind of person. Whenever I see a problem of the form "<em>How many X satisfy the property Y</em>," my first instinct is to go through all possible candidates of X and store a count of how many satisfy Y. I first approached this problem by remembering what I did years ago -- count rectangles by hand. The questions I experienced back then were much easier in that it was feasible, though time consuming, to actually count all the possible rectangles. Of course, it's so easy to miss or double-count a few rectangles here and there that I was bound to be off in my final answer.</p>
+<p>So I realized I needed a formulaic, or algorithmic, approach to this problem. There had to be some formula out there that could take as input just the dimensions of the largest rectangle, and use that information to compute the total amount of rectangles contained within it.</p>
+<p>There was. I started by counting rectangles by hand for rectangles of a small scope (e.g. a 2x3 one), and then testing my conclusions on other small rectangles. This was my algorithm:</p>
+<blockquote><p>
+total = 0<br />
+for i: 1 to n, inclusive<br />
+for j: 1 to m, inclusive<br />
+total += (n-i+1)*(m-j+1)<br />
+return total.
+</p></blockquote>
+<p>Basically, I consider all the possible dimensions of a smaller rectangle within a larger, n-by-m rectangle. (For instance, I could consider all 1x1 rectangles.) Then I use the (n-i+1)*(m-j+1) formula I derived which computed all the possible rectangles! It was very pleasing for me to solve this problem, and I know that I would be able to solve questions relating to counting rectangles within rectangles with an algorithms-based approach.</p>
+<p>For reference, here was my actual code. It's written in Python. (I used Java to solve the first 50 or so problems, but since then, it's been Python all the way.) The code gave me the correct answer in fewer than five seconds.</p>
+<p>[sourcecode language="python"]<br />
+import math</p>
+<p>def computeRectangles(row, col):<br />
+    total = 0<br />
+    for r in range(1, row + 1):<br />
+        for c in range(1, col + 1):<br />
+            total += (row - r + 1) * (col - c + 1)<br />
+    return total</p>
+<p>smallestDiff = 2000000<br />
+area = -1<br />
+finalRow = -1<br />
+finalCol = -1<br />
+for row in range(1,101):<br />
+    for col in range(1,101):<br />
+        rectangles = computeRectangles(row, col)<br />
+        diff = math.fabs(rectangles - 2000000)<br />
+        if (diff &lt; smallestDiff):<br />
+            area = row * col<br />
+            smallestDiff = diff<br />
+            finalRow = row<br />
+            finalCol = col<br />
+print 'Result: [%s]x[%s] with area of %s.' %(finalRow, finalCol, area)<br />
+[/sourcecode]</p>
+<p>I have to thank Project Euler for not just giving me a medium through which to practice programming, but also for lending me a new perspective on problem solving approaches. I'm just two solutions away from level 3 at this time....</p>
+<p><em>This post is part of a series of posts related with my solutions to selected Project Euler questions.</em></p>

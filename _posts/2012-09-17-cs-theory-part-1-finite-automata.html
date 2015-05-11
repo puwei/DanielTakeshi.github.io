@@ -1,0 +1,70 @@
+---
+layout: post
+title: 'CS Theory Part 1 of 8: Finite Automata'
+date: 2012-09-17 19:35:41.000000000 -07:00
+categories:
+- Computer Science
+tags:
+- automata
+- automaton
+- language
+- machine
+- string
+- theory
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '25629085'
+  geo_public: '0'
+author:
+  login: seitad
+  email: takeshidanny@gmail.com
+  display_name: Daniel Seita
+  first_name: ''
+  last_name: ''
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>As I <a href="http://seitad.wordpress.com/2012/08/14/on-my-new-theory-of-computation-series/">mentioned before</a>, I am writing a series of blog posts on my Theory of Computation class. This particular post will be somewhat image-heavy due to complete lack of experience on how to use LaTeX in accordance with state machine diagrams. Even the LaTeX I embed in these posts doesn't look too great with this background, so I'll have to do some more experiments.</p>
+<p>But anyway, in this class, I'm trying to understand three central areas: <em>automata</em>, <em>computability</em>, and <em>complexity</em>, and they are all linked by the following question:</p>
+<blockquote><p>What are the fundamental capabilities and limitations of computers?</p></blockquote>
+<p>Computability and complexity will come later in the course. Right now we're focusing on automata.</p>
+<p><!--more--></p>
+<p>To start off, let's look at some basic computers, called <em>finite automata</em>. To put things formally, a finite automaton is a 5-tuple $latex (Q, \sum, \delta, q_{1}, F)$, where*</p>
+<ol>
+<li>$latex Q$ is a finite set of states</li>
+<li>$latex \sigma$ is a finite set known as the alphabet</li>
+<li>$latex \delta: Q \times \sigma \longrightarrow Q$ is the transition function</li>
+<li>$latex q_{1} \in Q$ is the start state</li>
+<li>$latex F \subset Q$ is the set of accept states</li>
+</ol>
+<p>But this is very abstract. Let's get more specific by talking about the <em>alphabet</em>, and I'll then return to discuss the other four points. An alphabet is defined to be any nonempty, finite set of symbols. For instance, $latex \sum = \{0,1\}$ is a valid alphabet. And so is the alphabet composed of the 26 letters of the English language.</p>
+<p>Related to alphabets, we have <em>strings</em> and <em>languages</em>. A string is just a <em>finite sequence</em> of characters <em>derived from our alphabet</em>. All the English words I type in this blog entry are strings of the alphabet composed of the 26 letters of the English language. The sequence of symbols in 11001100 is a valid string of the alphabet $latex \sum = \{0,1\}$. Any binary number is a string that can be formed by the alphabet. And a language is a set of these strings.</p>
+<p>Here is the key relation between languages and finite automata.</p>
+<blockquote><p>A language is called a <strong>regular language</strong> if some finite automaton recognizes it.</p></blockquote>
+<p>By definition, a finite automaton will recognize a language if all strings the automaton accepts are members of the language. That's the key. And to indicate what I mean, let's look at a <em>state diagram</em>. Many finite automata can be written using these diagrams, and it's highly advantageous to do so given how intuitive it is. The following is a state diagram of a finite automata that recognizes some language.</p>
+<p><a href="http://seitad.wordpress.com/2012/09/17/cs-theory-part-1-finite-automata/machine1-jpg/" rel="attachment wp-att-717"><img class="aligncenter size-large wp-image-717" title="Machine1.jpg" alt="" src="assets/machine1-e1347921561729.jpg?w=460" width="460" height="276" /></a></p>
+<p>It's a little blurry (future images will be better), but I hope you can still see the interesting symbols. First, there are four large circles, with one having a circle within it. Each of these four circles represents a state. Hence, $latex \{q_{1}, q_{2}, q_{3}, q_{4}\} = Q$, the set of states (#1 on my list above). These are used to represent some situation that we encounter as we progress through a given string.</p>
+<p>We have $latex q_{1}$ forming our <em>start state </em>(#4 on my list above). This means when we progress through a given string, this is where we start before we make any "moves." And $latex q_{4}$ represents the lone accept state, indicated by the double circle outline. We can have multiple -- or zero -- accept states; this particular diagram only has one. If a string ends on one of these states, it's "accepted" by the language. Otherwise, it's rejected.</p>
+<p>When I say "progress through a given string," I refer to the process of determining whether a machine will recognize a certain string, and here is where we use the <em>transition function</em> (#3 on my list above), indicated by arrows in the diagram. Our alphabet in the above example is composed of just 0 and 1, so the machine only works with strings of that form. Let's see what happens when we "input" a few strings into this machine.</p>
+<ol>
+<li>$latex \varepsilon$ -- This is the empty string. We start by going to $latex q_{1}$ and we stop there, since we have no characters left. The finish state is the same as the start state, but this means the empty string is <em>not</em> accepted by the language since it did not finish in state $latex q_{4}$.</li>
+<li>"1" -- Here, we again start at the empty state. From this point forth, always assume we start at the start state. Since we have a "1" this means we go to state $latex q_{3}$ as dictated by the transition function (i.e. arrows). We stop here, because we're out of characters. But unfortunately, "1" did not end in the accept state so, like $latex \varepsilon$, it is not accepted by the machine.</li>
+<li>"0" -- We go from the start state to $latex q_{2}$. Again, we stop, and just as in the previous two examples, the machine doesn't accept the string.</li>
+<li>By now it should be clearer what should be accepted by the machine. Let's go with "10" and see what happens. We start at $latex q_{1}$ as usual.  We proceed to $latex q_{3}$ since we started with a 1. Our next character is a 0, so we go to $latex q_{4}$ and stop there. At last! We have a string that is recognized by the language! So whatever the language is here, it better include "10" but <em>exclude</em> "1", "0", and the empty string.</li>
+<li>Let's try "010". We start by going to $latex q_{2}$ due to the leading zero. Then we have "10" left, so we follow the arrow for the "1" which loops back to the same state. Then our final task is to go where the "0" arrow points to, but again, that goes back to the same $latex q_{2}$ state! Thus, "010" is not accepted by this machine.</li>
+</ol>
+<p>We can go on and on, but at some point, we have to come up with the rules for this language the machine accepts. Notice that state $latex q_{2}$ is a "death" or "trap" state, because as soon as a string enters that state, it <em>must</em> end there. All strings are finite, and no matter what, any symbol we get (which is only a 0 or a 1 here) will lead us back to the same state. In other words, it is impossible for a string to be accepted (i.e. finish at $latex q_{4}$) if it ever enters $latex q_{2}$. This means that <em>if a string has a leading zero, it will never be accepted by the language/machine</em>.</p>
+<p>So now we know the language this machine recognizes must have all strings starting with a 1. But are there further restrictions? The answer is yes. If we have a string that consists of all 1s, then we will always end at $latex q_{3}$ due to the 1 that loops back to that state. This is not an accept state, so we need to consider having a 0 in some string. Notice that the accept state has a 0 that loops back to it. So if a given string ever reaches $latex q_{4}$, as long as it ends in a 0, it will remain in that state and be accepted. It doesn't matter if we have one, five, or a hundred zeroes. The only way a string can leave an accept state is by having a 1, which means that string goes back to $latex q_{3}$. But notice that this is<em> not a death state</em>! It is possible to come back to the accept state if a string is in $latex q_{3}$.</p>
+<p>Now we can formalize things. This state machine recognizes the following language $latex L$:</p>
+<blockquote><p>$latex L = \{x | x \mbox{ is a binary number that begins with a 1 and ends with a 0.} \}$</p></blockquote>
+<p>And we know that this language is <em>regular</em>. (To show a language is regular, it suffices to make a state diagram of a finite automaton.)</p>
+<p>It's also worth pointing out that the diagram I have above should represent the simplest possible state machine that accepts this language. There are infinitely many other diagrams that would also accept this language.</p>
+<p>Now that was a simple example. I want to bring up a more complicated question that uses these same concepts.</p>
+<p><em><strong>Interesting Question</strong></em></p>
+<blockquote><p>Let $latex A$ be the language consisting of all strings over $latex \{0,1\}$  containing a 1 in the third position from the end.</p></blockquote>
+<p>Designing a finite automata that accepts some language is arguably harder than the reverse process, determining what language is accepted by a given machine. I have my solution to the above question below. The diagram only needs to keep track of the last three digits. There are four accept states that correspond to the last three digits being 100, 101, 110, or 111, which are the four possibilities we could have for the last three symbols of accepted strings. Naturally, the four other non-accept states correspond to the last three symbols being 000, 001, 010, or 011.</p>
+<p><a href="http://seitad.wordpress.com/2012/09/17/cs-theory-part-1-finite-automata/machine2-jpg/" rel="attachment wp-att-725"><img class="aligncenter size-large wp-image-725" title="Machine2.jpg" alt="" src="assets/machine2.jpg?w=460" width="460" height="276" /></a></p>
+<p>Up to now, I assumed that my finite automaton were deterministic, so it was always possible to know what was happening. But soon I'll be moving on to <em>non-deterministic</em> finite automaton ...</p>
+<p>(*) From my textbook, <em>Introduction to the Theory of Computation</em>, Third Edition, by Michael Sipser.</p>

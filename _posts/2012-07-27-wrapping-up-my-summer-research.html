@@ -1,0 +1,31 @@
+---
+layout: post
+title: Wrapping Up my Summer Research
+date: 2012-07-27 21:51:52.000000000 -07:00
+categories:
+- Computer Science
+tags:
+- Bard College
+- machine learning
+- research
+- summer
+status: publish
+type: post
+published: true
+meta:
+  _edit_last: '25629085'
+author:
+  login: seitad
+  email: takeshidanny@gmail.com
+  display_name: Daniel Seita
+  first_name: ''
+  last_name: ''
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>I've written my final report to the National Science Foundation for my summer work at the 2012 <a href="http://seitad.wordpress.com/2012/06/03/summer-at-bard/">Bard College Mathematics &amp; Computation Research Experience for Undergraduates</a>. My project focused on <em>text simplification</em>, which can be broadly defined as the process of making (English) text easier to read while maintaining as much underlying content as possible. I would consider it to be a subfield of <em>machine learning</em>, which is a branch of artificial intelligence.</p>
+<p>The primary objective of my work was to improve on existing results of text simplification. There is no standard way to measure the quality of simplification, so my research team -- consisting of me, another undergraduate, and two Bard college professors -- decided to use <a href="http://en.wikipedia.org/wiki/BLEU">BLEU scores</a>. The advantage to using those scores is that, in the summer of 2011, another research group used it as a measure of their level of simplification. Our goal was to beat their BLEU scores.</p>
+<p>To carry out the translation process, we used the open-source <a href="http://www.statmt.org/moses/index.php?n=Main.HomePage">Moses</a> software. To train the system to simplify text, we used aligned, parallel data from Wikipedia and <a href="http://simple.wikipedia.org/wiki/Main_Page">Simple English Wikipedia</a>. Moses is designed to be able to translate across different languages, but we considered "Simple English" as its own language. Thus, we viewed the project as encompassing an English-to-English translation problem, where the "foreign" language is derived from Wikipedia, and the "simple" language is derived from Simple English Wikipedia. Our hope was that Moses would be able to understand the steps involved in making English text simpler and act as an effective means of translation.</p>
+<p>We soon discovered, though, that our parallel data was of low quality. We therefore used the <a href="http://www.csie.ntu.edu.tw/~cjlin/libsvm/">LIBSVM</a> and <a href="http://www.csie.ntu.edu.tw/~cjlin/liblinear/">LIBLINEAR</a> classification softwares to improve the data by switching or deleting certain pairs of lines from the parallel corpus. For instance, if there was a short sentence in the Wikipedia data that was aligned to an obviously more complex sentence from the Simple English Wikipedia data, it made sense to switch those two sentences so they were in the more appropriate data set. After all, the data was made by random people contributing to the two Wikipedias, so there were bound to be a few bad samples here and there.</p>
+<p>Our group successfully classified a random sample of sentences as belonging to the Wikipedia set or the Simple English Wikipedia set with a higher degree of accuracy than previous researchers did. My professors are still performing some experiments, so it remains to be seen if we can get higher BLEU scores.</p>
+<p>Overall, I'm glad I had the chance to participate in the Bard REU, and I'm optimistic that we will produce a strong research paper. I thank the professors there for accepting me into their program, and the National Science Foundation, which has now sponsored my second straight summer program.</p>
