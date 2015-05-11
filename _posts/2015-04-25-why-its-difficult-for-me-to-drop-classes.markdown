@@ -1,30 +1,8 @@
 ---
 layout: post
+comments: true
 title:  "Why It's Difficult for me to Drop Classes"
 date:   2015-04-25 20:16:24.000000000 -07:00
-categories:
-- Deaf
-tags:
-- accommodations
-- Berkeley classes
-- Berkeley student
-- convex optimization
-- Disability Access Services
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '25629085'
-  geo_public: '0'
-  _publicize_pending: '1'
-author:
-  login: seitad
-  email: takeshidanny@gmail.com
-  display_name: Daniel Seita
-  first_name: ''
-  last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
 ---
 
 At this time, many Berkeley students are selecting their tentative courses for the Fall 2015
