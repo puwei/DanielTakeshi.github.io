@@ -1,7 +1,6 @@
 ---
 title: Hello world!
 layout: post
-permalink: /?p=1
 categories:
   - Uncategorized
 ---
