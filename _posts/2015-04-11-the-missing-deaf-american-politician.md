@@ -16,7 +16,9 @@ tags:
   - Scott Walker
   - U.S. President
 ---
-[<img class="aligncenter size-full wp-image-2366" src="http://www.seitad.com/wp-content/uploads/2015/04/dem-2016-clinton-banner.jpg" alt="Hillary Rodham Clinton" width="640" height="163" />][1]It&#8217;s time to gear up for the 2016 United States Presidential election race! [Ted Cruz][2], [Rand Paul][3], [Hillary Clinton][4], and [Marco Rubio][5] &#8212; in that order &#8212; have all announced or will announce that they will be running for president.
+[<img class="aligncenter size-full wp-image-2366" src="http://www.seitad.com/wp-content/uploads/2015/04/dem-2016-clinton-banner.jpg" alt="Hillary Rodham Clinton" width="640" height="163" />][1]
+
+It&#8217;s time to gear up for the 2016 United States Presidential election race! [Ted Cruz][2], [Rand Paul][3], [Hillary Clinton][4], and [Marco Rubio][5] &#8212; in that order &#8212; have all announced or will announce that they will be running for president.
 
 Now marks the beginning of the inevitable wait until Rand Paul becomes the next president. But in the meantime, I wonder about whether the United States has ever had a prominent deaf politician. Anyone in the Senate? How about the House of Representatives? Or even a member in a state legislature, or a mayor for a large city? Due to their average age, I&#8217;m sure we have had some slightly hearing-impaired politicians, but those don&#8217;t count to me. I&#8217;m talking about someone who was born deaf or became deaf at a young age, and who knows sign language, *and* who has strong connections to the Deaf community? Here, I&#8217;m using the capital &#8220;D&#8221; to indicate association with the community.
 
