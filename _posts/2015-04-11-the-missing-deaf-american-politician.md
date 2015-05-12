@@ -2,7 +2,6 @@
 title: The Missing Deaf American Politician
 author: Daniel Seita
 layout: post
-permalink: /?p=2358
 geo_public:
   - 0
   - 0
