@@ -2,7 +2,6 @@
 title: 'Why It&#8217;s Difficult for me to Drop Classes'
 author: takeshidanny@gmail.com
 layout: post
-permalink: /?p=2391
 geo_public:
   - 0
   - 0
