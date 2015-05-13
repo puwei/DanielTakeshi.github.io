@@ -2,7 +2,7 @@
 title: 'What&#8217;s it Like Being an Undergraduate Teaching Assistant?'
 author: Daniel Seita
 layout: post
-permalink: /?p=941
+permalink: /2013/04/26/whats-it-like-being-an-undergraduate-teaching-assistant/
 categories:
   - Everything Else
 tags:

@@ -2,9 +2,7 @@
 title: 'An Inside View of RIT&#8217;s Accommodation Policy and its Limitations'
 author: Daniel Seita
 layout: post
-permalink: /?p=926
-dsq_thread_id:
-  - 3755963458
+permalink: /2013/04/13/an-inside-view-of-rits-accommodation-policies-and-its-limitations/
 categories:
   - Deaf
 tags:

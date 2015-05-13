@@ -2,9 +2,8 @@
 title: 'Machine Learning (Part 1 of 4): Introduction'
 author: Daniel Seita
 layout: post
-permalink: /?p=1200
+permalink: /2013/07/24/machine-learning-part-1-of-4-introduction/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -13,7 +12,7 @@ tags:
   - decision stumps
   - machine learning
 ---
-[<img class="aligncenter size-medium wp-image-1283" alt="Machine_Learning" src="http://www.seitad.com/wp-content/uploads/2013/07/machine_learning.jpg?w=300" width="300" height="199" />][1]
+[<img class="aligncenter size-medium wp-image-1283" alt="Machine_Learning" src="http://seitad.files.wordpress.com/2013/07/machine_learning.jpg?w=300" width="300" height="199" />][1]
 
 This summer, I&#8217;ve spent a good amount of time analyzing the content of my blog. By looking at the composition of my computer science entries, I realized that I don&#8217;t talk about the subject material in my *classes* a whole lot. Most of my posts in that category are related to programming, research, and other areas. I do have four course-related posts thus far in a &#8220;theory of computation&#8221; series, which you can access by looking at the recently-added [directory][2] of blog entries, but other than that, there&#8217;s honestly not much.
 
@@ -75,7 +74,7 @@ In the next post, I&#8217;ll discuss an obvious extension of this problem to *d
 
 (Image from BYU)
 
- [1]: http://www.seitad.com/wp-content/uploads/2013/07/machine_learning.jpg
+ [1]: http://seitad.files.wordpress.com/2013/07/machine_learning.jpg
  [2]: http://seitad.wordpress.com/detailed-directory-of-blog-entries/
  [3]: http://en.wikipedia.org/wiki/Precision_and_recall
  [4]: http://en.wikipedia.org/wiki/Overfitting

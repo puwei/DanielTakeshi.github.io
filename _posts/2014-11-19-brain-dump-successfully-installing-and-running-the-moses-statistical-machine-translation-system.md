@@ -1,10 +1,9 @@
 ---
 title: 'Brain Dump: Successfully Installing and Running the Moses Statistical Machine Translation System'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=2080
+permalink: /2014/11/19/brain-dump-successfully-installing-and-running-the-moses-statistical-machine-translation-system/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science

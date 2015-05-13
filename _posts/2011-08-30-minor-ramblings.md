@@ -2,12 +2,9 @@
 title: Minor Ramblings
 author: Daniel Seita
 layout: post
-permalink: /?p=31
+permalink: /2011/08/30/minor-ramblings/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755961266
 categories:
   - Everything Else
 tags:

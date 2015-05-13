@@ -2,9 +2,7 @@
 title: Technical Term Dilemma
 author: Daniel Seita
 layout: post
-permalink: /?p=125
-dsq_thread_id:
-  - 3755961389
+permalink: /2012/02/04/technical-term-dilemma/
 categories:
   - Deaf
 tags:

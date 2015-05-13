@@ -1,10 +1,8 @@
 ---
 title: 'Don&#8217;t Get Hearing Aids with Touch Screens'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=289
-dsq_thread_id:
-  - 3755961765
+permalink: /2012/07/18/dont-get-hearing-aids-with-touch-screens/
 categories:
   - Deaf
 tags:

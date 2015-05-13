@@ -1,10 +1,9 @@
 ---
 title: The Problem with Seminars
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1442
+permalink: /2013/11/10/the-problem-with-seminars/
 geo_public:
-  - 0
   - 0
 categories:
   - Deaf
@@ -14,7 +13,7 @@ tags:
   - education
   - seminar
 ---
-[<img class="aligncenter size-large wp-image-1444" alt="Seminar_Yale" src="http://www.seitad.com/wp-content/uploads/2013/10/seminar_yale.jpg?w=460" width="460" height="307" />][1]
+[<img class="aligncenter size-large wp-image-1444" alt="Seminar_Yale" src="http://seitad.files.wordpress.com/2013/10/seminar_yale.jpg?w=460" width="460" height="307" />][1]
 
 I like the concept of seminar courses. These are typically small classes that feature active discussion and debate each session. At Williams, these courses &#8212; where enrollment is limited to 19 students to comply with U.S. News & World Report standards for &#8220;small class sizes&#8221; &#8212; make up a substantial portion of the humanities curriculum. While there are certainly many wonderful things I can say about seminars, one of my personal gripes is that they pose additional burdens to deaf students.
 
@@ -36,4 +35,4 @@ Fortunately, my teacher recognized the challenges I faced and didn&#8217;t penal
 
 This situation typically happens at the start of class, so there isn&#8217;t a need to make your contribution to the class debate relate to previous comments (a huge plus!). Furthermore, professors often articulate better than students, making it easier for me to rely more on my own hearing. Finally, while this might be entirely anecdotal evidence, I&#8217;ve observed that professors are often more willing to wait a longer time when they open up a discussion than when they&#8217;re in the middle of one.
 
- [1]: http://www.seitad.com/wp-content/uploads/2013/10/seminar_yale.jpg
+ [1]: http://seitad.files.wordpress.com/2013/10/seminar_yale.jpg

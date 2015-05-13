@@ -1,13 +1,10 @@
 ---
 title: After a Few Weeks of CART, Why do I Feel Dissatisfied?
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1978
+permalink: /2014/10/05/after-a-few-weeks-of-cart-why-do-i-feel-dissatisfied/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962551
 categories:
   - Deaf
 tags:
@@ -19,7 +16,7 @@ tags:
   - lecture
   - statistics
 ---
-[<img class="aligncenter size-large wp-image-1995" src="http://www.seitad.com/wp-content/uploads/2014/09/captioning1.jpg?w=460" alt="captioning" width="460" height="127" />][1]
+[<img class="aligncenter size-large wp-image-1995" src="http://seitad.files.wordpress.com/2014/09/captioning.jpg?w=460" alt="captioning" width="460" height="127" />][1]
 
 As I said in a [recent post][2], I&#8217;ve been using a mixture of captioning (also known as [CART][3]) and interpreting services for various Berkeley-related events. For my two classes, I decided to forgo interpreting services in favor of captioning. Part of this was out of a desire to try something new, but I think most of it was because when I was at Williams, I experienced enormous frustration with my inability to sufficiently understand and follow technical lectures with interpreting services. (I had to rely on hours of independent reading before or after the talks for the material to make sense.)
 
@@ -95,7 +92,7 @@ Overall, being in my classes has been an incredibly frustrating experience for m
 
 Nonetheless, I *do* feel like I am learning a lot, and I *do* feel like things will improve as the semester progresses. But in the meantime, I know there&#8217;s only one thing that can make this easier: *doing a ridiculous amount of self-study*. Do the readings, find online tutorials, do whatever it takes to learn the stuff discussed in lecture, ideally *before* the lecture occurs. Doing a ton of reading before lectures has proven to be a rock-solid learning strategy for me.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/09/captioning1.jpg
+ [1]: https://seitad.files.wordpress.com/2014/09/captioning.jpg
  [2]: http://seitad.wordpress.com/2014/09/14/good-news-accommodations-for-berkeley-events-are-quick-and-easy-to-obtain/
  [3]: http://www.washington.edu/doit/Faculty/articles?386
  [4]: http://seitad.wordpress.com/2012/06/23/williams-college-spoils-me/

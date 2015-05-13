@@ -1,13 +1,10 @@
 ---
 title: Any Social Advice for Mingling Sessions?
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=2042
+permalink: /2014/11/02/any-social-advice-for-mingling-sessions/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962418
 categories:
   - Deaf
 tags:
@@ -16,7 +13,7 @@ tags:
   - mingling
   - social
 ---
-[<img class="aligncenter size-large wp-image-2043" src="http://www.seitad.com/wp-content/uploads/2014/11/awards09-alumni-mingling-in-foyer.jpg?w=460" alt="Awards09-Alumni-mingling-in-foyer" width="460" height="306" />][1]
+[<img class="aligncenter size-large wp-image-2043" src="https://seitad.files.wordpress.com/2014/11/awards09-alumni-mingling-in-foyer.jpg?w=460" alt="Awards09-Alumni-mingling-in-foyer" width="460" height="306" />][1]
 
 Lately, I&#8217;ve been disappointed at my lack of ability to effectively socialize in various mingling sessions. Examples of these include the Berkeley graduate student social events, the Williams College math and computer science &#8220;snack/social&#8221; gatherings, research-style poster sessions (see [this Williams math post][2] for some sample images), and basically any kind of party. Typically, if I attend these events, I end up saying hi to a few people, stand around awkwardly by myself for a while, and then leave long before the event concludes, feeling somewhat dejected. This has been an issue throughout my entire life.
 
@@ -34,6 +31,6 @@ I don&#8217;t have any answers to this right now, so I would appreciate any advi
 
 *(Image from Australia China Alumni Association)*
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/11/awards09-alumni-mingling-in-foyer.jpg
+ [1]: https://seitad.files.wordpress.com/2014/11/awards09-alumni-mingling-in-foyer.jpg
  [2]: http://math.williams.edu/williamssmall-gathering-in-san-diego-in-january/
  [3]: http://seitad.wordpress.com/2012/06/30/accommodations-at-conferences-and-talks/

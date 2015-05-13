@@ -2,9 +2,8 @@
 title: 'CS Theory Part 1 of 8: Finite Automata'
 author: Daniel Seita
 layout: post
-permalink: /?p=693
+permalink: /2012/09/17/cs-theory-part-1-finite-automata/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -78,7 +77,7 @@ Now that was a simple example. I want to bring up a more complicated question th
 
 Designing a finite automata that accepts some language is arguably harder than the reverse process, determining what language is accepted by a given machine. I have my solution to the above question below. The diagram only needs to keep track of the last three digits. There are four accept states that correspond to the last three digits being 100, 101, 110, or 111, which are the four possibilities we could have for the last three symbols of accepted strings. Naturally, the four other non-accept states correspond to the last three symbols being 000, 001, 010, or 011.
 
-<a href="http://seitad.wordpress.com/2012/09/17/cs-theory-part-1-finite-automata/machine2-jpg/" rel="attachment wp-att-725"><img class="aligncenter size-large wp-image-725" title="Machine2.jpg" alt="" src="http://www.seitad.com/wp-content/uploads/2012/09/machine2.jpg?w=460" width="460" height="276" /></a>
+<a href="http://seitad.wordpress.com/2012/09/17/cs-theory-part-1-finite-automata/machine2-jpg/" rel="attachment wp-att-725"><img class="aligncenter size-large wp-image-725" title="Machine2.jpg" alt="" src="http://seitad.files.wordpress.com/2012/09/machine2.jpg?w=460" width="460" height="276" /></a>
 
 Up to now, I assumed that my finite automaton were deterministic, so it was always possible to know what was happening. But soon I&#8217;ll be moving on to *non-deterministic* finite automaton &#8230;
 

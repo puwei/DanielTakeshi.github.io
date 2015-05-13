@@ -2,9 +2,7 @@
 title: 'Hearing Aids: How They Help, and How They Fall Short in Group Situations'
 author: Daniel Seita
 layout: post
-permalink: /?p=374
-dsq_thread_id:
-  - 3755961826
+permalink: /2012/08/06/hearing-aids-how-they-help-and-how-they-fall-short-in-group-situations/
 categories:
   - Deaf
 tags:
@@ -13,7 +11,7 @@ tags:
 ---
 > Daniel, how much do your hearing aids help you hear?
 
-<a href="http://seitad.wordpress.com/2012/07/30/hearing-aids-how-they-help-and-how-they-fall-short-in-group-situations/starkeyhearingaids/" rel="attachment wp-att-379"><img class="alignright size-thumbnail wp-image-379" title="StarkeyHearingAids" alt="" src="http://www.seitad.com/wp-content/uploads/2012/07/starkeyhearingaids.jpg?w=150" width="150" height="150" /></a> I&#8217;m surprised I don&#8217;t get asked this question often by my classmates, colleagues, professors, and others. Perhaps it&#8217;s because my speaking ability causes hearing people to believe that I can hear as well as them. Or maybe they believe that hearing aids can *cure* hearing loss?
+<a href="http://seitad.wordpress.com/2012/07/30/hearing-aids-how-they-help-and-how-they-fall-short-in-group-situations/starkeyhearingaids/" rel="attachment wp-att-379"><img class="alignright size-thumbnail wp-image-379" title="StarkeyHearingAids" alt="" src="http://seitad.files.wordpress.com/2012/07/starkeyhearingaids.jpg?w=150" width="150" height="150" /></a> I&#8217;m surprised I don&#8217;t get asked this question often by my classmates, colleagues, professors, and others. Perhaps it&#8217;s because my speaking ability causes hearing people to believe that I can hear as well as them. Or maybe they believe that hearing aids can *cure* hearing loss?
 
 Unfortunately, that&#8217;s not what they do. They *amplify* sound, and allows me to *be aware of its existence*. If someone&#8217;s talking, then I *know* that the person is talking, regardless of whether I&#8217;m looking at him or her. The difficulty for me, and for other people who wear hearing aids, is understanding the fine details.
 
@@ -33,7 +31,7 @@ I want to discuss a challenge that occurs often in my life, which is socializing
 
 In the company of just one student, I can easily start and maintain a satisfying conversation. I still have to ask my companion to repeat every fifth or sixth sentence he says, but at least I get the general direction of what we&#8217;re talking about.
 
-<a href="http://seitad.wordpress.com/2012/07/30/hearing-aids-how-they-help-and-how-they-fall-short-in-group-situations/bardsciencecenter/" rel="attachment wp-att-386"><img class="alignleft size-medium wp-image-386" title="BardScienceCenter" alt="" src="http://www.seitad.com/wp-content/uploads/2012/07/bardsciencecenter.jpg?w=200" width="200" height="300" /></a>But things get *exponentially worse* with three, four, and more people. And this is where the hearing aid&#8217;s lack of ability to make sound distinctive hurts me. What typically happens is the other people get involved in a conversation that I can&#8217;t follow. There are multiple factors that hinder my hearing in this kind of situation.
+<a href="http://seitad.wordpress.com/2012/07/30/hearing-aids-how-they-help-and-how-they-fall-short-in-group-situations/bardsciencecenter/" rel="attachment wp-att-386"><img class="alignleft size-medium wp-image-386" title="BardScienceCenter" alt="" src="http://seitad.files.wordpress.com/2012/07/bardsciencecenter.jpg?w=200" width="200" height="300" /></a>But things get *exponentially worse* with three, four, and more people. And this is where the hearing aid&#8217;s lack of ability to make sound distinctive hurts me. What typically happens is the other people get involved in a conversation that I can&#8217;t follow. There are multiple factors that hinder my hearing in this kind of situation.
 
 The first is what I explained before, with the hearing aid&#8217;s difficulty in clarifying amplified sound. Incidentally, I won&#8217;t go into depth on technical reasons, since there are a whole host of articles that such as [this one][2] that talk about hair cells. A second one is that in a group conversation, people often don&#8217;t look directly at me when talking, thus rendering my lip-reading skills useless. (Lip-reading can account for about 25 percent of my comprehension.) Moreover, my hearing aids are designed to best amplify sound when it&#8217;s coming directly at me, towards my eyes, which isn&#8217;t always the case. It&#8217;s even less common if all of us are *moving* (i.e. walking), which adds another roadblock to my comprehension.
 

@@ -2,7 +2,7 @@
 title: Just a Quick October Update
 author: Daniel Seita
 layout: post
-permalink: /?p=728
+permalink: /2012/10/03/just-a-quick-october-update/
 categories:
   - Everything Else
 tags:

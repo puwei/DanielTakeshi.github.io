@@ -1,8 +1,8 @@
 ---
 title: 'Deaf-Friendly Tactic: The Power of Two'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=772
+permalink: /2012/11/21/deaf-friendly-tactic-the-power-of-two/
 categories:
   - Deaf
 tags:

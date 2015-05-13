@@ -1,10 +1,9 @@
 ---
 title: 2014 Williams College Phi Beta Kappa and Sigma Xi
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1814
+permalink: /2014/06/09/2014-williams-college-phi-beta-kappa-and-sigma-xi/
 geo_public:
-  - 0
   - 0
 categories:
   - Everything Else

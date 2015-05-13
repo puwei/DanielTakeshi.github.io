@@ -2,9 +2,7 @@
 title: Meal Signs and a Shift from SEE to ASL
 author: Daniel Seita
 layout: post
-permalink: /?p=105
-dsq_thread_id:
-  - 3755963830
+permalink: /2012/01/11/meal-signs-and-a-shift-from-see-to-asl/
 categories:
   - Deaf
 tags:

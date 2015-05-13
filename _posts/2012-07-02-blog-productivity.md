@@ -2,14 +2,14 @@
 title: Blog Productivity
 author: Daniel Seita
 layout: post
-permalink: /?p=243
+permalink: /2012/07/02/blog-productivity/
 categories:
   - Everything Else
 tags:
   - blog
   - productivity
 ---
-[<img src="http://www.seitad.com/wp-content/uploads/2012/07/blogproductivity.jpg" alt="" title="3d blue Diagram with arrow" width="400" height="300" class="aligncenter size-full wp-image-358" />][1]
+[<img src="http://seitad.files.wordpress.com/2012/07/blogproductivity.jpg" alt="" title="3d blue Diagram with arrow" width="400" height="300" class="aligncenter size-full wp-image-358" />][1]
 
 I just made seven blog entries last June. That&#8217;s how many I had in the rest of 2012 combined, so it&#8217;s clear that I must be doing something different in the summer than during the spring semester.
 
@@ -21,4 +21,4 @@ I hope to maintain this rate of posting during my junior year of college. Since 
 
 On a general note, my recent surge in posting just shows that the more you like an activity or subject, the more productive you will be. That is why I need to make sure that I am deeply passionate about whatever computer science field I intend to study in the future.
 
- [1]: http://www.seitad.com/wp-content/uploads/2012/07/blogproductivity.jpg
+ [1]: http://seitad.files.wordpress.com/2012/07/blogproductivity.jpg

@@ -1,8 +1,8 @@
 ---
 title: 'Harvard and MIT&#8217;s Lack of Closed Captions'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=2405
+permalink: /2015/02/14/harvard-and-mits-lack-of-closed-captions/
 geo_public:
   - 0
 categories:

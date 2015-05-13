@@ -2,9 +2,7 @@
 title: A Summer Without Sign Language Interpreters
 author: Daniel Seita
 layout: post
-permalink: /?p=964
-dsq_thread_id:
-  - 3755961957
+permalink: /2013/05/27/a-summer-without-sign-language-interpreters/
 categories:
   - Deaf
 tags:
@@ -13,7 +11,7 @@ tags:
   - Greensboro
   - REU
 ---
-[<img class="aligncenter size-medium wp-image-965" alt="uncg_fountain" src="http://www.seitad.com/wp-content/uploads/2013/05/uncg_fountain.jpg?w=300" width="300" height="225" />][1]
+[<img class="aligncenter size-medium wp-image-965" alt="uncg_fountain" src="http://seitad.files.wordpress.com/2013/05/uncg_fountain.jpg?w=300" width="300" height="225" />][1]
 
 When I know I&#8217;m participating in some structured activity or event (e.g. an internship), I typically try to get sign language interpreters.
 
@@ -29,7 +27,7 @@ This was clearly a factor in my decision not to have interpreting services at Gr
 
 So this summer, I asked and obtained permission to use Greensboro&#8217;s FM system, the Contego R900. This way, I&#8217;ll be entirely focused on the speaker, which I&#8217;m sure will do wonders for my comprehension. Adding in the fact that the groups at Greensboro will be researching in topics more correlated to each other than the Bard groups means that I am optimistic about what this summer has in store.
 
- [1]: http://www.seitad.com/wp-content/uploads/2013/05/uncg_fountain.jpg
+ [1]: http://seitad.files.wordpress.com/2013/05/uncg_fountain.jpg
  [2]: http://seitad.wordpress.com/2013/03/15/the-university-of-north-carolina-at-greensboro-computer-science-reu/
  [3]: http://seitad.wordpress.com/2012/02/04/technical-term-dilemma/
  [4]: http://www.nytimes.com/2012/12/04/science/sign-language-researchers-broaden-science-lexicon.html?ref=science&_r=0

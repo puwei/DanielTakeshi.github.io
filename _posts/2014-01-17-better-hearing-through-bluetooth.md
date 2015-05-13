@@ -1,10 +1,9 @@
 ---
 title: Better Hearing Through Bluetooth
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1557
+permalink: /2014/01/17/better-hearing-through-bluetooth/
 geo_public:
-  - 0
   - 0
 categories:
   - Deaf

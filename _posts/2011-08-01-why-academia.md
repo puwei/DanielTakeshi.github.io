@@ -1,13 +1,10 @@
 ---
 title: Why Academia?
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=10
+permalink: /2011/08/01/why-academia/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755963970
 categories:
   - Computer Science
 tags:

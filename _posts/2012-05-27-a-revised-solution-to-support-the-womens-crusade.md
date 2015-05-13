@@ -2,9 +2,8 @@
 title: Project Euler 1 in Several Languages
 author: Daniel Seita
 layout: post
-permalink: /?p=140
+permalink: /2012/05/27/a-revised-solution-to-support-the-womens-crusade/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science

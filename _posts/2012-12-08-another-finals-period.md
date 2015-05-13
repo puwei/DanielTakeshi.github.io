@@ -2,7 +2,7 @@
 title: Another Finals Period
 author: Daniel Seita
 layout: post
-permalink: /?p=796
+permalink: /2012/12/08/another-finals-period/
 categories:
   - Everything Else
 tags:

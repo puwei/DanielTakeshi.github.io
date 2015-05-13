@@ -1,8 +1,8 @@
 ---
 title: Do REUs Really Help Diversify The Workforce?
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=839
+permalink: /2013/01/15/do-reus-really-help-diversify-the-workforce/
 categories:
   - Computer Science
 tags:

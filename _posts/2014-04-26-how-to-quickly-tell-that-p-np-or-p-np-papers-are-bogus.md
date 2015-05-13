@@ -1,12 +1,10 @@
 ---
 title: How to Quickly Tell That P = NP or P =/= NP Papers are Bogus
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=2403
+permalink: /2014/04/26/how-to-quickly-tell-that-p-np-or-p-np-papers-are-bogus/
 geo_public:
   - 0
-dsq_thread_id:
-  - 3755962160
 categories:
   - Computer Science
 tags:
@@ -16,7 +14,7 @@ tags:
 ---
 &nbsp;
 
-[<img class="aligncenter size-large wp-image-1770" src="http://www.seitad.com/wp-content/uploads/2014/04/pvsnp1.png?w=460" alt="PvsNP" width="460" height="292" />][1]
+[<img class="aligncenter size-large wp-image-1770" src="http://seitad.files.wordpress.com/2014/04/pvsnp1.png?w=460" alt="PvsNP" width="460" height="292" />][1]
 
 For one of my final projects this semester, I&#8217;m working on something that&#8217;s loosely based off of the [traveling salesman problem][2] (TSP) and the P vs NP question, the latter of which is arguably the most famous open problem in all of computer science. Whoever proves that P = NP, P =/= NP, or that the problem cannot be proved/solved for whatever reason, gets a $1,000,000 prize from the Clay Mathematics Institute.
 
@@ -40,7 +38,7 @@ The use of LaTeX is important to give the impression that one is serious about h
 
 Only one of the papers I checked on that P vs NP page were long enough to my liking. I didn&#8217;t have the time to see all of them, so maybe I am missing a few others. It is worth noting that Zhang&#8217;s paper was around 50 pages.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/04/pvsnp1.png
+ [1]: http://seitad.files.wordpress.com/2014/04/pvsnp1.png
  [2]: http://en.wikipedia.org/wiki/Travelling_salesman_problem
  [3]: http://www.win.tue.nl/~gwoegi/P-versus-NP.htm
  [4]: http://www.simonsfoundation.org/quanta/20130519-unheralded-mathematician-bridges-the-prime-gap/

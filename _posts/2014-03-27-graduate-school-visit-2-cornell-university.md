@@ -1,10 +1,9 @@
 ---
 title: 'Graduate School Visit #2: Cornell University'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1667
+permalink: /2014/03/27/graduate-school-visit-2-cornell-university/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -16,7 +15,7 @@ Sorry for the delay in posting this entry. Cornell&#8217;s visit days happened o
 
 Cornell did not give visiting admits the option to stay with graduate students. Instead, we were all assigned rooms in the Statler Hotel. Not only is this located right in campus, but it&#8217;s literally just a one-minute walk away from Cornell&#8217;s brand-new computer science building, called the Bill & Melinda Gates Hall. (Yes, [sound familiar][1]?)
 
-[<img class="aligncenter size-large wp-image-1683" src="http://www.seitad.com/wp-content/uploads/2014/03/cornell_gatesha.jpg?w=460" alt="Cornell_GatesHa" width="460" height="278" />][2]
+[<img class="aligncenter size-large wp-image-1683" src="http://seitad.files.wordpress.com/2014/03/cornell_gatesha.jpg?w=460" alt="Cornell_GatesHa" width="460" height="278" />][2]
 
 <!--more-->
 
@@ -48,4 +47,4 @@ The third day was fairly relaxed compared to the second day. There was an excell
 Overall, it was another nice visit.
 
  [1]: http://seitad.wordpress.com/2014/02/22/graduate-school-visit-1-the-university-of-texas-at-austin/
- [2]: http://www.seitad.com/wp-content/uploads/2014/03/cornell_gatesha.jpg
+ [2]: http://seitad.files.wordpress.com/2014/03/cornell_gatesha.jpg

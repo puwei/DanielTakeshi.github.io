@@ -1,13 +1,10 @@
 ---
 title: Project Euler 179
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=143
+permalink: /2012/06/01/project-euler-179/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755961542
 categories:
   - Computer Science
 tags:

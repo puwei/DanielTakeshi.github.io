@@ -2,9 +2,8 @@
 title: Programming Project Ideas for Summer 2014
 author: Daniel Seita
 layout: post
-permalink: /?p=1515
+permalink: /2013/12/30/programming-project-ideas-for-summer-2014/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science

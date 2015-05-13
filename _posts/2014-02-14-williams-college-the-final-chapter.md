@@ -1,13 +1,10 @@
 ---
 title: 'Williams College: The Final Chapter'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1630
+permalink: /2014/02/14/williams-college-the-final-chapter/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962950
 categories:
   - Everything Else
 tags:

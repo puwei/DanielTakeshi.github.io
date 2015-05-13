@@ -2,12 +2,9 @@
 title: My Williams College Mathematics Colloquium Talk
 author: Daniel Seita
 layout: post
-permalink: /?p=1410
+permalink: /2013/09/17/my-williams-college-mathematics-colloquium-talk/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755963143
 categories:
   - Computer Science
 tags:

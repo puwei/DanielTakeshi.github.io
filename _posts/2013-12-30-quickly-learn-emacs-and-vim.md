@@ -1,13 +1,10 @@
 ---
 title: Quickly Learn emacs and vim
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1487
+permalink: /2013/12/30/quickly-learn-emacs-and-vim/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755963085
 categories:
   - Computer Science
 tags:
@@ -16,7 +13,7 @@ tags:
   - text editor
   - vim
 ---
-[<img class="aligncenter size-large wp-image-1493" alt="emacs_tutorial" src="http://www.seitad.com/wp-content/uploads/2013/12/emacs_tutorial.png?w=460" width="460" height="383" />][1]
+[<img class="aligncenter size-large wp-image-1493" alt="emacs_tutorial" src="http://seitad.files.wordpress.com/2013/12/emacs_tutorial.png?w=460" width="460" height="383" />][1]
 
 Programming as part of a large project, such as building a new C++ compiler from scratch, is vastly different compared to a smaller task, like writing a script to answer a random [Project Euler][2] question. Large projects typically involve too many files interacting with each other to work on a single program in isolation (for instance, it can be confusing to know what methods to refer to from another program in a file), so using an advanced [integrated development environment][3] (IDE) like [Eclipse][4] is probably the norm. For smaller tasks, two of the most commonly used text editors by programmers are [emacs][5] and [vim][6].
 
@@ -50,7 +47,7 @@ It&#8217;s still useful to know the emacs commands, because they often work in o
 
 To wrap up this post, I suggest that knowing one of emacs or vim well is important for (computer science) graduate school since programming is a huge part of research today, so the faster things get done, the better. Moreover, university professors tend to take on more of a &#8220;leader&#8221; role rather than someone who &#8220;gets things done&#8221; (I&#8217;m not trying to disparage professors here). In other words, they tell the graduate students what to do in research projects and the students will write the necessary programs.
 
- [1]: http://www.seitad.com/wp-content/uploads/2013/12/emacs_tutorial.png
+ [1]: http://seitad.files.wordpress.com/2013/12/emacs_tutorial.png
  [2]: http://projecteuler.net/
  [3]: http://en.wikipedia.org/wiki/Integrated_development_environment
  [4]: http://www.eclipse.org/

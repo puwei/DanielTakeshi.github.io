@@ -2,12 +2,9 @@
 title: Programming with Java, Swing, and Squint
 author: Daniel Seita
 layout: post
-permalink: /?p=1372
+permalink: /2013/08/22/programming-with-java-swing-and-squint/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755963197
 categories:
   - Computer Science
 tags:

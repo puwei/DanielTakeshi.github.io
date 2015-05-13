@@ -2,9 +2,8 @@
 title: The 2013 Turing Award and the 2014 Computer Science Ph.D. Rankings
 author: Daniel Seita
 layout: post
-permalink: /?p=1664
+permalink: /2014/03/19/the-2013-turing-award-and-the-2014-computer-science-ph-d-rankings/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science

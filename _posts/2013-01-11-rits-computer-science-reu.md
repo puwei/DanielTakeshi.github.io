@@ -2,9 +2,7 @@
 title: 'RIT&#8217;s Computer Science REU'
 author: Daniel Seita
 layout: post
-permalink: /?p=832
-dsq_thread_id:
-  - 3755963589
+permalink: /2013/01/11/rits-computer-science-reu/
 categories:
   - Computer Science
 tags:

@@ -2,14 +2,14 @@
 title: 'CS Theory Part 4 of 8: Introduction to the Turing Machine'
 author: Daniel Seita
 layout: post
-permalink: /?p=759
+permalink: /2012/11/23/cs-theory-part-4-introduction-to-the-turing-machine/
 categories:
   - Computer Science
 tags:
   - theory
   - Turing Machine
 ---
-<a href="http://seitad.wordpress.com/2012/11/23/cs-theory-part-4-introduction-to-the-turing-machine/turingmachine/" rel="attachment wp-att-783"><img class="aligncenter size-large wp-image-783" title="TuringMachine" alt="" src="http://www.seitad.com/wp-content/uploads/2012/11/turingmachine.png?w=460" width="460" height="255" /></a>
+<a href="http://seitad.wordpress.com/2012/11/23/cs-theory-part-4-introduction-to-the-turing-machine/turingmachine/" rel="attachment wp-att-783"><img class="aligncenter size-large wp-image-783" title="TuringMachine" alt="" src="http://seitad.files.wordpress.com/2012/11/turingmachine.png?w=460" width="460" height="255" /></a>
 
 And here we are with what I think is the most important &#8220;new&#8221; concept in this course: the Turing Machine. Roughly speaking, these are automata that are equivalent in power to what we think of normal computers today. Therefore, any problems that are unsolvable by Turing Machines are beyond the limit of current computation. Let&#8217;s briefly go over the automata we&#8217;ve seen thus far:
 

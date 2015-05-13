@@ -2,12 +2,9 @@
 title: 'Good News: Accommodations for Berkeley Events are Quick and Easy to Obtain'
 author: Daniel Seita
 layout: post
-permalink: /?p=1980
+permalink: /2014/09/14/good-news-accommodations-for-berkeley-events-are-quick-and-easy-to-obtain/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962527
 categories:
   - Deaf
 tags:
@@ -19,7 +16,7 @@ tags:
   - Disability Access Services
   - event
 ---
-[<img class="aligncenter size-large wp-image-1985" src="http://www.seitad.com/wp-content/uploads/2014/09/berkeley_access1.png?w=460" alt="berkeley_access" width="460" height="283" />][1]
+[<img class="aligncenter size-large wp-image-1985" src="http://seitad.files.wordpress.com/2014/09/berkeley_access.png?w=460" alt="berkeley_access" width="460" height="283" />][1]
 
 I&#8217;ve only been a Berkeley student for about three weeks, but I&#8217;m already appreciating how quick and easy it has been to get accommodations for various events. To do so, one just needs to go to the [Disability Access Services website][2], fill out a two-page online form, and submit. I&#8217;ve filed about half a dozen requests already, an indication of how many meetings I&#8217;ll need to be attending to during my time in Berkeley. (Though I&#8217;m probably better off than the tenured professors here in that regard.)
 
@@ -29,6 +26,6 @@ Not only is it easy to obtain these services, it&#8217;s also quite reliable. I&
 
 I think even people who aren&#8217;t affiliated with Berkeley in some way can request accommodations for events, though they might need to pay a small fee. Berkeley students can get them for free.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/09/berkeley_access1.png
+ [1]: https://seitad.files.wordpress.com/2014/09/berkeley_access.png
  [2]: http://access.berkeley.edu/
  [3]: http://dsp.berkeley.edu/

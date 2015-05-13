@@ -5,6 +5,8 @@ layout: page
 geo_public:
   - 0
   - 0
+  - 0
+  - 0
 dsq_thread_id:
   - 3755962222
 ---

@@ -2,9 +2,8 @@
 title: Review of Natural Language Processing (CS 288) at Berkeley
 author: Daniel Seita
 layout: post
-permalink: /?p=2166
+permalink: /2015/02/14/review-of-natural-language-processing-cs-288-at-berkeley/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -16,7 +15,7 @@ tags:
   - natural language processing
   - programming projects
 ---
-[<img class="aligncenter size-large wp-image-2167" src="http://www.seitad.com/wp-content/uploads/2014/12/siri.jpg?w=460" alt="siri" width="460" height="283" />][1]This is the much-delayed review of the other class I took last semester. [I wrote a little bit about Statistical Learning Theory a few <del>weeks</del> months ago][2], and now, I&#8217;ll discuss Natural Language Processing (NLP). Part of my delay is due to the fact that the semester&#8217;s well underway now, and I have real work to do. But another reason could be because this class was so incredibly stressful, more so than *any other class* I have ever taken, and I needed some amount of time to pass before writing this.
+[<img class="aligncenter size-large wp-image-2167" src="https://seitad.files.wordpress.com/2014/12/siri.jpg?w=460" alt="siri" width="460" height="283" />][1]This is the much-delayed review of the other class I took last semester. [I wrote a little bit about Statistical Learning Theory a few <del>weeks</del> months ago][2], and now, I&#8217;ll discuss Natural Language Processing (NLP). Part of my delay is due to the fact that the semester&#8217;s well underway now, and I have real work to do. But another reason could be because this class was so incredibly stressful, more so than *any other class* I have ever taken, and I needed some amount of time to pass before writing this.
 
 Before I get to that, let&#8217;s discuss what the class is about. Natural Language Processing (CS 288) is about the study of natural languages as it pertains to computers. It applies knowledge from linguistics and machine learning to develop algorithms that computers can run to perform a variety of language-related applications, such as automatic speech recognition, parsing, and machine translation. My class, being in the computer science department, was focused on the *statistical* portion of NLP, where we focus on the efficiencies of algorithms and justify them probabilistically.
 
@@ -24,7 +23,7 @@ At Berkeley, NLP seems to be offered every other year to train future NLP resear
 
 CS 288 was a typical lecture class, and the grading was based exclusively on five programming projects. They were not exactly easy. Look at the following slide that Dan put up on the first day of class:
 
-[<img class="alignnone size-large wp-image-2264 aligncenter" src="http://www.seitad.com/wp-content/uploads/2015/01/cs288_slide.png?w=460" alt="CS288_Slide" width="460" height="345" />][4]I come into every upper-level computer science expecting to be worked to oblivion, so this slide didn&#8217;t intimidate me, but seeing that text there gave me an initial extra &#8220;edge&#8221; to make sure I was focused, doing work early, and engaging in other good habits.
+[<img class="alignnone size-large wp-image-2264 aligncenter" src="https://seitad.files.wordpress.com/2015/01/cs288_slide.png?w=460" alt="CS288_Slide" width="460" height="345" />][4]I come into every upper-level computer science expecting to be worked to oblivion, so this slide didn&#8217;t intimidate me, but seeing that text there gave me an initial extra &#8220;edge&#8221; to make sure I was focused, doing work early, and engaging in other good habits.
 
 Let&#8217;s talk about the fun part: the projects! There were five of them:
 
@@ -50,10 +49,10 @@ Overall verdict: I was fascinated with *the material itself*, and reasonably lik
 
 Wow, I&#8217;m happy the class is done. Oh, and I am also officially *done* with all forms of CART.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/12/siri.jpg
+ [1]: https://seitad.files.wordpress.com/2014/12/siri.jpg
  [2]: https://seitad.wordpress.com/2014/12/30/review-of-statistical-learning-theory-cs-281a-at-berkeley/
  [3]: http://machinelearning.wustl.edu/mlpapers/paper_files/BleiNJ03.pdf
- [4]: http://www.seitad.com/wp-content/uploads/2015/01/cs288_slide.png
+ [4]: https://seitad.files.wordpress.com/2015/01/cs288_slide.png
  [5]: http://www.cs.berkeley.edu/~klein/cs288/fa14/assignment1.pdf
  [6]: http://www.cs.berkeley.edu/~klein/cs288/fa14/assign_speech.pdf
  [7]: http://www.cs.berkeley.edu/~klein/cs288/fa14/assign_parsing.pdf

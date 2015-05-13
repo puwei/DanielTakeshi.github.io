@@ -2,9 +2,8 @@
 title: Detection Theory Adventures (a.k.a. a Final Project)
 author: Daniel Seita
 layout: post
-permalink: /?p=2126
+permalink: /2014/12/18/detection-theory-adventures-a-k-a-a-final-project/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science

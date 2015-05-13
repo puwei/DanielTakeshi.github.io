@@ -2,9 +2,8 @@
 title: Voice Recognition on Google Chrome
 author: Daniel Seita
 layout: post
-permalink: /?p=1472
+permalink: /2013/12/25/voice-search-on-google-chrome/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -13,7 +12,7 @@ tags:
   - Google
   - voice recognition
 ---
-[<img class="aligncenter size-large wp-image-1476" alt="GoogleVoiceRecognition" src="http://www.seitad.com/wp-content/uploads/2013/12/googlevoicerecognition.png?w=460" width="460" height="253" />][1]
+[<img class="aligncenter size-large wp-image-1476" alt="GoogleVoiceRecognition" src="http://seitad.files.wordpress.com/2013/12/googlevoicerecognition.png?w=460" width="460" height="253" />][1]
 
 About a month ago, Google Chrome released [voice search and voice action][2]. The main idea is that we can literally just talk to the computer while browsing Google, and it will respond with (ideally) what you wanted. This feature isn&#8217;t limited to just browsing Google, though. It&#8217;s also possible to tell Google to start an email, or to find information about people in your contacts list.
 
@@ -33,6 +32,6 @@ To recap:
   4. Potentially a privacy concern
   5. Definitely opens up additional areas for future work/research
 
- [1]: http://www.seitad.com/wp-content/uploads/2013/12/googlevoicerecognition.png
+ [1]: http://seitad.files.wordpress.com/2013/12/googlevoicerecognition.png
  [2]: https://support.google.com/chrome/answer/1331723?hl=en
  [3]: https://support.google.com/websearch/answer/3542118

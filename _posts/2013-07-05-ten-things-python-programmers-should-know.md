@@ -2,15 +2,11 @@
 title: Ten Things Python Programmers Should Know
 author: Daniel Seita
 layout: post
-permalink: /?p=993
+permalink: /2013/07/05/ten-things-python-programmers-should-know/
 tagazine-media:
-  - 'a:7:{s:7:"primary";s:62:"http://seitad.files.wordpress.com/2013/07/python_terminal1.png";s:6:"images";a:1:{s:62:"http://seitad.files.wordpress.com/2013/07/python_terminal1.png";a:6:{s:8:"file_url";s:62:"http://seitad.files.wordpress.com/2013/07/python_terminal1.png";s:5:"width";i:623;s:6:"height";i:251;s:4:"type";s:5:"image";s:4:"area";i:156373;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:1;s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2013-07-05 22:08:46";}'
   - 'a:7:{s:7:"primary";s:62:"http://seitad.files.wordpress.com/2013/07/python_terminal1.png";s:6:"images";a:1:{s:62:"http://seitad.files.wordpress.com/2013/07/python_terminal1.png";a:6:{s:8:"file_url";s:62:"http://seitad.files.wordpress.com/2013/07/python_terminal1.png";s:5:"width";i:623;s:6:"height";i:251;s:4:"type";s:5:"image";s:4:"area";i:156373;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:1;s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2013-07-05 22:08:46";}'
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755963372
 categories:
   - Computer Science
 tags:
@@ -73,7 +69,7 @@ So why is the Python shell so useful? Simply put, it lets you test out simple co
 
 Below, I&#8217;ve included a screenshot of me performing some commands on my Macbook Pro&#8217;s Terminal, using the 3.3 Python shell. (Click to enlarge.)
 
-[<img class="aligncenter size-medium wp-image-1114" alt="Python_Terminal" src="http://www.seitad.com/wp-content/uploads/2013/07/python_terminal1.png?w=300" width="300" height="120" />][10]
+[<img class="aligncenter size-medium wp-image-1114" alt="Python_Terminal" src="http://seitad.files.wordpress.com/2013/07/python_terminal1.png?w=300" width="300" height="120" />][10]
 
 This set of commands sets up an empty list (&#8220;list1&#8243;) and adds to it all the *even* integers in the range [2, 16).
 
@@ -417,7 +413,7 @@ If you have any further questions or comments, feel free to reply to this post o
  [7]: http://www.uncg.edu/cmp/reu/index.html
  [8]: Nevertheless, after digesting the changes, you’ll find that Python really hasn’t changed all that much – by and large, we’re mostly fixing well-known annoyances and warts, and removing a lot of old cruft.
  [9]: http://www.cygwin.com/
- [10]: http://www.seitad.com/wp-content/uploads/2013/07/python_terminal1.png
+ [10]: http://seitad.files.wordpress.com/2013/07/python_terminal1.png
  [11]: http://docs.python.org/3.3/library/os.html
  [12]: http://docs.python.org/3.3/library/sys
  [13]: http://en.wikipedia.org/wiki/K-means_clustering

@@ -1,10 +1,9 @@
 ---
 title: On the Hardness of Nintendo Games
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=128
+permalink: /2012/03/30/on-the-hardness-of-nintendo-games/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science

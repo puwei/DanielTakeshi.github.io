@@ -2,9 +2,8 @@
 title: 'Richard Ladner&#8217;s Path from Theoretical Computer Science to Accessibility Technology'
 author: Daniel Seita
 layout: post
-permalink: /?p=2049
+permalink: /2014/11/08/richard-ladners-path-from-theoretical-computer-science-to-accessibility-technology/
 geo_public:
-  - 0
   - 0
 categories:
   - Deaf

@@ -1,10 +1,9 @@
 ---
 title: Make the Best Peer Reviews Public
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=2316
+permalink: /2015/02/28/make-the-best-peer-reviews-public/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -14,7 +13,7 @@ tags:
   - NIPS
   - peer review
 ---
-[<img class="aligncenter size-full wp-image-2317" src="http://www.seitad.com/wp-content/uploads/2015/02/nips-2014-poster-thumbnail1.png" alt="NIPS-2014-Poster-Thumbnail" width="300" height="204" />][1]The annual Neural Information Processing Systems (NIPS) conference is arguably the premier machine learning conference along with the International Conference on Machine Learning (ICML). I read a lot of NIPS papers, and one thing I&#8217;ve only recently found out was that NIPS actually makes the paper reviews (somewhat) public.
+[<img class="aligncenter size-full wp-image-2317" src="https://seitad.files.wordpress.com/2015/02/nips-2014-poster-thumbnail.png" alt="NIPS-2014-Poster-Thumbnail" width="300" height="204" />][1]The annual Neural Information Processing Systems (NIPS) conference is arguably the premier machine learning conference along with the International Conference on Machine Learning (ICML). I read a lot of NIPS papers, and one thing I&#8217;ve only recently found out was that NIPS actually makes the paper reviews (somewhat) public.
 
 As I understand it, the way NIPS works is:
 
@@ -34,7 +33,7 @@ You might ask, why not make the identity of reviewers known for *all* reviews (o
 
 These are just my ideas, but I am not the only one thinking about the academic publishing model. There&#8217;s been a lot of discussion on how to change the computer science conference model (see, for instance, &#8220;[Time For Computer Science to Grow Up][4]&#8220;), but at least for the current model, NIPS got it mostly right by making reviews somewhat public. I argue that one additional step towards greater clarity would be helpful to the machine learning field.
 
- [1]: http://www.seitad.com/wp-content/uploads/2015/02/nips-2014-poster-thumbnail1.png
+ [1]: https://seitad.files.wordpress.com/2015/02/nips-2014-poster-thumbnail.png
  [2]: http://papers.nips.cc/
  [3]: http://nips.cc/Conferences/2013/PaperInformation/ReviewerInstructions
  [4]: http://cacm.acm.org/magazines/2009/8/34492-viewpoint-time-for-computer-science-to-grow-up/fulltext

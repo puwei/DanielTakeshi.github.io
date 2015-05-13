@@ -1,8 +1,8 @@
 ---
 title: Accommodations at Conferences and Talks
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=237
+permalink: /2012/06/30/accommodations-at-conferences-and-talks/
 categories:
   - Deaf
 tags:

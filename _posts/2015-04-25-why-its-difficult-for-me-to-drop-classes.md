@@ -1,12 +1,14 @@
 ---
 title: 'Why It&#8217;s Difficult for me to Drop Classes'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
+permalink: /2015/04/25/why-its-difficult-for-me-to-drop-classes/
 geo_public:
   - 0
-  - 0
 dsq_thread_id:
-  - 3755943325
+  - 3758940543
+dsq_needs_sync:
+  - 1
 categories:
   - Deaf
 tags:

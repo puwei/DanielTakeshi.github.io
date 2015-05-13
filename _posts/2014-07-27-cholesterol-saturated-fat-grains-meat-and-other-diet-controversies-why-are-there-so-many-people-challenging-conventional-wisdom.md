@@ -2,12 +2,9 @@
 title: 'Cholesterol, Saturated Fat, Grains, Meat, and Other Diet Controversies: why are There so Many People Challenging Conventional Wisdom?'
 author: Daniel Seita
 layout: post
-permalink: /?p=1866
+permalink: /2014/07/27/cholesterol-saturated-fat-grains-meat-and-other-diet-controversies-why-are-there-so-many-people-challenging-conventional-wisdom/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962717
 categories:
   - Everything Else
 tags:
@@ -21,7 +18,7 @@ tags:
   - sugar
   - The China Study
 ---
-[<img class="alignright wp-image-1902 size-medium" src="http://www.seitad.com/wp-content/uploads/2014/07/good-calories1.jpg?w=195" alt="" width="195" height="300" />][1]As I mentioned in my [recent post introducing Mark&#8217;s Daily Apple][2], I have become more interested in understanding diet, nutrition, and health. Sadly, this doesn&#8217;t come without challenges, and in this post, I&#8217;d like to discuss some of the current controversies that make it difficult for me to decide what to eat in order to maintain a healthy life.
+[<img class="alignright wp-image-1902 size-medium" src="https://seitad.files.wordpress.com/2014/07/good-calories.jpg?w=195" alt="" width="195" height="300" />][1]As I mentioned in my [recent post introducing Mark&#8217;s Daily Apple][2], I have become more interested in understanding diet, nutrition, and health. Sadly, this doesn&#8217;t come without challenges, and in this post, I&#8217;d like to discuss some of the current controversies that make it difficult for me to decide what to eat in order to maintain a healthy life.
 
 First, let me provide some background. During elementary and middle school, I learned about the United States Department of Agriculture&#8217;s infamous [food pyramid][3]. Of course, like most Americans, I didn&#8217;t adhere to it *exactly*, but I at least *kept it in mind, *so it did impact the way I ate for most of my life.
 
@@ -159,11 +156,11 @@ I guess my point is that if we are getting advice about nutrition from the gover
 
 Unfortunately, one of the biggest takeaways that I got from *Good Calories, Bad Calories* and my own brief research is that, after fat became demonized, people and industry looked for alternatives, and they found that in sugar. In fact, Taubes said that prominent nutritionists and professors at elite universities were *recommending sugar*, and that it was a *safe alternative to fat*, even as late as the 1980s. But [Dr. John Yudkin][51] disagreed, and published *Pure, White, and Deadly: How Sugar is Killing us, and what we can do to Stop it*. So perhaps sugar and some forms of fat (trans, saturated?) are bad for us, but sugar is a *stronger risk*?
 
-<img class="alignright wp-image-1884 size-medium" src="http://www.seitad.com/wp-content/uploads/2014/07/pure-white-and-deadly1.jpg?w=193" alt="Pure-White-and-Deadly" width="193" height="300" />
+<img class="alignright wp-image-1884 size-medium" src="http://seitad.files.wordpress.com/2014/07/pure-white-and-deadly.jpg?w=193" alt="Pure-White-and-Deadly" width="193" height="300" />
 
 According to a [2014 article on *The Telegraph*][52], Ancel Keys and the sugar industry ruthlessly attacked Dr. Yudkin, hindering his credibility. But as the past few decades has witnessed, Dr. Yudkin *may have been right* all along, at least with respect to *the dangers of using sugar as a substitute for fat. *I&#8217;m not confidently sure which one of sugar or saturated fat i*s *more of a risk factor for chronic illnesses &#8212; they probably both are &#8212; but if you told me to pick the *greater risk factor* right now, I would say sugar. The World Health Organization &#8212; a credible source, I would like to add &#8212; has recommended lowering sugar intake, but is expecting a battle with the sugar industry, [as highlighted by a 2014 Nature.com article][53]. (I highlight these dates to show how recent this whole anti-sugar movement began.) In addition, Dr. Yudkin&#8217;s work was recently revived thanks to the efforts of [Robert H. Lustig][54], a professor at the University of California, San Francisco medical school. You can see Dr. Lustig in his YouTube video, [Sugar: The Bitter Truth][55]. Dr. Yudkin&#8217;s book was then re-published in 2012 due to growing demand, which gives an idea of how it has stood the test of time.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/07/good-calories1.jpg
+ [1]: https://seitad.files.wordpress.com/2014/07/good-calories.jpg
  [2]: http://seitad.wordpress.com/2014/07/20/introducing-marks-daily-apple/
  [3]: http://en.wikipedia.org/wiki/History_of_USDA_nutrition_guides
  [4]: http://en.wikipedia.org/wiki/Fast_Food_Nation

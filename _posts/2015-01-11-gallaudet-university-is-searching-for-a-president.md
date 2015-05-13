@@ -2,9 +2,8 @@
 title: Gallaudet University is Searching for a President
 author: Daniel Seita
 layout: post
-permalink: /?p=2246
+permalink: /2015/01/11/gallaudet-university-is-searching-for-a-president/
 geo_public:
-  - 0
   - 0
 categories:
   - Deaf

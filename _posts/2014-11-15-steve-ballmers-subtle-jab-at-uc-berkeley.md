@@ -2,9 +2,8 @@
 title: 'Steve Ballmer&#8217;s (Subtle) Jab at UC Berkeley'
 author: Daniel Seita
 layout: post
-permalink: /?p=2075
+permalink: /2014/11/15/steve-ballmers-subtle-jab-at-uc-berkeley/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science

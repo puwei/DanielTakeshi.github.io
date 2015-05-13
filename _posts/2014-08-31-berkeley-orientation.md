@@ -2,18 +2,15 @@
 title: Berkeley Orientation
 author: Daniel Seita
 layout: post
-permalink: /?p=1964
+permalink: /2014/08/31/berkeley-orientation/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962592
 categories:
   - Computer Science
 tags:
   - graduate students
 ---
-[<img class="aligncenter size-large wp-image-1969" src="http://www.seitad.com/wp-content/uploads/2014/08/soda_hall1.jpg?w=460" alt="soda_hall" width="460" height="365" />][1]My life has been busy in the past few weeks as I&#8217;ve gotten adjusted to life in Berkeley. Part of this process has been going through orientation. I sat through a new EECS graduate student orientation and a general graduate student orientation.
+[<img class="aligncenter size-large wp-image-1969" src="http://seitad.files.wordpress.com/2014/08/soda_hall.jpg?w=460" alt="soda_hall" width="460" height="365" />][1]My life has been busy in the past few weeks as I&#8217;ve gotten adjusted to life in Berkeley. Part of this process has been going through orientation. I sat through a new EECS graduate student orientation and a general graduate student orientation.
 
 For the most part, what we discussed during the orientations wasn&#8217;t too surprising. Here are a few highlights from the EECS-specific one.
 
@@ -29,4 +26,4 @@ The general graduate student orientation, held the following day, was less usefu
 
 In addition to orientation, I&#8217;ve had a few classes and research group meetings. I&#8217;ll talk about the research later &#8212; stay tuned.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/08/soda_hall1.jpg
+ [1]: https://seitad.files.wordpress.com/2014/08/soda_hall.jpg

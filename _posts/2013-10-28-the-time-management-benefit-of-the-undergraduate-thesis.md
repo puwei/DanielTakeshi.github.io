@@ -2,9 +2,8 @@
 title: Allocating Time for the Undergraduate Thesis
 author: Daniel Seita
 layout: post
-permalink: /?p=1446
+permalink: /2013/10/28/the-time-management-benefit-of-the-undergraduate-thesis/
 geo_public:
-  - 0
   - 0
 categories:
   - Everything Else

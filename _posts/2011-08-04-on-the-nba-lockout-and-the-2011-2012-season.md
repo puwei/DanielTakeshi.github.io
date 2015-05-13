@@ -2,7 +2,7 @@
 title: On the NBA Lockout and the 2011-2012 Season
 author: Daniel Seita
 layout: post
-permalink: /?p=2369
+permalink: /2011/08/04/on-the-nba-lockout-and-the-2011-2012-season/
 categories:
   - Everything Else
 tags:

@@ -2,12 +2,9 @@
 title: What if 300 Deaf People were Isolated on an Island?
 author: Daniel Seita
 layout: post
-permalink: /?p=1564
+permalink: /2014/01/18/what-if-300-deaf-people-were-isolated-on-an-island/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755963021
 categories:
   - Deaf
 tags:
@@ -15,7 +12,7 @@ tags:
   - experiment
   - sign language
 ---
-[<img class="alignright size-medium wp-image-1566" alt="cisland" src="http://www.seitad.com/wp-content/uploads/2014/01/cisland.jpg?w=109" width="109" height="300" />][1]John Lee Clark, a deaf writer and an active participant in the [Deaf Academics][2] mailing list, has a blog [on his website][3]. While Mr. Clark doesn&#8217;t appear to update it frequently, his blog entries are well-written. I particularly found his [Cochlear Implants: A Thought Experiment][4] blog post interesting.
+[<img class="alignright size-medium wp-image-1566" alt="cisland" src="http://seitad.files.wordpress.com/2014/01/cisland.jpg?w=109" width="109" height="300" />][1]John Lee Clark, a deaf writer and an active participant in the [Deaf Academics][2] mailing list, has a blog [on his website][3]. While Mr. Clark doesn&#8217;t appear to update it frequently, his blog entries are well-written. I particularly found his [Cochlear Implants: A Thought Experiment][4] blog post interesting.
 
 Here is his &#8220;thought experiment:&#8221;
 
@@ -33,7 +30,7 @@ It is known that cochlear implants are a controversial topic in the Deaf communi
 
 I think I should write more about cochlear implants in my blog. This entry is apparently the first that uses the &#8220;cochlear implant&#8221; tag. Stay tuned for future posts&#8230;.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/01/cisland.jpg
+ [1]: http://seitad.files.wordpress.com/2014/01/cisland.jpg
  [2]: http://seitad.wordpress.com/2013/06/23/the-deaf-academics-mailing-list/
  [3]: http://www.johnleeclark.com/
  [4]: http://www.johnleeclark.com/?p=38

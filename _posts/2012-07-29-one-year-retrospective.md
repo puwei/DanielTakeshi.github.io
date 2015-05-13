@@ -1,8 +1,8 @@
 ---
 title: Year 1 Retrospective
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=271
+permalink: /2012/07/29/one-year-retrospective/
 categories:
   - Everything Else
 tags:
@@ -10,7 +10,7 @@ tags:
   - blog
   - productivity
 ---
-<a href="http://seitad.wordpress.com/2012/07/29/one-year-retrospective/1year/" rel="attachment wp-att-371"><img class="alignright size-thumbnail wp-image-371" title="1Year" alt="" src="http://www.seitad.com/wp-content/uploads/2012/07/1year.jpg?w=150" width="150" height="150" /></a> I started this blog on August 1, 2011, so I get to celebrate that I&#8217;ve been blogging for about a year. I now want to take a step back and see what I have achieved and what goals I should set for the future.
+<a href="http://seitad.wordpress.com/2012/07/29/one-year-retrospective/1year/" rel="attachment wp-att-371"><img class="alignright size-thumbnail wp-image-371" title="1Year" alt="" src="http://seitad.files.wordpress.com/2012/07/1year.jpg?w=150" width="150" height="150" /></a> I started this blog on August 1, 2011, so I get to celebrate that I&#8217;ve been blogging for about a year. I now want to take a step back and see what I have achieved and what goals I should set for the future.
 
 This is my 36th entry, so if you do the math, that&#8217;s 3 posts every month, which is a pace I hope to at least maintain in the next few years. There were definitely times when I didn&#8217;t feel interested in blogging, but as I explained in my [Blog Productivity][1] entry, I anticipate that to change. Of course, this assumes I maintain my normal blog entry size of about 500 words.
 

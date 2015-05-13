@@ -1,10 +1,9 @@
 ---
 title: Two Suggestions on Grading
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1781
+permalink: /2014/05/26/two-suggestions-on-grading/
 geo_public:
-  - 0
   - 0
 categories:
   - Everything Else

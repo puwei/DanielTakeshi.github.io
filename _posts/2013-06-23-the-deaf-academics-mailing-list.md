@@ -2,14 +2,14 @@
 title: The Deaf Academics Mailing List
 author: Daniel Seita
 layout: post
-permalink: /?p=1002
+permalink: /2013/06/23/the-deaf-academics-mailing-list/
 categories:
   - Deaf
 tags:
   - DeafAcademics
   - mailing list
 ---
-Last January, I joined the Deaf Academics mailing list (a &#8220;listserv&#8221;), which is co-owned by Dr. Teresa Burke and Dr. Christian Vogler. As I [mentioned earlier][1], Dr. Vogler is one of three deaf computer science Ph.Ds today, and he invited me to join the list after we met (via Skype) in January.[<img class="alignright size-full wp-image-1019" alt="DeafAcademics" src="http://www.seitad.com/wp-content/uploads/2013/06/deafacademics1.png" width="169" height="278" />][2]
+Last January, I joined the Deaf Academics mailing list (a &#8220;listserv&#8221;), which is co-owned by Dr. Teresa Burke and Dr. Christian Vogler. As I [mentioned earlier][1], Dr. Vogler is one of three deaf computer science Ph.Ds today, and he invited me to join the list after we met (via Skype) in January.[<img class="alignright size-full wp-image-1019" alt="DeafAcademics" src="http://seitad.files.wordpress.com/2013/06/deafacademics1.png" width="169" height="278" />][2]
 
 It&#8217;s been about six months, so I&#8217;ve had the chance to read some of the many adventures, discussions, and opinions of other deaf and hard of hearing professionals. As you can tell from the screenshot of my Yahoo! mail account, it&#8217;s a highly active listserv. I would estimate that there&#8217;s been about 800 emails sent since the time I joined, so I&#8217;ve only had the time to read a fraction of them. Most of the emails are sent by a handful of people who are *really *dedicated to the list and often write several messages daily. With many emails seemingly written as if they were carefully composed 400-word blog entries, the average quality of emails is significantly higher than those in other mailing lists, such as the Access STEM one shown in the screenshot.
 
@@ -26,5 +26,5 @@ Here&#8217;s a sample of the discussion in this listserv. As you can see, the sc
 I have to say that I was surprised that a mailing list like this existed and was active. It&#8217;s actually been around since 2002, so I wonder why I didn&#8217;t know about it earlier. But now that I *have *joined and blogged about it, hopefully this leads to another aspiring deaf academic to join the list. In the meantime, I&#8217;ve already started thinking about possible blog entries that expand some of the themes I explored in the mailing list.
 
  [1]: http://seitad.wordpress.com/2013/01/28/deaf-computer-science-ph-d-s/
- [2]: http://www.seitad.com/wp-content/uploads/2013/06/deafacademics1.png
+ [2]: http://seitad.files.wordpress.com/2013/06/deafacademics1.png
  [3]: http://seitad.wordpress.com/2012/08/24/united-airlines-where-are-the-captions/

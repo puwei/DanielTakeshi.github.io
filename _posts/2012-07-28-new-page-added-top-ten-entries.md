@@ -2,7 +2,7 @@
 title: 'New Page Added: Top Ten Entries'
 author: Daniel Seita
 layout: post
-permalink: /?p=311
+permalink: /2012/07/28/new-page-added-top-ten-entries/
 categories:
   - Everything Else
 tags:

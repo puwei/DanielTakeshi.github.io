@@ -1,13 +1,10 @@
 ---
 title: Why I am Against Affirmative Action
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=2174
+permalink: /2014/12/31/why-i-am-against-affirmative-action/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962342
 categories:
   - Everything Else
 tags:

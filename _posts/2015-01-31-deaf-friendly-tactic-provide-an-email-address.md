@@ -1,10 +1,9 @@
 ---
 title: 'Deaf-Friendly Tactic: Provide an Email Address'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=2271
+permalink: /2015/01/31/deaf-friendly-tactic-provide-an-email-address/
 geo_public:
-  - 0
   - 0
 categories:
   - Deaf

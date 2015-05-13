@@ -2,9 +2,8 @@
 title: Rain, Berkeley Weather, and Hearing Aids
 author: Daniel Seita
 layout: post
-permalink: /?p=2021
+permalink: /2014/10/09/rain-berkeley-weather-and-hearing-aids/
 geo_public:
-  - 0
   - 0
 categories:
   - Deaf
@@ -15,7 +14,7 @@ tags:
   - water resistance
   - weather
 ---
-[<img class="aligncenter size-large wp-image-2022" src="http://www.seitad.com/wp-content/uploads/2014/10/berkeley_weather.png?w=460" alt="Berkeley_Weather" width="460" height="520" />][1]
+[<img class="aligncenter size-large wp-image-2022" src="https://seitad.files.wordpress.com/2014/10/berkeley_weather.png?w=460" alt="Berkeley_Weather" width="460" height="520" />][1]
 
 I&#8217;m sure that most long-time hearing aid users such as myself have gone through this scenario: you&#8217;re outside, wearing your hearing aids, and the weather (sunny, 75 degrees) is great. Perhaps you&#8217;re taking a walk around your neighborhood, or you and a friend are having lunch outside. But then all of a sudden, the weather takes a nasty turn and it&#8217;s pouring rain. Since you don&#8217;t have an umbrella or a rain jacket, you scramble to find shelter. While you are doing so, you also wonder if you should take off your hearing aids, as they are (sadly) not waterproof. You consider a few important questions. Is it raining hard enough? Can you reach shelter quickly? Is it safe to take off your hearing aids?
 
@@ -25,7 +24,7 @@ Anyway, I&#8217;m happy to report that hearing aid wearers in the San Francisco 
 
 There was a [newspaper article a few weeks ago][4] that touched on the topic of rain in the Bay Area, so from what I can tell, I should expect more rain once it&#8217;s winter, but probably not *that* much. (I&#8217;m also aware that California&#8217;s in a historic drought, so I do feel guilty for being happy about the lack of rain.) Needless to say, the weather here is vastly different from the weather in Williamstown, MA. I remember when it would rain for days in September, thus ruining the Ultimate Frisbee fields. So far, the weather in Berkeley has been terrific, which is probably one of many reasons why graduate students come here from all over the world.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/10/berkeley_weather.png
+ [1]: https://seitad.files.wordpress.com/2014/10/berkeley_weather.png
  [2]: http://www.appalachianaudiology.com/waterproof-hearing-aids.php
  [3]: http://seitad.wordpress.com/2012/07/18/dont-get-hearing-aids-with-touch-screens/
  [4]: http://www.mercurynews.com/california/ci_26599086/couple-days-actual-rain-will-arrive-bay-area?source=pkg

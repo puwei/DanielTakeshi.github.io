@@ -2,9 +2,7 @@
 title: 'Midterms: Round 2'
 author: Daniel Seita
 layout: post
-permalink: /?p=82
-dsq_thread_id:
-  - 3755963840
+permalink: /2011/11/04/midterms-round-2/
 categories:
   - Everything Else
 tags:

@@ -1,8 +1,8 @@
 ---
 title: Foundations of Computers
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=89
+permalink: /2011/11/26/foundations-of-computers/
 categories:
   - Computer Science
 tags:

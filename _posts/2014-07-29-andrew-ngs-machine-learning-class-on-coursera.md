@@ -2,9 +2,8 @@
 title: 'Andrew Ng&#8217;s Machine Learning Class on Coursera'
 author: Daniel Seita
 layout: post
-permalink: /?p=1920
+permalink: /2014/07/29/andrew-ngs-machine-learning-class-on-coursera/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -15,7 +14,7 @@ tags:
   - MOOC
   - video
 ---
-[<img class="aligncenter wp-image-1924 size-large" src="http://www.seitad.com/wp-content/uploads/2014/07/machine_learning_coursera.png?w=460" alt="machine_learning_coursera" width="460" height="308" />][1]
+[<img class="aligncenter wp-image-1924 size-large" src="http://seitad.files.wordpress.com/2014/07/machine_learning_coursera.png?w=460" alt="machine_learning_coursera" width="460" height="308" />][1]
 
 If you&#8217;re interested in taking a free online course, consider [Coursera][2]. It takes seconds to make an account and filter through the 700 or so classes currently in the database to find what interests you. Classes are generally affiliated with a university, and professors are often the ones lecturing in the videos online. In addition to video lectures, there are homework assignments and exams, which are submitted electronically, as well as user discussion forums where the students can discuss class concepts.
 
@@ -45,7 +44,7 @@ After going through the first few weeks of the course, here are some quick impre
 
 Again, if you&#8217;re interested in learning more about any subject, I encourage you to check out Coursera. There&#8217;s definitely a heavy focus on computer science &#8212; not surprising, given that the founders are computer science professors &#8212; but there are courses in subjects as diverse as health, law, engineering, and music.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/07/machine_learning_coursera.png
+ [1]: https://seitad.files.wordpress.com/2014/07/machine_learning_coursera.png
  [2]: https://www.coursera.org/
  [3]: http://en.wikipedia.org/wiki/Daphne_Koller
  [4]: http://en.wikipedia.org/wiki/Andrew_Ng

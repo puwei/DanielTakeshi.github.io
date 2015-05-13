@@ -1,10 +1,9 @@
 ---
 title: Mamoru Samuragochi, the Fraudulent Deaf Japanese Composer
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1659
+permalink: /2014/02/28/mamoru-samuragochi-the-fraudulent-deaf-japanese-composer/
 geo_public:
-  - 0
   - 0
 categories:
   - Deaf

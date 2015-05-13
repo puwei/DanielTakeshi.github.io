@@ -2,9 +2,8 @@
 title: Padden Named Social Sciences Dean at UC San Diego
 author: Daniel Seita
 layout: post
-permalink: /?p=1850
+permalink: /2014/06/22/padden-named-social-sciences-dean-at-uc-san-diego/
 geo_public:
-  - 0
   - 0
 categories:
   - Deaf

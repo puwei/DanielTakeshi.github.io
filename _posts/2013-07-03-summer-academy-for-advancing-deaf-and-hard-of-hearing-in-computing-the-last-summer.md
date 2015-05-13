@@ -2,9 +2,7 @@
 title: 'Summer Academy for Advancing Deaf and Hard of Hearing in Computing: The Last Summer'
 author: Daniel Seita
 layout: post
-permalink: /?p=1062
-dsq_thread_id:
-  - 3755963259
+permalink: /2013/07/03/summer-academy-for-advancing-deaf-and-hard-of-hearing-in-computing-the-last-summer/
 categories:
   - Deaf
 tags:

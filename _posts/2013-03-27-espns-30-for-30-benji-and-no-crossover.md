@@ -1,8 +1,8 @@
 ---
 title: 'ESPN&#8217;s 30-for-30: Benji and No Crossover'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=930
+permalink: /2013/03/27/espns-30-for-30-benji-and-no-crossover/
 categories:
   - Everything Else
 tags:

@@ -5,6 +5,8 @@ layout: page
 geo_public:
   - 0
   - 0
+  - 0
+  - 0
 ---
 Here are some of my favorite posts I&#8217;ve published here, in no particular order. To view a complete listing of all posts on Seita&#8217;s Place, check out the new [directory here][1].
 

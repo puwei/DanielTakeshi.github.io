@@ -2,7 +2,7 @@
 title: 'CS Theory Part 3 of 8: Context-Free Grammars'
 author: Daniel Seita
 layout: post
-permalink: /?p=743
+permalink: /2012/10/29/cs-theory-part-3-context-free-grammars/
 categories:
   - Computer Science
 tags:
@@ -29,7 +29,7 @@ The main difference between NFAs and PDAs is the stack component of the PDA, whi
 
 What language do you think this PDA recognizes? Note: the dollar sign is added on the stack before the first character is read; it&#8217;s used solely to indicate the bottom of the stack.
 
-<a href="http://seitad.wordpress.com/2012/10/29/cs-theory-part-3-context-free-grammars/2012-10-29-22-18-49/" rel="attachment wp-att-751"><img class="aligncenter size-large wp-image-751" title="2012-10-29 22.18.49" alt="" src="http://www.seitad.com/wp-content/uploads/2012/10/2012-10-29-22-18-49.jpg?w=460" height="345" width="460" /></a>
+<a href="http://seitad.wordpress.com/2012/10/29/cs-theory-part-3-context-free-grammars/2012-10-29-22-18-49/" rel="attachment wp-att-751"><img class="aligncenter size-large wp-image-751" title="2012-10-29 22.18.49" alt="" src="http://seitad.files.wordpress.com/2012/10/2012-10-29-22-18-49.jpg?w=460" height="345" width="460" /></a>
 
 The above PDA will accept all strings that recognize the language $latex {ww^R mid w in {0,1}^* }$. It nondeterministically guesses where the middle of the input string will be, and tries to pop off stuff from the stack from that point on. Since we have nondeterminism here, we are guaranteed that if a string is in the language previously described, then it will be recognized by this PDA. Pretty impressive! Notice that this language is non-regular, which we can justifywith a simple pumping lemma proof.
 

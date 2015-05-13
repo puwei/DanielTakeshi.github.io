@@ -1,10 +1,8 @@
 ---
 title: The Night of Computer Science
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=39
-dsq_thread_id:
-  - 3755961304
+permalink: /2011/09/17/the-night-of-computer-science/
 categories:
   - Computer Science
 tags:

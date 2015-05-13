@@ -2,12 +2,9 @@
 title: On My New Theory of Computation Series
 author: Daniel Seita
 layout: post
-permalink: /?p=526
+permalink: /2012/08/14/on-my-new-theory-of-computation-series/
 tagazine-media:
   - 'a:7:{s:7:"primary";s:65:"http://seitad.files.wordpress.com/2012/08/2012-08-09-13-05-07.jpg";s:6:"images";a:1:{s:65:"http://seitad.files.wordpress.com/2012/08/2012-08-09-13-05-07.jpg";a:6:{s:8:"file_url";s:65:"http://seitad.files.wordpress.com/2012/08/2012-08-09-13-05-07.jpg";s:5:"width";i:1248;s:6:"height";i:400;s:4:"type";s:5:"image";s:4:"area";i:499200;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:1;s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2012-08-14 20:25:39";}'
-  - 'a:7:{s:7:"primary";s:65:"http://seitad.files.wordpress.com/2012/08/2012-08-09-13-05-07.jpg";s:6:"images";a:1:{s:65:"http://seitad.files.wordpress.com/2012/08/2012-08-09-13-05-07.jpg";a:6:{s:8:"file_url";s:65:"http://seitad.files.wordpress.com/2012/08/2012-08-09-13-05-07.jpg";s:5:"width";i:1248;s:6:"height";i:400;s:4:"type";s:5:"image";s:4:"area";i:499200;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:1;s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2012-08-14 20:25:39";}'
-dsq_thread_id:
-  - 3755963797
 categories:
   - Computer Science
 tags:
@@ -18,7 +15,7 @@ tags:
   - Theory of Computation
   - Williams
 ---
-<a href="http://seitad.wordpress.com/2012/08/14/on-my-new-theory-of-computation-series/2012-08-09-13-05-07/" rel="attachment wp-att-532"><img class="aligncenter size-full wp-image-532" title="2012-08-09 13.05.07" alt="" src="http://www.seitad.com/wp-content/uploads/2012/08/2012-08-09-13-05-07.jpg" width="500" height="160" /></a>
+<a href="http://seitad.wordpress.com/2012/08/14/on-my-new-theory-of-computation-series/2012-08-09-13-05-07/" rel="attachment wp-att-532"><img class="aligncenter size-full wp-image-532" title="2012-08-09 13.05.07" alt="" src="http://seitad.files.wordpress.com/2012/08/2012-08-09-13-05-07.jpg" width="500" height="160" /></a>
 
 The fall 2012 semester is approaching. It&#8217;s not as fast as those [winter waves in Waimea Bay][1], but close enough. (Yes, the above photo I took is of the *same* beach &#8212; click for a larger view.)
 

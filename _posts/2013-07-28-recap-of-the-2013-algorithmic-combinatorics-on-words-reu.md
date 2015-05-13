@@ -1,10 +1,9 @@
 ---
 title: Recap of the 2013 Algorithmic Combinatorics on Words REU
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1004
+permalink: /2013/07/28/recap-of-the-2013-algorithmic-combinatorics-on-words-reu/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -16,7 +15,7 @@ tags:
   - REU
   - summer
 ---
-[<img class="aligncenter size-full wp-image-1333" alt="Hike UNCG" src="http://www.seitad.com/wp-content/uploads/2013/07/hike-uncg1.png" width="456" height="200" />][1]
+[<img class="aligncenter size-full wp-image-1333" alt="Hike UNCG" src="http://seitad.files.wordpress.com/2013/06/hike-uncg1.png" width="456" height="200" />][1]
 
 Yesterday, I arrived back home after spending the previous eight weeks at the 2013 [Algorithmic Combinatorics on Words][2] REU. It was a great experience overall, so I thought I’d share a bit about what happened.
 
@@ -69,7 +68,7 @@ I&#8217;m probably forgetting a whole host of other things I wanted to write abo
 
 Good luck to everyone who went and I wish you all the best.
 
- [1]: http://www.seitad.com/wp-content/uploads/2013/07/hike-uncg1.png
+ [1]: http://seitad.files.wordpress.com/2013/06/hike-uncg1.png
  [2]: http://www.uncg.edu/cmp/reu/
  [3]: http://www.amazon.com/Algorithmic-Combinatorics-Discrete-Mathematics-Applications/dp/1420060929
  [4]: http://en.wikipedia.org/wiki/Complex_analysis

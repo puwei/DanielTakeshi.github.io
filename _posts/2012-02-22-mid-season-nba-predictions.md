@@ -2,9 +2,7 @@
 title: Mid-season NBA Predictions
 author: Daniel Seita
 layout: post
-permalink: /?p=130
-dsq_thread_id:
-  - 3755961451
+permalink: /2012/02/22/mid-season-nba-predictions/
 categories:
   - Everything Else
 tags:

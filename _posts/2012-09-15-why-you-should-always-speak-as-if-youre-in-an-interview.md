@@ -1,8 +1,8 @@
 ---
 title: 'Why you Should Always Speak as if you&#8217;re in an Interview'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=696
+permalink: /2012/09/15/why-you-should-always-speak-as-if-youre-in-an-interview/
 categories:
   - Deaf
 tags:

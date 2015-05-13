@@ -2,9 +2,8 @@
 title: Friendly Computer Science Textbooks
 author: Daniel Seita
 layout: post
-permalink: /?p=1835
+permalink: /2014/06/15/friendly-computer-science-textbooks/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science

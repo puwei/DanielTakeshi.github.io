@@ -2,9 +2,7 @@
 title: 'My Experience with the &#8220;Miniature MIT Challenge&#8221;'
 author: Daniel Seita
 layout: post
-permalink: /?p=664
-dsq_thread_id:
-  - 3755963756
+permalink: /2012/09/01/my-experience-with-the-miniature-mit-challenge/
 categories:
   - Everything Else
 tags:

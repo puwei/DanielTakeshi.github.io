@@ -1,10 +1,8 @@
 ---
 title: ASL Country Signs and Variation
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=137
-dsq_thread_id:
-  - 3755961501
+permalink: /2012/04/14/asl-country-signs-and-variation/
 categories:
   - Deaf
 tags:

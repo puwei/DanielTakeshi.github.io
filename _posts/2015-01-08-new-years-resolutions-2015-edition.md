@@ -1,13 +1,10 @@
 ---
 title: 'New Year&#8217;s Resolutions: 2015 Edition'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=2224
+permalink: /2015/01/08/new-years-resolutions-2015-edition/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962322
 categories:
   - Everything Else
 tags:

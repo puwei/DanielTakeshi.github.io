@@ -5,6 +5,8 @@ layout: page
 geo_public:
   - 0
   - 0
+  - 0
+  - 0
 ---
 This blog is getting larger, so here&#8217;s an archive to make older posts more accessible.  What follows now is a complete listing of every single published blog entry, roughly categorized into groups that I feel touch on the main idea prevalent in those posts. Right now, there are <span style="text-decoration:underline;"><strong>151</strong></span> blog posts.
 

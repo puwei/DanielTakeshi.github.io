@@ -1,10 +1,9 @@
 ---
 title: 'Grad School Applications, Stage 1: The Quiet before the Storm'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1035
+permalink: /2013/07/20/grad-school-applications-stage-1-the-quiet-before-the-storm/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science

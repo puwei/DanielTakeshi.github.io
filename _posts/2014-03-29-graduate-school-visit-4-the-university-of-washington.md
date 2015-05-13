@@ -2,9 +2,8 @@
 title: 'Graduate School Visit #4: The University of Washington'
 author: Daniel Seita
 layout: post
-permalink: /?p=1672
+permalink: /2014/03/29/graduate-school-visit-4-the-university-of-washington/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -14,7 +13,7 @@ tags:
 ---
 I departed from San Francisco and landed in Seattle near midnight. Fortunately, Washington&#8217;s visit days didn&#8217;t start until the following day (Tuesday). They were the only school I visited that restricted their visit days to be two days, probably because they know they have lots of cross-admits with Berkeley. I rode a shuttle that brought me back to the [Silver Cloud Inn][1] near the university&#8217;s campus. I did request to live with graduate students, but I was told that Washington had over *ninety* students show up to visit days, and there were sadly not enough hosts to accommodate all of us.
 
-[<img class="aligncenter size-large wp-image-1706" src="http://www.seitad.com/wp-content/uploads/2014/03/washington_paulallen.jpg?w=460" alt="Washington_PaulAllen" width="460" height="309" />][2]
+[<img class="aligncenter size-large wp-image-1706" src="http://seitad.files.wordpress.com/2014/03/washington_paulallen.jpg?w=460" alt="Washington_PaulAllen" width="460" height="309" />][2]
 
 The following morning, another shuttle took a group of students from the hotel to the Paul G. Allen Center. It was quite nostalgic coming back to the same building that I spent a lot of time in while at the 2011 [Summer Academy][3], and I still remembered my way around it.
 
@@ -26,7 +25,7 @@ After the chair&#8217;s presentation, four faculty members gave quick technical 
 
 Later that day, we had faculty and laboratory meetings. I went to the databases and machine learning meetings, which were each an hour long and involved the usual series of faculty talks. Washington&#8217;s style is to have grad students groups in the center of the building (usually) with professors on the outer side, but the Paul Allen center has a giant atrium inside of it so it doesn&#8217;t feel too isolating. To clarify, each floor has some conference rooms in the center of the building, and the shared offices for graduate students are shown on the right side in the following image:
 
-[<img class="aligncenter size-large wp-image-1708" src="http://www.seitad.com/wp-content/uploads/2014/03/paulallenatrium.jpg?w=460" alt="LMN UW 1827" width="460" height="460" />][6]
+[<img class="aligncenter size-large wp-image-1708" src="http://seitad.files.wordpress.com/2014/03/paulallenatrium.jpg?w=460" alt="LMN UW 1827" width="460" height="460" />][6]
 
 The machine learning lab was *packed *with faculty and admits, which forced many people to stand due to the lack of chairs. It was clear to me that machine learning is one of Washington&#8217;s strengths. When I had lunch earlier, a current graduate student told me he estimated that more than half of the students were working on either machine learning or HCI.
 
@@ -41,8 +40,8 @@ After eating a quick dinner on &#8220;The Ave,&#8221; I found some time to catch
 I also need to decide on which graduate school to attend! That&#8217;s what I&#8217;ve been doing and still will be doing for another few weeks.
 
  [1]: http://www.silvercloud.com/university/
- [2]: http://www.seitad.com/wp-content/uploads/2014/03/washington_paulallen.jpg
+ [2]: http://seitad.files.wordpress.com/2014/03/washington_paulallen.jpg
  [3]: http://seitad.wordpress.com/2011/08/26/summer-academy/
  [4]: http://news.cs.washington.edu/2012/09/06/uw-cse-makes-game-changing-hires-in-machine-learning-big-data-computer-vision-and-computer-systems/
  [5]: http://news.cs.washington.edu/2013/08/31/maya-cakmak-shayan-oveis-gharan-matt-reynolds-and-zach-tatlock-join-the-uw-cse-faculty/
- [6]: http://www.seitad.com/wp-content/uploads/2014/03/paulallenatrium.jpg
+ [6]: http://seitad.files.wordpress.com/2014/03/paulallenatrium.jpg

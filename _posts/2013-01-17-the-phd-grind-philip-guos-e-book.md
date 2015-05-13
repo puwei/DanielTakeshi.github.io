@@ -2,12 +2,9 @@
 title: 'The PhD Grind &#8212; Philip Guo&#8217;s E-book'
 author: Daniel Seita
 layout: post
-permalink: /?p=848
+permalink: /2013/01/17/the-phd-grind-philip-guos-e-book/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755961892
 categories:
   - Computer Science
 tags:
@@ -17,7 +14,7 @@ tags:
   - Philip Guo
   - publications
 ---
-[<img class="aligncenter size-medium wp-image-850" alt="800px-PhD's" src="http://www.seitad.com/wp-content/uploads/2013/01/800px-phds.jpg?w=300" width="300" height="225" />][1]
+[<img class="aligncenter size-medium wp-image-850" alt="800px-PhD's" src="http://seitad.files.wordpress.com/2013/01/800px-phds.jpg?w=300" width="300" height="225" />][1]
 
 Today, I read Philip Guo&#8217;s e-book *[The Ph.D. Grind][2]. *It&#8217;s completely free (just visit the link and download) and it&#8217;s fairly easy reading, so one should be able to finish in about an hour or two. After reading it, I was both enlightened and impressed. The book seemed to accomplish its goals: provide a clear &#8212; but not overly detailed &#8212; account of a computer science graduate student&#8217;s journey to obtain a Ph.D. (Philip Guo was a Ph.D. student at Stanford University.) One of the reasons why I like it is that the author included many examples of how he struggled during his first three years of his Ph.D. program, and more importantly, *why *those struggles occurred. By the end of the book, I was pondering to myself: *can I avoid the pitfalls he encountered, and intelligently grind away at a publishable* *project*? As you can tell, some amount of &#8220;grinding&#8221; is necessary; otherwise, you&#8217;ll never make any progress. But if you go entirely on the wrong track &#8212; that is, if you&#8217;re working hours and hours by yourself on a famous professor&#8217;s project without any direction &#8212; that&#8217;s not a good idea.
 
@@ -36,5 +33,5 @@ Some of my quick thoughts after reading this book include:
 
 To wrap things up, I recommend *The Ph.D. Grind *especially to undergraduates who are considering pursuing a Ph.D. in computer science. Again, it&#8217;s free and easy to read.
 
- [1]: http://www.seitad.com/wp-content/uploads/2013/01/800px-phds.jpg
+ [1]: http://seitad.files.wordpress.com/2013/01/800px-phds.jpg
  [2]: http://www.pgbovine.net/PhD-memoir.htm

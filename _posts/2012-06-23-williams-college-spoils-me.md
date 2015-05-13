@@ -2,7 +2,7 @@
 title: Williams College Spoils Me
 author: Daniel Seita
 layout: post
-permalink: /?p=233
+permalink: /2012/06/23/williams-college-spoils-me/
 categories:
   - Deaf
 tags:

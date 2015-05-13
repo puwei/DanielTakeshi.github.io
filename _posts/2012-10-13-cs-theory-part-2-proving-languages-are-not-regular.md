@@ -1,8 +1,8 @@
 ---
 title: 'CS Theory Part 2 of 8: Proving Languages are not Regular'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=730
+permalink: /2012/10/13/cs-theory-part-2-proving-languages-are-not-regular/
 categories:
   - Computer Science
 tags:

@@ -1,8 +1,8 @@
 ---
 title: 'Category Swap: Academia ==> Computer Science'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=218
+permalink: /2012/06/19/category-swap-academia-computer-science/
 categories:
   - Computer Science
 tags:

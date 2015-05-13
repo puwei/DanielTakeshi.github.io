@@ -1,10 +1,8 @@
 ---
 title: Is There a Useful Compendium of Advice for Deaf Students?
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1381
-dsq_thread_id:
-  - 3755962125
+permalink: /2013/08/25/is-there-a-useful-compendium-of-advice-for-deaf-students/
 categories:
   - Deaf
 tags:

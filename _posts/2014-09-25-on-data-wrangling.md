@@ -1,10 +1,9 @@
 ---
 title: On Data Wrangling
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=2000
+permalink: /2014/09/25/on-data-wrangling/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -14,7 +13,7 @@ tags:
   - data wrangling
   - machine learning
 ---
-[<img class="aligncenter size-large wp-image-2001" src="http://www.seitad.com/wp-content/uploads/2014/09/data_science1.png?w=460" alt="data_science" width="460" height="292" />][1]
+[<img class="aligncenter size-large wp-image-2001" src="http://seitad.files.wordpress.com/2014/09/data_science.png?w=460" alt="data_science" width="460" height="292" />][1]
 
 Last month, the New York Times [published an interesting article][2] that connected with my experience working as a computer scientist. The idea is that there&#8217;s so much data out there &#8212; in case you&#8217;ve been living under a rock, it&#8217;s the age of Big Data &#8212; but it&#8217;s becoming increasingly harder for us to make sense of it so that we can actually *use* the data well. Here&#8217;s a relevant passage:
 
@@ -30,7 +29,7 @@ So I would suggest that in a data-heavy computer science class, at least one of 
 
 On a related note, I should also add that students should appreciate it when their data comes nicely formatted. *Someone* had to assemble the data, after all. In addition, for many computer science projects, such as the [Berkeley Pacman][8] assignments, much of the complicated, external code has already been written and tested, making our jobs much easier. So to anyone who is complaining about how hard their latest programming project is, just remember, someone probably had to work twice as hard as you did to *prepare* the project and its data in the first place.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/09/data_science1.png
+ [1]: https://seitad.files.wordpress.com/2014/09/data_science.png
  [2]: http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html
  [3]: http://seitad.wordpress.com/2012/07/27/wrapping-up-my-summer-research/
  [4]: http://machinelearning.wustl.edu/mlpapers/paper_files/BleiNJ03.pdf

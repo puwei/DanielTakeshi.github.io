@@ -1,13 +1,10 @@
 ---
 title: 'I&#8217;m Going to Berkeley!'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1741
+permalink: /2014/04/17/im-going-to-berkeley/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962768
 categories:
   - Computer Science
 tags:
@@ -15,7 +12,7 @@ tags:
   - graduate school applications
   - Washington
 ---
-[<img class="aligncenter wp-image-1744 size-large" src="http://www.seitad.com/wp-content/uploads/2014/04/berkeleytower.jpg?w=460" alt="OLYMPUS DIGITAL CAMERA" width="460" height="613" />][1]
+[<img class="aligncenter wp-image-1744 size-large" src="http://seitad.files.wordpress.com/2014/04/berkeleytower.jpg?w=460" alt="OLYMPUS DIGITAL CAMERA" width="460" height="613" />][1]
 
 This entry is a few days overdue &#8212; my apologies. (Excuse of the day: my thesis is due in a few weeks.) Admitted students had until April 15th to make their graduate school choices, and I made mine on April 13. As you can no doubt tell from the title of this post, I have committed to the University of California, Berkeley. I will start pursuing a Ph.D. in computer science there this fall.
 
@@ -23,4 +20,4 @@ It was not an easy decision, especially because I only applied to top-tier schoo
 
 It&#8217;s an exciting time for me! I have already received an email about setting up my Berkeley ID, and I can&#8217;t wait to get started this fall. I hope that the next six years (five if I&#8217;m extraordinarily lucky) will bring fulfilling and rewarding experiences.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/04/berkeleytower.jpg
+ [1]: http://seitad.files.wordpress.com/2014/04/berkeleytower.jpg

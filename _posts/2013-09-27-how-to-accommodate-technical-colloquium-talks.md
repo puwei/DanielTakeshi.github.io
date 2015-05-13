@@ -1,10 +1,9 @@
 ---
 title: How to Accommodate Technical Colloquium Talks?
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1420
+permalink: /2013/09/27/how-to-accommodate-technical-colloquium-talks/
 geo_public:
-  - 0
   - 0
 categories:
   - Deaf

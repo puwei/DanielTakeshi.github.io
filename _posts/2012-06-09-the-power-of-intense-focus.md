@@ -1,8 +1,8 @@
 ---
 title: The Power of Intense Focus
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=165
+permalink: /2012/06/09/the-power-of-intense-focus/
 categories:
   - Everything Else
 tags:

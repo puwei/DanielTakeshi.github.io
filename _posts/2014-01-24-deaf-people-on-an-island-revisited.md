@@ -1,13 +1,10 @@
 ---
 title: Deaf People on an Island, Revisited
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1590
+permalink: /2014/01/24/deaf-people-on-an-island-revisited/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755963009
 categories:
   - Deaf
 tags:
@@ -18,7 +15,7 @@ tags:
   - hearing aids
   - language
 ---
-[<img class="aligncenter size-large wp-image-1591" alt="minecraft-island-village" src="http://www.seitad.com/wp-content/uploads/2014/01/minecraft-island-village.jpg?w=460" width="460" height="258" />][1]
+[<img class="aligncenter size-large wp-image-1591" alt="minecraft-island-village" src="http://seitad.files.wordpress.com/2014/01/minecraft-island-village.jpg?w=460" width="460" height="258" />][1]
 
 This discussion will be a continuation of my last post, [What if 300 Deaf People were Isolated on an Island][2]? I will focus on the usage of American Sign Language versus English in the hypothetical scenario that a group of deaf people migrate to an island and are allowed to form their own small country.
 
@@ -68,11 +65,11 @@ My blog entry that has the most comments is, by far, [ASL Guidelines][3] with 1
 
 How do the blog posts rate in terms of popularity? That&#8217;s pretty easy to gauge, as WordPress keeps track of views for each entry. Here&#8217;s an image showing the top of the chart:
 
-[<img class="aligncenter size-large wp-image-1600" alt="Stats_Blog_Popular" src="http://www.seitad.com/wp-content/uploads/2014/01/stats_blog_popular.png?w=460" width="460" height="246" />][4]
+[<img class="aligncenter size-large wp-image-1600" alt="Stats_Blog_Popular" src="http://seitad.files.wordpress.com/2014/01/stats_blog_popular.png?w=460" width="460" height="246" />][4]
 
 And the bottom:
 
-[<img class="aligncenter size-large wp-image-1601" alt="Stats_Blog_Unpopular" src="http://www.seitad.com/wp-content/uploads/2014/01/stats_blog_unpopular.png?w=460" width="460" height="191" />][5]
+[<img class="aligncenter size-large wp-image-1601" alt="Stats_Blog_Unpopular" src="http://seitad.files.wordpress.com/2014/01/stats_blog_unpopular.png?w=460" width="460" height="191" />][5]
 
 So the most popular post is by far [Ten Things Python Programmers Should Know][6], with 404 views. The least popular is [On the Hardness of Nintendo Games][7], with a measly two views.
 
@@ -80,13 +77,13 @@ So the most popular post is by far [Ten Things Python Programmers Should Know][6
 
 Finally, where are my viewers coming from? Since February 2012, it seems like the majority are (by far) from the **United States**. The next country on the list is **India**, followed by the **United Kingdom**.
 
-[<img class="aligncenter size-large wp-image-1604" alt="Stats_Blog_Country" src="http://www.seitad.com/wp-content/uploads/2014/01/stats_blog_country.png?w=460" width="460" height="266" />][8]
+[<img class="aligncenter size-large wp-image-1604" alt="Stats_Blog_Country" src="http://seitad.files.wordpress.com/2014/01/stats_blog_country.png?w=460" width="460" height="266" />][8]
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/01/minecraft-island-village.jpg
+ [1]: http://seitad.files.wordpress.com/2014/01/minecraft-island-village.jpg
  [2]: http://seitad.wordpress.com/2014/01/18/what-if-300-deaf-people-were-isolated-on-an-island/
  [3]: http://seitad.wordpress.com/2011/10/11/asl-guildelines/
- [4]: http://www.seitad.com/wp-content/uploads/2014/01/stats_blog_popular.png
- [5]: http://www.seitad.com/wp-content/uploads/2014/01/stats_blog_unpopular.png
+ [4]: http://seitad.files.wordpress.com/2014/01/stats_blog_popular.png
+ [5]: http://seitad.files.wordpress.com/2014/01/stats_blog_unpopular.png
  [6]: http://seitad.wordpress.com/2013/07/05/ten-things-python-programmers-should-know/
  [7]: http://seitad.wordpress.com/2012/03/30/on-the-hardness-of-nintendo-games/
- [8]: http://www.seitad.com/wp-content/uploads/2014/01/stats_blog_country.png
+ [8]: http://seitad.files.wordpress.com/2014/01/stats_blog_country.png

@@ -1,10 +1,9 @@
 ---
 title: Do I Inconvenience You?
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=2345
+permalink: /2015/04/04/do-i-inconvenience-you/
 geo_public:
-  - 0
   - 0
 categories:
   - Deaf

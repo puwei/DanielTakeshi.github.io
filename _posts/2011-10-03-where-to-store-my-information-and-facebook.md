@@ -2,9 +2,7 @@
 title: 'Where to Store my Information &#8230; and Facebook?'
 author: Daniel Seita
 layout: post
-permalink: /?p=48
-dsq_thread_id:
-  - 3755961328
+permalink: /2011/10/03/where-to-store-my-information-and-facebook/
 categories:
   - Everything Else
 tags:

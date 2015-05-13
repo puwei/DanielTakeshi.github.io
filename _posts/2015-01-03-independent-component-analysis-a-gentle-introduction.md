@@ -2,9 +2,8 @@
 title: 'Independent Component Analysis &#8212; A Gentle Introduction'
 author: Daniel Seita
 layout: post
-permalink: /?p=2192
+permalink: /2015/01/03/independent-component-analysis-a-gentle-introduction/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -33,9 +32,9 @@ for unknown coefficients $latex a\_{11},a\_{12},a\_{21},a\_{22}$.
 
 Here&#8217;s a graphical version, [from a well-known ICA paper][1]. The following image shows two (unrealistic) wavelength diagrams of two people&#8217;s voices:
 
-[<img class="aligncenter size-large wp-image-2195" src="http://www.seitad.com/wp-content/uploads/2015/01/ica1.png?w=460" alt="ica1" width="460" height="186" />][2]The data that is observed from the two microphones is in the following image:
+[<img class="aligncenter size-large wp-image-2195" src="https://seitad.files.wordpress.com/2015/01/ica1.png?w=460" alt="ica1" width="460" height="186" />][2]The data that is observed from the two microphones is in the following image:
 
-[<img class="aligncenter size-large wp-image-2196" src="http://www.seitad.com/wp-content/uploads/2015/01/ica2.png?w=460" alt="ica2" width="460" height="191" />][3]The goal is to recover the original people&#8217;s wavelengths (i.e., the two graphs in the first of the two images I posted) when we are only given the observed data (i.e., the two graphs from the second image). Intuitively, it seems like the first observed wavelength must have come from a microphone closer to the first person, because its shape more closely matches person 1&#8217;s wavelength. The opposite is true for the second microphone.
+[<img class="aligncenter size-large wp-image-2196" src="https://seitad.files.wordpress.com/2015/01/ica2.png?w=460" alt="ica2" width="460" height="191" />][3]The goal is to recover the original people&#8217;s wavelengths (i.e., the two graphs in the first of the two images I posted) when we are only given the observed data (i.e., the two graphs from the second image). Intuitively, it seems like the first observed wavelength must have come from a microphone closer to the first person, because its shape more closely matches person 1&#8217;s wavelength. The opposite is true for the second microphone.
 
 More generally, consider having $latex n$ microphones and $latex n$ independent speakers; the numerical equality of microphones and speakers is for simplicity. In matrix form, we can express the ICA problem as $latex x^{(i)} = As^{(i)}$ where $latex A$ is an *unknown, square, invertible* mixing matrix that does not depend on the time interval. Like the assumptions regarding $latex n$, the invertibility of $latex A$ is to make our problem simple to start. We also know that all $latex x^{(i)}$ and $latex s^{(i)}$ are $latex n$-dimensional *random* vectors. The goal is to recover the unseen sources $latex s^{(i)}$. To simplify the subsequent notation, I omit the $latex i$ notation, but keep in mind that it&#8217;s there.
 
@@ -67,7 +66,7 @@ Let&#8217;s explain why this formula makes sense. It comes from taking logarithm
 
 Unfortunately, we don&#8217;t know the density of the individual sources, so we approximate them with some &#8220;good&#8221; density and make them equal to each other. We can do this by taking the derivative of the sigmoid function:
 
-[<img class="aligncenter size-large wp-image-2209" src="http://www.seitad.com/wp-content/uploads/2015/01/logistic-curve.png?w=460" alt="Logistic-curve" width="460" height="307" />][4]The reason why this works is that the sigmoid function satisfies the properties of a *cumulative distribution function*, and by differentiating such a function, we get a *probability density function*. And since it works well in practice (according to Andrew Ng), we might as well use it.
+[<img class="aligncenter size-large wp-image-2209" src="https://seitad.files.wordpress.com/2015/01/logistic-curve.png?w=460" alt="Logistic-curve" width="460" height="307" />][4]The reason why this works is that the sigmoid function satisfies the properties of a *cumulative distribution function*, and by differentiating such a function, we get a *probability density function*. And since it works well in practice (according to Andrew Ng), we might as well use it.
 
 Great, so now that we have the log-likelihood equation, what is the stochastic gradient descent update rule? It is (remember that $latex g$ is the sigmoid function):
 
@@ -88,8 +87,8 @@ Well, that&#8217;s independent component analysis. Remember that this is just on
 Let me know if you found this article useful.
 
  [1]: http://www.cs.helsinki.fi/u/ahyvarin/papers/NN00new.pdf
- [2]: http://www.seitad.com/wp-content/uploads/2015/01/ica1.png
- [3]: http://www.seitad.com/wp-content/uploads/2015/01/ica2.png
- [4]: http://www.seitad.com/wp-content/uploads/2015/01/logistic-curve.png
+ [2]: https://seitad.files.wordpress.com/2015/01/ica1.png
+ [3]: https://seitad.files.wordpress.com/2015/01/ica2.png
+ [4]: https://seitad.files.wordpress.com/2015/01/logistic-curve.png
  [5]: http://cs229.stanford.edu/section/cs229-linalg.pdf
  [6]: http://cs229.stanford.edu/notes/cs229-notes11.pdf

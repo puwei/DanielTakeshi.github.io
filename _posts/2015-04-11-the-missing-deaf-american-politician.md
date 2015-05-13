@@ -2,11 +2,9 @@
 title: The Missing Deaf American Politician
 author: Daniel Seita
 layout: post
+permalink: /2015/04/11/the-missing-deaf-american-politician/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755986314
 categories:
   - Deaf
 tags:
@@ -16,9 +14,7 @@ tags:
   - Scott Walker
   - U.S. President
 ---
-[<img class="aligncenter size-full wp-image-2366" src="http://www.seitad.com/wp-content/uploads/2015/04/dem-2016-clinton-banner.jpg" alt="Hillary Rodham Clinton" width="640" height="163" />][1]
-
-It&#8217;s time to gear up for the 2016 United States Presidential election race! [Ted Cruz][2], [Rand Paul][3], [Hillary Clinton][4], and [Marco Rubio][5] &#8212; in that order &#8212; have all announced or will announce that they will be running for president.
+[<img class="aligncenter size-full wp-image-2366" src="https://seitad.files.wordpress.com/2015/04/dem-2016-clinton-banner.jpg" alt="Hillary Rodham Clinton" width="640" height="163" />][1]It&#8217;s time to gear up for the 2016 United States Presidential election race! [Ted Cruz][2], [Rand Paul][3], [Hillary Clinton][4], and [Marco Rubio][5] &#8212; in that order &#8212; have all announced or will announce that they will be running for president.
 
 Now marks the beginning of the inevitable wait until Rand Paul becomes the next president. But in the meantime, I wonder about whether the United States has ever had a prominent deaf politician. Anyone in the Senate? How about the House of Representatives? Or even a member in a state legislature, or a mayor for a large city? Due to their average age, I&#8217;m sure we have had some slightly hearing-impaired politicians, but those don&#8217;t count to me. I&#8217;m talking about someone who was born deaf or became deaf at a young age, and who knows sign language, *and* who has strong connections to the Deaf community? Here, I&#8217;m using the capital &#8220;D&#8221; to indicate association with the community.
 
@@ -40,7 +36,7 @@ To wrap up this post, here&#8217;s my **real **prediction for the two ultimate c
 
 I&#8217;ll come back to this post in a little over a year to see if I predicted correctly. By then, hopefully there will be a deaf person who is making a serious run for a political position, but I doubt it.
 
- [1]: http://www.seitad.com/wp-content/uploads/2015/04/dem-2016-clinton-banner.jpg
+ [1]: https://seitad.files.wordpress.com/2015/04/dem-2016-clinton-banner.jpg
  [2]: http://fivethirtyeight.com/datalab/ted-cruz-is-late-to-the-party/
  [3]: http://fivethirtyeight.com/features/rand-paul-is-losing-his-fathers-base/
  [4]: http://fivethirtyeight.com/features/the-hillary-clinton-steamroller-rumbles-to-life/

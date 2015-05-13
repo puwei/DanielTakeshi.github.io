@@ -2,12 +2,9 @@
 title: Why Computer Science is a Good Major for Deaf Students
 author: Daniel Seita
 layout: post
-permalink: /?p=811
+permalink: /2013/02/06/why-computer-science-is-a-good-major-for-deaf-students/
 tagazine-media:
   - 'a:7:{s:7:"primary";s:69:"http://seitad.files.wordpress.com/2013/01/computer_science_quarks.jpg";s:6:"images";a:2:{s:69:"http://seitad.files.wordpress.com/2013/01/computer_science_quarks.jpg";a:6:{s:8:"file_url";s:69:"http://seitad.files.wordpress.com/2013/01/computer_science_quarks.jpg";s:5:"width";i:1500;s:6:"height";i:1500;s:4:"type";s:5:"image";s:4:"area";i:2250000;s:9:"file_path";b:0;}s:63:"http://seitad.files.wordpress.com/2013/01/computersciencebu.jpg";a:6:{s:8:"file_url";s:63:"http://seitad.files.wordpress.com/2013/01/computersciencebu.jpg";s:5:"width";i:550;s:6:"height";i:250;s:4:"type";s:5:"image";s:4:"area";i:137500;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:2;s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2013-02-07 00:29:12";}'
-  - 'a:7:{s:7:"primary";s:69:"http://seitad.files.wordpress.com/2013/01/computer_science_quarks.jpg";s:6:"images";a:2:{s:69:"http://seitad.files.wordpress.com/2013/01/computer_science_quarks.jpg";a:6:{s:8:"file_url";s:69:"http://seitad.files.wordpress.com/2013/01/computer_science_quarks.jpg";s:5:"width";i:1500;s:6:"height";i:1500;s:4:"type";s:5:"image";s:4:"area";i:2250000;s:9:"file_path";b:0;}s:63:"http://seitad.files.wordpress.com/2013/01/computersciencebu.jpg";a:6:{s:8:"file_url";s:63:"http://seitad.files.wordpress.com/2013/01/computersciencebu.jpg";s:5:"width";i:550;s:6:"height";i:250;s:4:"type";s:5:"image";s:4:"area";i:137500;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:2;s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2013-02-07 00:29:12";}'
-dsq_thread_id:
-  - 3755963653
 categories:
   - Deaf
 tags:
@@ -19,7 +16,7 @@ tags:
   - technology
 ---
 <p style="text-align:center;">
-  <a href="http://www.seitad.com/wp-content/uploads/2013/01/computer_science_quarks.jpg"><img class="aligncenter  wp-image-812" alt="Computer_Science_Quarks" src="http://www.seitad.com/wp-content/uploads/2013/01/computer_science_quarks.jpg?w=460" width="368" height="367" /></a>
+  <a href="http://seitad.files.wordpress.com/2013/01/computer_science_quarks.jpg"><img class="aligncenter  wp-image-812" alt="Computer_Science_Quarks" src="http://seitad.files.wordpress.com/2013/01/computer_science_quarks.jpg?w=460" width="368" height="367" /></a>
 </p>
 
 Many people have asked why I am drawn to computer science. I thought that instead of trying to come up with an answer extempore each time, I would put this in writing to provide a better quality explanation. I will place a special emphasis on how computer science can particularly benefit deaf people. (As well as those who are hard-of-hearing.) This post will probably be one of the few that I&#8217;ll regularly come back to revise in the future.
@@ -97,7 +94,7 @@ One of the biggest concerns deaf students may have is job accessibility. Sure, w
 
 ***Closing Thoughts***
 
-[<img class="alignleft size-thumbnail wp-image-866" alt="ComputerScienceBU" src="http://www.seitad.com/wp-content/uploads/2013/01/computersciencebu.jpg?w=150" width="150" height="68" />][8] Hopefully this was an explanation that elucidates most of the reason why I decided to major in computer science. It&#8217;s not the entire reason, but then I would be going on and on about how theory is so scintillating, and that doesn&#8217;t quite help to spread the word about computer science. Part of my aim in this blog, for instance, was to explore connections between computer science and deafness. I hope this was a small step.
+[<img class="alignleft size-thumbnail wp-image-866" alt="ComputerScienceBU" src="http://seitad.files.wordpress.com/2013/01/computersciencebu.jpg?w=150" width="150" height="68" />][8] Hopefully this was an explanation that elucidates most of the reason why I decided to major in computer science. It&#8217;s not the entire reason, but then I would be going on and on about how theory is so scintillating, and that doesn&#8217;t quite help to spread the word about computer science. Part of my aim in this blog, for instance, was to explore connections between computer science and deafness. I hope this was a small step.
 
  [1]: http://stackoverflow.com/
  [2]: http://en.wikipedia.org/wiki/Seminar
@@ -106,4 +103,4 @@ One of the biggest concerns deaf students may have is job accessibility. Sure, w
  [5]: http://www.cs.washington.edu/people/faculty/ladner/
  [6]: http://www.washington.edu/doit/
  [7]: http://hearinglosshelp.com/weblog/siemens-aquaris-micon-hearing-aid-now-rated-waterproof-and-dustproof-and-shock-resistant.php
- [8]: http://www.seitad.com/wp-content/uploads/2013/01/computersciencebu.jpg
+ [8]: http://seitad.files.wordpress.com/2013/01/computersciencebu.jpg

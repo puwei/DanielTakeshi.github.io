@@ -2,9 +2,8 @@
 title: Speak vs. Use ASL
 author: Daniel Seita
 layout: post
-permalink: /?p=1802
+permalink: /2014/05/31/speak-vs-use-asl/
 geo_public:
-  - 0
   - 0
 categories:
   - Deaf

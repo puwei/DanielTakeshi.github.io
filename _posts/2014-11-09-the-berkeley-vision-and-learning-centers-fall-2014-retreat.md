@@ -1,10 +1,9 @@
 ---
 title: 'The Berkeley Vision and Learning Center&#8217;s Fall 2014 Retreat'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=2056
+permalink: /2014/11/09/the-berkeley-vision-and-learning-centers-fall-2014-retreat/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -17,7 +16,7 @@ tags:
   - poster session
   - Red Bull Stratos
 ---
-[<img class="aligncenter size-large wp-image-2061" src="http://www.seitad.com/wp-content/uploads/2014/11/berkeley_faculty_club.jpg?w=460" alt="berkeley_faculty_club" width="460" height="242" />][1]On November 5, I attended part of the Fall 2014 Retreat for the [Berkeley Vision and Learning Center][2] (BVLC). The BVLC is a new group of faculty, students, and industry partners in EECS that focuses on research in vision (from computer vision to visualization) and machine learning. The retreat was held in the [Faculty Club][3], a nice, country-style building enclosed by trees near the center of the UC Berkeley campus. While there were events going on all morning (and the day before, actually), I only attended the poster session from 5:00pm to 7:00pm and the dinner after that.
+[<img class="aligncenter size-large wp-image-2061" src="https://seitad.files.wordpress.com/2014/11/berkeley_faculty_club.jpg?w=460" alt="berkeley_faculty_club" width="460" height="242" />][1]On November 5, I attended part of the Fall 2014 Retreat for the [Berkeley Vision and Learning Center][2] (BVLC). The BVLC is a new group of faculty, students, and industry partners in EECS that focuses on research in vision (from computer vision to visualization) and machine learning. The retreat was held in the [Faculty Club][3], a nice, country-style building enclosed by trees near the center of the UC Berkeley campus. While there were events going on all morning (and the day before, actually), I only attended the poster session from 5:00pm to 7:00pm and the dinner after that.
 
 The poster session wasn&#8217;t as enormous as I thought it would be, but there were still quite a few people crowded in such a small area. I think there were around 15 to 20 posters from various research groups. I brought one about the [BID Data][4] project, whose principal investigator is John Canny. I&#8217;m hoping to become a part of that project within the next few weeks.
 
@@ -29,7 +28,7 @@ I could tell that the talk was not overly technical, which meant that there was 
 
 (Note: the image at the top &#8212; taken from the Faculty Club website &#8212; shows the location where we had dinner and where Andy gave his 30-minute multimedia presentation.)
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/11/berkeley_faculty_club.jpg
+ [1]: https://seitad.files.wordpress.com/2014/11/berkeley_faculty_club.jpg
  [2]: http://bvlc.eecs.berkeley.edu/
  [3]: http://www.berkeleyfacultyclub.com/
  [4]: http://bid2.berkeley.edu/bid-data-project/

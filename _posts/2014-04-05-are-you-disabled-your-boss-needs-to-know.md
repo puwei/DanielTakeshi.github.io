@@ -2,12 +2,9 @@
 title: Are You Disabled? Your Boss Needs to Know
 author: Daniel Seita
 layout: post
-permalink: /?p=1726
+permalink: /2014/04/05/are-you-disabled-your-boss-needs-to-know/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962832
 categories:
   - Deaf
 tags:

@@ -1,10 +1,8 @@
 ---
 title: 'Mathematics of a Rubik&#8217;s Cube'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=101
-dsq_thread_id:
-  - 3755961350
+permalink: /2011/12/31/mathematics-of-a-rubiks-cube/
 categories:
   - Everything Else
 tags:

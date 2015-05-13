@@ -1,10 +1,9 @@
 ---
 title: Java to Python Transition
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=275
+permalink: /2012/08/05/java-to-python-transition/
 tagazine-media:
-  - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2012-08-05 06:35:37";}'
   - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2012-08-05 06:35:37";}'
 categories:
   - Computer Science

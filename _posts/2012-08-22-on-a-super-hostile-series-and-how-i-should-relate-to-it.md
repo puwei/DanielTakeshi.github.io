@@ -2,7 +2,7 @@
 title: On a Super Hostile Series, and How I Should Relate to It
 author: Daniel Seita
 layout: post
-permalink: /?p=437
+permalink: /2012/08/22/on-a-super-hostile-series-and-how-i-should-relate-to-it/
 categories:
   - Computer Science
 tags:
@@ -10,7 +10,7 @@ tags:
   - Minecraft
   - specialization
 ---
-<a href="http://seitad.wordpress.com/?attachment_id=554" rel="attachment wp-att-554"><img class="aligncenter size-full wp-image-554" title="Vechs minecraft forum threads pic" src="http://www.seitad.com/wp-content/uploads/2012/08/vechs-minecraft-forum-threads-pic.png" alt="" width="500" height="201" /></a>
+<a href="http://seitad.wordpress.com/?attachment_id=554" rel="attachment wp-att-554"><img class="aligncenter size-full wp-image-554" title="Vechs minecraft forum threads pic" src="http://seitad.files.wordpress.com/2012/08/vechs-minecraft-forum-threads-pic.png" alt="" width="500" height="201" /></a>
 
 I might have mentioned this before, but to reiterate, I&#8217;m a huge fan of the sandbox computer game [Minecraft][1]. (That game and Sid Meier&#8217;s Civilization IV: Beyond the Sword currently take up about 95% of my gaming time.)
 

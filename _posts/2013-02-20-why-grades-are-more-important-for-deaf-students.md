@@ -2,12 +2,9 @@
 title: Why Grades Are More Important for Deaf Students
 author: Daniel Seita
 layout: post
-permalink: /?p=880
+permalink: /2013/02/20/why-grades-are-more-important-for-deaf-students/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755963526
 categories:
   - Deaf
 tags:
@@ -15,7 +12,7 @@ tags:
   - students
 ---
 <p style="text-align:center;">
-  <a href="http://www.seitad.com/wp-content/uploads/2013/01/grades.jpg"><img class="size-medium wp-image-883 aligncenter" alt="I'm not sure who made this image, but it's good. If you are the creator, let me know." src="http://www.seitad.com/wp-content/uploads/2013/01/grades.jpg?w=300" width="300" height="284" /></a>
+  <a href="http://seitad.files.wordpress.com/2013/01/grades.jpg"><img class="size-medium wp-image-883 aligncenter" alt="I'm not sure who made this image, but it's good. If you are the creator, let me know." src="http://seitad.files.wordpress.com/2013/01/grades.jpg?w=300" width="300" height="284" /></a>
 </p>
 
 I have long wondered how much effort students should expend to achieving high grades. Dr. Philip Guo has a [nice article][1] about this that I found to be accurate and straightforward. Those applying to medical school and competitive law or graduate school positions need high grades. On the other end of the scale, students inheriting a family fortune need not worry about graduating with honors. As expected, the amount of effort and dedication a student spends on getting good grades is dependent on a variety of circumstances. Students should also understand that putting too much focus on doing well academically might mean they neglect other important aspects of preparing for the workforce.

@@ -1,10 +1,9 @@
 ---
 title: 'On Fighting &#8220;That 2:30 Feeling&#8221;'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=253
+permalink: /2012/07/06/on-fighting-that-230-feeling/
 tagazine-media:
-  - 'a:7:{s:7:"primary";s:77:"http://friendmanagement.com/squeeq/wp-content/uploads/2008/05/redbullcola.jpg";s:6:"images";a:1:{s:77:"http://friendmanagement.com/squeeq/wp-content/uploads/2008/05/redbullcola.jpg";a:6:{s:8:"file_url";s:77:"http://friendmanagement.com/squeeq/wp-content/uploads/2008/05/redbullcola.jpg";s:5:"width";s:3:"546";s:6:"height";s:3:"366";s:4:"type";s:5:"image";s:4:"area";s:6:"199836";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2012-07-07 01:52:25";}'
   - 'a:7:{s:7:"primary";s:77:"http://friendmanagement.com/squeeq/wp-content/uploads/2008/05/redbullcola.jpg";s:6:"images";a:1:{s:77:"http://friendmanagement.com/squeeq/wp-content/uploads/2008/05/redbullcola.jpg";a:6:{s:8:"file_url";s:77:"http://friendmanagement.com/squeeq/wp-content/uploads/2008/05/redbullcola.jpg";s:5:"width";s:3:"546";s:6:"height";s:3:"366";s:4:"type";s:5:"image";s:4:"area";s:6:"199836";s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";s:1:"1";s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2012-07-07 01:52:25";}'
 categories:
   - Computer Science
@@ -12,7 +11,7 @@ tags:
   - focus
   - programming
 ---
-<a href="http://seitad.wordpress.com/2012/07/06/on-fighting-that-230-feeling/redbull-2/" rel="attachment wp-att-363"><img src="http://www.seitad.com/wp-content/uploads/2012/07/redbull1.jpg" alt="" title="RedBull" width="461" height="345" class="aligncenter size-full wp-image-363" /></a>
+<a href="http://seitad.wordpress.com/2012/07/06/on-fighting-that-230-feeling/redbull-2/" rel="attachment wp-att-363"><img src="http://seitad.files.wordpress.com/2012/07/redbull1.jpg" alt="" title="RedBull" width="461" height="345" class="aligncenter size-full wp-image-363" /></a>
 
 After following a 9:30 AM to 6:00 PM schedule for most of the summer, I&#8217;ve occasionally experienced &#8220;That 2:30 Feeling,&#8221; courtesy of the 5-Hour Energy commercials. (Being a college student, in which I can nap as often as I wish, just doesn&#8217;t provide that experience.) For those who haven&#8217;t seen the commercial, &#8220;That 2:30 Feeling&#8221; refers to the almost complete exhaustion many people feel after lunch, which is then mysteriously followed by a period of renewed energy near the evening as the workday comes to a close. I clearly, though, don&#8217;t want the mid-afternoon lulls to attenuate my productivity. So what should I do?
 

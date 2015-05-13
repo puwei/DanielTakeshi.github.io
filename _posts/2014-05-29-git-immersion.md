@@ -2,9 +2,8 @@
 title: Git and Git Immersion
 author: Daniel Seita
 layout: post
-permalink: /?p=1791
+permalink: /2014/05/29/git-immersion/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science

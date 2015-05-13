@@ -1,10 +1,8 @@
 ---
 title: Summer Academy
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=24
-dsq_thread_id:
-  - 3755963901
+permalink: /2011/08/26/summer-academy/
 categories:
   - Deaf
 tags:

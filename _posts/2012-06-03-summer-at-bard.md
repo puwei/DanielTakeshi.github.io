@@ -2,7 +2,7 @@
 title: Summer at Bard
 author: Daniel Seita
 layout: post
-permalink: /?p=160
+permalink: /2012/06/03/summer-at-bard/
 categories:
   - Computer Science
 tags:

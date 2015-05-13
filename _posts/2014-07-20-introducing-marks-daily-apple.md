@@ -1,10 +1,9 @@
 ---
 title: 'Introducing Mark&#8217;s Daily Apple'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1893
+permalink: /2014/07/20/introducing-marks-daily-apple/
 geo_public:
-  - 0
   - 0
 categories:
   - Everything Else
@@ -22,7 +21,7 @@ Summers are nice because they offer me a break from an intense academic environm
 
 There&#8217;s a lot of information available that we can use for diet advice. For instance, the United States Department of Agriculture has their famous (or infamous, as I&#8217;ll get to shortly) 1992 food pyramid:
 
-[<img class="aligncenter size-large wp-image-1895" src="http://www.seitad.com/wp-content/uploads/2014/07/usda_food_pyramid1.gif?w=460" alt="USDA_Food_Pyramid" width="460" height="358" />][1]Let&#8217;s suppose we use this as a guide to optimal health, which seems reasonable because it&#8217;s from a United States government organization. (It shouldn&#8217;t be, because that pyramid has already been scrapped in favor of new dietary guidelines, but it&#8217;s good to discuss it to see the historical perspective on food.)
+[<img class="aligncenter size-large wp-image-1895" src="http://seitad.files.wordpress.com/2014/07/usda_food_pyramid.gif?w=460" alt="USDA_Food_Pyramid" width="460" height="358" />][1]Let&#8217;s suppose we use this as a guide to optimal health, which seems reasonable because it&#8217;s from a United States government organization. (It shouldn&#8217;t be, because that pyramid has already been scrapped in favor of new dietary guidelines, but it&#8217;s good to discuss it to see the historical perspective on food.)
 
 Unfortunately, even without consulting outside sources, I can already see several problems:
 
@@ -44,7 +43,7 @@ If you want more information about his philosophy towards food and life, I&#8217
 
 In a future blog post, I&#8217;ll delve more deeply into diet controversies. (Don&#8217;t worry &#8212; this digression doesn&#8217;t mean that I&#8217;m turning into a nutritionist&#8230;)
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/07/usda_food_pyramid1.gif
+ [1]: https://seitad.files.wordpress.com/2014/07/usda_food_pyramid.gif
  [2]: http://www.marksdailyapple.com/#axzz37wZDBuAp
  [3]: http://www.marksdailyapple.com/introducing-the-new-primal-blueprint-food-pyramid/#axzz37wZDBuAp
  [4]: http://www.marksdailyapple.com/welcome-to-marks-daily-apple/#axzz37wZDBuAp

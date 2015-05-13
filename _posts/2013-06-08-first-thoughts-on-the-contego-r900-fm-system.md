@@ -2,14 +2,14 @@
 title: First Thoughts on the Contego R900 FM System
 author: Daniel Seita
 layout: post
-permalink: /?p=978
+permalink: /2013/06/08/first-thoughts-on-the-contego-r900-fm-system/
 categories:
   - Deaf
 tags:
   - Contego R900
   - FM System
 ---
-[<img class="aligncenter size-medium wp-image-980" alt="Contego R900" src="http://www.seitad.com/wp-content/uploads/2013/06/contego-r900.jpg?w=300" width="300" height="225" />][1]
+[<img class="aligncenter size-medium wp-image-980" alt="Contego R900" src="http://seitad.files.wordpress.com/2013/06/contego-r900.jpg?w=300" width="300" height="225" />][1]
 
 I&#8217;m almost done with my first week at The University of North Carolina at Greensboro&#8217;s [algorithms and combinatorics REU][2], and I&#8217;ve also had my first experience with the [Contego R900 FM system][3].
 
@@ -23,6 +23,6 @@ Nonetheless, I&#8217;m going to switch to using the T-Coil loop in the future. I
 
 I&#8217;m looking forward to using the Contego R900 in the remaining seven weeks of the REU. Later in the summer, I&#8217;ll probably write up a long comparison between the Contego R900 and the Phonak Smartlink FM systems.
 
- [1]: http://www.seitad.com/wp-content/uploads/2013/06/contego-r900.jpg
+ [1]: http://seitad.files.wordpress.com/2013/06/contego-r900.jpg
  [2]: http://www.uncg.edu/cmp/reu/
  [3]: http://www.tecear.com/Comfort_Contego.htm

@@ -2,9 +2,7 @@
 title: Project Euler 85
 author: Daniel Seita
 layout: post
-permalink: /?p=278
-dsq_thread_id:
-  - 3755961753
+permalink: /2012/07/14/project-euler-85/
 categories:
   - Computer Science
 tags:

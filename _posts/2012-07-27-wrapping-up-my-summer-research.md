@@ -2,7 +2,7 @@
 title: Wrapping Up my Summer Research
 author: Daniel Seita
 layout: post
-permalink: /?p=269
+permalink: /2012/07/27/wrapping-up-my-summer-research/
 categories:
   - Computer Science
 tags:

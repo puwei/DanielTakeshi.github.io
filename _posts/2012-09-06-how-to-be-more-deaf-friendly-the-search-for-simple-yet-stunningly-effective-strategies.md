@@ -1,10 +1,8 @@
 ---
 title: 'How to be More Deaf-Friendly: The Search for Simple, yet Stunningly Effective Strategies'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=680
-dsq_thread_id:
-  - 3755961883
+permalink: /2012/09/06/how-to-be-more-deaf-friendly-the-search-for-simple-yet-stunningly-effective-strategies/
 categories:
   - Deaf
 tags:

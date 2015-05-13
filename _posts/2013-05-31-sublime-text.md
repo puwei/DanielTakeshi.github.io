@@ -1,13 +1,10 @@
 ---
 title: Sublime Text
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=973
+permalink: /2013/05/31/sublime-text/
 tagazine-media:
   - 'a:7:{s:7:"primary";s:58:"http://seitad.files.wordpress.com/2013/05/sublime_text.png";s:6:"images";a:1:{s:58:"http://seitad.files.wordpress.com/2013/05/sublime_text.png";a:6:{s:8:"file_url";s:58:"http://seitad.files.wordpress.com/2013/05/sublime_text.png";s:5:"width";i:819;s:6:"height";i:681;s:4:"type";s:5:"image";s:4:"area";i:557739;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:1;s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2013-05-31 19:19:09";}'
-  - 'a:7:{s:7:"primary";s:58:"http://seitad.files.wordpress.com/2013/05/sublime_text.png";s:6:"images";a:1:{s:58:"http://seitad.files.wordpress.com/2013/05/sublime_text.png";a:6:{s:8:"file_url";s:58:"http://seitad.files.wordpress.com/2013/05/sublime_text.png";s:5:"width";i:819;s:6:"height";i:681;s:4:"type";s:5:"image";s:4:"area";i:557739;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:1;s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2013-05-31 19:19:09";}'
-dsq_thread_id:
-  - 3755963396
 categories:
   - Computer Science
 tags:
@@ -16,7 +13,7 @@ tags:
   - Sublime Text
   - text editor
 ---
-[<img class="aligncenter size-large wp-image-974" alt="Sublime_Text" src="http://www.seitad.com/wp-content/uploads/2013/05/sublime_text.png?w=460" width="460" height="382" />][1]
+[<img class="aligncenter size-large wp-image-974" alt="Sublime_Text" src="http://seitad.files.wordpress.com/2013/05/sublime_text.png?w=460" width="460" height="382" />][1]
 
 All right, let&#8217;s give this a shot.
 
@@ -28,6 +25,6 @@ I don&#8217;t think I&#8217;m at the point in my career where I need to really w
 
 Now, if Sublime Text starts requiring us to *pay *for continued use, then I&#8217;m likely gone. Hopefully that won&#8217;t happen.
 
- [1]: http://www.seitad.com/wp-content/uploads/2013/05/sublime_text.png
+ [1]: http://seitad.files.wordpress.com/2013/05/sublime_text.png
  [2]: http://www.sublimetext.com/
  [3]: http://en.wikipedia.org/wiki/K-means_clustering

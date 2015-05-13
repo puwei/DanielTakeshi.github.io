@@ -1,13 +1,10 @@
 ---
 title: 'Clarifications to Mor Harchol-Balter&#8217;s Ph.D. Advice'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1356
+permalink: /2013/09/01/clarifications-to-mor-harchol-balters-ph-d-advice/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962112
 categories:
   - Computer Science
 tags:

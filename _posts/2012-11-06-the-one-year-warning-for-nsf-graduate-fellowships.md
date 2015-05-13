@@ -1,8 +1,8 @@
 ---
 title: The One-Year Warning for NSF Graduate Fellowships
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=755
+permalink: /2012/11/06/the-one-year-warning-for-nsf-graduate-fellowships/
 categories:
   - Deaf
 tags:

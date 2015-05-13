@@ -2,9 +2,8 @@
 title: Review of Statistical Learning Theory (CS 281a) at Berkeley
 author: Daniel Seita
 layout: post
-permalink: /?p=2040
+permalink: /2014/12/30/review-of-statistical-learning-theory-cs-281a-at-berkeley/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -13,7 +12,7 @@ tags:
   - statistical learning theory
   - statistics
 ---
-[<img class="aligncenter size-large wp-image-2155" src="http://www.seitad.com/wp-content/uploads/2014/12/statistical_learning_theory1.png?w=460" alt="statistical_learning_theory" width="460" height="345" />][1]Now that I&#8217;ve finished my first semester at Berkeley, I think it&#8217;s time for me to review how I felt about the two classes I took: Statistical Learning Theory (CS 281a) and Natural Language Processing (CS 288). In this post, I&#8217;ll discuss CS 281a, a class that I&#8217;m extremely happy I took even if it was a bit stressful to be in lecture (more on that later).
+[<img class="aligncenter size-large wp-image-2155" src="https://seitad.files.wordpress.com/2014/12/statistical_learning_theory.png?w=460" alt="statistical_learning_theory" width="460" height="345" />][1]Now that I&#8217;ve finished my first semester at Berkeley, I think it&#8217;s time for me to review how I felt about the two classes I took: Statistical Learning Theory (CS 281a) and Natural Language Processing (CS 288). In this post, I&#8217;ll discuss CS 281a, a class that I&#8217;m extremely happy I took even if it was a bit stressful to be in lecture (more on that later).
 
 First of all, what is statistical learning theory? I view the subject as one that principally deals with the problem of finding a predictive function of data that minimizes a loss function (e.g., squared loss) on training data, and analyzes this problem in a framework that conflates machine learning and probability methods. Whereas a standard machine learning course might primarily describe various learning algorithms, statistical learning theory focuses on the subset of these that are most well-suited to statistical analysis. For instance, *regression* is a common learning algorithm, and *regularization* is a common (statistical?) technique we use to improve our predictors.
 
@@ -33,7 +32,7 @@ I was still able to learn a lot of the material in part because I did a *lot* of
 
 Overall verdict: I&#8217;m happy I took it. It&#8217;s a good introduction to what graduate courses are like, and I will *probably* take the sequel, CS 281B, the next time it&#8217;s offered.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/12/statistical_learning_theory1.png
+ [1]: https://seitad.files.wordpress.com/2014/12/statistical_learning_theory.png
  [2]: http://piazza.com
  [3]: http://seitad.wordpress.com/2014/12/18/detection-theory-adventures-a-k-a-a-final-project/
  [4]: http://seitad.wordpress.com/2014/10/05/after-a-few-weeks-of-cart-why-do-i-feel-dissatisfied/

@@ -1,10 +1,9 @@
 ---
 title: The Advantages of Recitations in Large Lecture Courses
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=2140
+permalink: /2014/12/27/the-advantage-of-recitations-in-large-lecture-courses/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
@@ -14,7 +13,7 @@ tags:
   - recitation
   - university
 ---
-[<img class="aligncenter size-large wp-image-2145" src="http://www.seitad.com/wp-content/uploads/2014/12/williams_auditorium.jpg?w=460" alt="williams_auditorium" width="460" height="368" />][1]
+[<img class="aligncenter size-large wp-image-2145" src="https://seitad.files.wordpress.com/2014/12/williams_auditorium.jpg?w=460" alt="williams_auditorium" width="460" height="368" />][1]
 
 At Williams, the largest mathematics or computer science course I took had probably 55 students. The normal size was 20 to 35 students. This meant I had many opportunities to talk to the professors without *too much* competition among the students.
 
@@ -30,4 +29,4 @@ One understandable reaction to this kind of situation is &#8230; *why would anyo
 
 I wish I had better understood the tradeoffs between lectures in large universities and small liberal arts colleges back in high school when I was considering which college to attend. Then again, since I got rejected from almost everywhere I applied despite high GPA and SAT scores, perhaps it wouldn&#8217;t have mattered in the end, but I might have considered expanding the pool of my college applications to include more universities.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/12/williams_auditorium.jpg
+ [1]: https://seitad.files.wordpress.com/2014/12/williams_auditorium.jpg

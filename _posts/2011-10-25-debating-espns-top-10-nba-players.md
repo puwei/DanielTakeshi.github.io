@@ -1,8 +1,8 @@
 ---
 title: 'Debating ESPN&#8217;s Top 10 NBA Players'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=72
+permalink: /2011/10/25/debating-espns-top-10-nba-players/
 categories:
   - Everything Else
 tags:

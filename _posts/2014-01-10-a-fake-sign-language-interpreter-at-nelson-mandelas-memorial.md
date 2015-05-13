@@ -1,10 +1,9 @@
 ---
 title: 'A Fake Sign Language Interpreter at Nelson Mandela&#8217;s Memorial'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1530
+permalink: /2014/01/10/a-fake-sign-language-interpreter-at-nelson-mandelas-memorial/
 geo_public:
-  - 0
   - 0
 categories:
   - Deaf
@@ -14,7 +13,7 @@ tags:
   - sign language
   - South Africa
 ---
-[<img class="aligncenter size-large wp-image-1531" alt="interpreter-popup" src="http://www.seitad.com/wp-content/uploads/2014/01/interpreter-popup.jpg?w=460" width="460" height="228" />][1]
+[<img class="aligncenter size-large wp-image-1531" alt="interpreter-popup" src="http://seitad.files.wordpress.com/2014/01/interpreter-popup.jpg?w=460" width="460" height="228" />][1]
 
 Last month, [Nelson Mandela][2] passed away. Mr. Mandela, who led the emancipation of South Africa from white minority rule, was one of the most beloved people in his country. Thus, there was no doubt that his memorial would be well-attended by not only people from South Africa, but also some of the world&#8217;s most prominent leaders such as President Barack Obama.
 
@@ -36,7 +35,7 @@ There is also news that [Mr. Jantjie has a criminal history][5]. This article me
 
 That doesn&#8217;t sound like the kind of person I&#8217;d like to see up there. Hiring someone like him to be an interpreter for the memorial of possibly the most important person in South African history? I&#8217;m glad that I can trust my own interpreters here at Williams College.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/01/interpreter-popup.jpg
+ [1]: http://seitad.files.wordpress.com/2014/01/interpreter-popup.jpg
  [2]: http://en.wikipedia.org/wiki/Nelson_Mandela
  [3]: http://www.nytimes.com/2013/12/12/world/africa/interpreter-at-mandela-service-said-to-be-an-imposter.html
  [4]: http://thelede.blogs.nytimes.com/2013/12/12/mandela-memorial-interpreter-speaks-in-his-own-defense/?ref=signlanguage

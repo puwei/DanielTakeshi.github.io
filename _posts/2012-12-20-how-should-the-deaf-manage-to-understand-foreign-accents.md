@@ -1,10 +1,8 @@
 ---
 title: How Should the Deaf Manage to Understand Foreign Accents?
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=798
-dsq_thread_id:
-  - 3755963668
+permalink: /2012/12/20/how-should-the-deaf-manage-to-understand-foreign-accents/
 categories:
   - Deaf
 tags:

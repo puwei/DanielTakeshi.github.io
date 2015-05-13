@@ -2,7 +2,7 @@
 title: ASL Guidelines, Revisited
 author: Daniel Seita
 layout: post
-permalink: /?p=180
+permalink: /2012/06/16/asl-guidelines-revisited/
 categories:
   - Deaf
 tags:

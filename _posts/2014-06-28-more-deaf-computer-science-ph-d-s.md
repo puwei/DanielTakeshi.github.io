@@ -1,13 +1,10 @@
 ---
 title: More Deaf Computer Science Ph.D.s
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1860
+permalink: /2014/06/28/more-deaf-computer-science-ph-d-s/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962727
 categories:
   - Deaf
 tags:

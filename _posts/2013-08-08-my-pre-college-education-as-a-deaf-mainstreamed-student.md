@@ -1,13 +1,10 @@
 ---
 title: My Pre-College Education as a Deaf Mainstreamed Student
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1322
+permalink: /2013/08/08/my-pre-college-education-as-a-deaf-mainstreamed-student/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962075
 categories:
   - Deaf
 tags:

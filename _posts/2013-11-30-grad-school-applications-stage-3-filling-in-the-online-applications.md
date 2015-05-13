@@ -1,10 +1,9 @@
 ---
 title: 'Grad School Applications, Stage 3: The Online Applications'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1463
+permalink: /2013/11/30/grad-school-applications-stage-3-filling-in-the-online-applications/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science

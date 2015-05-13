@@ -1,10 +1,9 @@
 ---
 title: 'The UNC at Greensboro&#8217;s CS/Math REU'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=919
+permalink: /2013/03/15/the-university-of-north-carolina-at-greensboro-computer-science-reu/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science

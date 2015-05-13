@@ -2,9 +2,8 @@
 title: 'Derrick Coleman&#8217;s Super Bowl Commercial'
 author: Daniel Seita
 layout: post
-permalink: /?p=1612
+permalink: /2014/02/03/derrick-colemans-super-bowl-commercial/
 geo_public:
-  - 0
   - 0
 categories:
   - Deaf
@@ -15,7 +14,7 @@ tags:
   - Seattle Seahawks
   - Super Bowl
 ---
-[<img class="aligncenter size-full wp-image-1616" alt="Super_Bowl_XLVIII_logo" src="http://www.seitad.com/wp-content/uploads/2014/02/super_bowl_xlviii_logo.png" width="329" height="302" />][1]
+[<img class="aligncenter size-full wp-image-1616" alt="Super_Bowl_XLVIII_logo" src="http://seitad.files.wordpress.com/2014/02/super_bowl_xlviii_logo.png" width="329" height="302" />][1]
 
 Last night, I participated in a popular American tradition by watching the Super Bowl game. You can read recaps on [The New York Times][2], [ESPN][3], and other sources.
 
@@ -27,7 +26,7 @@ The game itself ended up being a blowout. It was boring to someone like me who d
 
 Now, I know a lot of deaf people. I actually went on Facebook (!) last night, and saw deaf people supporting the Seattle Seahawks *just because* Coleman was on the team. So his story is inspiring, and clearly has an effect on other deaf people. It will be interesting to see how his career progresses &#8212; he&#8217;s only 23, by the way &#8212; and if other deaf players will join him in the NFL.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/02/super_bowl_xlviii_logo.png
+ [1]: http://seitad.files.wordpress.com/2014/02/super_bowl_xlviii_logo.png
  [2]: http://www.nytimes.com/2014/02/03/sports/football/peyton-manning-goes-cold-as-seattle-brings-the-heat.html?hp
  [3]: http://scores.espn.go.com/nfl/recap?gameId=340202007
  [4]: http://www.youtube.com/watch?v=u2HD57z4F8E

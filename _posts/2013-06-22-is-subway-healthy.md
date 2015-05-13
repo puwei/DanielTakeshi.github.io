@@ -1,10 +1,9 @@
 ---
 title: Is Subway Healthy?
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=986
+permalink: /2013/06/22/is-subway-healthy/
 geo_public:
-  - 0
   - 0
 categories:
   - Everything Else

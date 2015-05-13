@@ -2,12 +2,9 @@
 title: Michael Lizarraga, a Deaf Basketball Player
 author: Daniel Seita
 layout: post
-permalink: /?p=1549
+permalink: /2014/01/13/michael-lizarraga-a-deaf-basketball-player/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755963067
 categories:
   - Deaf
 tags:

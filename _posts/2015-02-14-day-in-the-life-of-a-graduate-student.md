@@ -1,8 +1,8 @@
 ---
 title: Day in the Life of a Graduate Student
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=2404
+permalink: /2015/02/14/day-in-the-life-of-a-graduate-student/
 geo_public:
   - 0
 categories:

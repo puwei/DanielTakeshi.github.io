@@ -2,12 +2,9 @@
 title: New Closed-Captioning Glasses
 author: Daniel Seita
 layout: post
-permalink: /?p=1033
+permalink: /2013/06/28/new-closed-captioning-glasses/
 tagazine-media:
   - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2013-06-25 00:31:10";}'
-  - 'a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2013-06-25 00:31:10";}'
-dsq_thread_id:
-  - 3755963315
 categories:
   - Deaf
 tags:

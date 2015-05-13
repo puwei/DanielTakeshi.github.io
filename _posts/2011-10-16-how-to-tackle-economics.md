@@ -2,7 +2,7 @@
 title: How to Tackle Economics
 author: Daniel Seita
 layout: post
-permalink: /?p=70
+permalink: /2011/10/16/how-to-tackle-economics/
 categories:
   - Everything Else
 tags:

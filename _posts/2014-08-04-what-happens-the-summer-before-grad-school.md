@@ -1,13 +1,10 @@
 ---
 title: What Happens the Summer Before Grad School?
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1936
+permalink: /2014/08/04/what-happens-the-summer-before-grad-school/
 geo_public:
   - 0
-  - 0
-dsq_thread_id:
-  - 3755962642
 categories:
   - Computer Science
 tags:

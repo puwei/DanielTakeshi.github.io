@@ -2,9 +2,8 @@
 title: No More Computer Science GRE Subject Test Exam
 author: Daniel Seita
 layout: post
-permalink: /?p=1346
+permalink: /2013/08/01/no-more-computer-science-gre-subject-test-exam/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science

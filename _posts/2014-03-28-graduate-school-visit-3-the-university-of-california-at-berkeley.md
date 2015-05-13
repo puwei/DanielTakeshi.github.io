@@ -1,17 +1,16 @@
 ---
 title: 'Graduate School Visit #3: The University of California, Berkeley'
-author: takeshidanny@gmail.com
+author: Daniel Seita
 layout: post
-permalink: /?p=1670
+permalink: /2014/03/28/graduate-school-visit-3-the-university-of-california-at-berkeley/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
 tags:
   - Berkeley
 ---
-[<img class="aligncenter size-large wp-image-1694" src="http://www.seitad.com/wp-content/uploads/2014/03/berkeley2.jpg?w=460" alt="Berkeley2" width="460" height="345" />][1]
+[<img class="aligncenter size-large wp-image-1694" src="http://seitad.files.wordpress.com/2014/03/berkeley2.jpg?w=460" alt="Berkeley2" width="460" height="345" />][1]
 
 After [visiting Cornell][2], I had a short break at Williams and then traveled to San Francisco to visit the University of California at Berkeley.
 
@@ -39,7 +38,7 @@ After the chair&#8217;s presentation, there were group meetings based on researc
 
 After all that was the campus tour at 4:00 PM. I went inside the [Sather Tower][5] and took the following photo while I was at the top. Another one of my photos is the one that starts this blog post.
 
-[<img class="aligncenter size-large wp-image-1693" src="http://www.seitad.com/wp-content/uploads/2014/03/berkeley1.jpg?w=460" alt="Berkeley1" width="460" height="345" />][6]
+[<img class="aligncenter size-large wp-image-1693" src="http://seitad.files.wordpress.com/2014/03/berkeley1.jpg?w=460" alt="Berkeley1" width="460" height="345" />][6]
 
 The day wouldn&#8217;t have been complete without the graduate student panel, which took place right after the tour. It was similar to the ones at Cornell and UT Austin. I was genuinely interested to see what the graduate students would answer to the question of &#8220;What is the worst thing about Berkeley?&#8221; After all, they cannot use the excuses of either the weather being cold (it&#8217;s not) or the school not being the highest ranked (it has the best ranking). The grad students said: getting through the bureaucracy.
 
@@ -49,11 +48,11 @@ The third day was when all the one-on-one, 30-minute faculty meetings occurred.
 
 After my final faculty meeting of the day, I was able to sneak in another hour or two to do some late Operations Research homework. For dinner, I headed out with the HCI group, and then later took the train to San Francisco airport since, like many of the Berkeley admits, I had to head to Seattle for another visit days starting the next morning&#8230;.
 
- [1]: http://www.seitad.com/wp-content/uploads/2014/03/berkeley2.jpg
+ [1]: http://seitad.files.wordpress.com/2014/03/berkeley2.jpg
  [2]: http://seitad.wordpress.com/2014/03/27/graduate-school-visit-2-cornell-university/
  [3]: http://www.berkeleyside.com/2012/08/27/cal-memorial-stadium-unveiled-after-21-month-renovation/
  [4]: http://www.cs.berkeley.edu/~sequin/soda/soda.html
  [5]: http://en.wikipedia.org/wiki/Sather_Tower
- [6]: http://www.seitad.com/wp-content/uploads/2014/03/berkeley1.jpg
+ [6]: http://seitad.files.wordpress.com/2014/03/berkeley1.jpg
  [7]: http://www.cs.berkeley.edu/~culler/
  [8]: http://www.cs.berkeley.edu/~jordan/

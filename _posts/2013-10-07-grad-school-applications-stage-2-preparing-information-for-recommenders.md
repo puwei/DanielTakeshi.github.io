@@ -2,9 +2,8 @@
 title: 'Grad School Applications, Stage 2: Preparing Information for Reference Writers'
 author: Daniel Seita
 layout: post
-permalink: /?p=1432
+permalink: /2013/10/07/grad-school-applications-stage-2-preparing-information-for-recommenders/
 geo_public:
-  - 0
   - 0
 categories:
   - Computer Science
