@@ -31,31 +31,31 @@ Basically, I consider all the possible dimensions of a smaller rectangle within 
 
 For reference, here was my actual code. It&#8217;s written in Python. (I used Java to solve the first 50 or so problems, but since then, it&#8217;s been Python all the way.) The code gave me the correct answer in fewer than five seconds.
 
-[sourcecode language=&#8221;python&#8221;]  
+{% highlight python %}
 import math
 
 def computeRectangles(row, col):  
-total = 0  
-for r in range(1, row + 1):  
-for c in range(1, col + 1):  
-total += (row &#8211; r + 1) * (col &#8211; c + 1)  
-return total
+  total = 0  
+  for r in range(1, row + 1):  
+    for c in range(1, col + 1):  
+      total += (row - r + 1) * (col - c + 1)  
+  return total
 
 smallestDiff = 2000000  
 area = -1  
 finalRow = -1  
 finalCol = -1  
 for row in range(1,101):  
-for col in range(1,101):  
-rectangles = computeRectangles(row, col)  
-diff = math.fabs(rectangles &#8211; 2000000)  
-if (diff < smallestDiff):  
-area = row * col  
-smallestDiff = diff  
-finalRow = row  
-finalCol = col  
-print &#8216;Result: [%s]x[%s] with area of %s.&#8217; %(finalRow, finalCol, area)  
-[/sourcecode]
+  for col in range(1,101):  
+    rectangles = computeRectangles(row, col)  
+    diff = math.fabs(rectangles - 2000000)  
+    if (diff < smallestDiff):  
+      area = row * col  
+      smallestDiff = diff  
+      finalRow = row  
+      finalCol = col  
+print "Result: [%s]x[%s] with area of %s" %(finalRow, finalCol, area)  
+{% endhighlight %}
 
 I have to thank Project Euler for not just giving me a medium through which to practice programming, but also for lending me a new perspective on problem solving approaches. I&#8217;m just two solutions away from level 3 at this time&#8230;.
 

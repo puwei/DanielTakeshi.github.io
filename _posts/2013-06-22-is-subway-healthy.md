@@ -15,17 +15,33 @@ tags:
 ---
 **Updated 12/24/13, see the end for details.**
 
-Maybe it&#8217;s just me, but sometimes I get irritated when I see recent studies such as [this one][1] cause a rash of &#8220;Subway is just as bad as McDonald&#8217;s&#8221; [announcements][2].****
+Maybe it&#8217;s just me, but sometimes I get irritated when I see recent studies such as [this
+one][1] cause a rash of &#8220;Subway is just as bad as McDonald&#8217;s&#8221;
+[announcements][2].
 
-Now, to be fair, most of these news releases make it clear that it&#8217;s not strictly what the restaurants serve that matters; it&#8217;s what people *actually order *there. Unfortunately, it seems like people aren&#8217;t eating the healthy items. The study I linked to involved almost a hundred adolescents who ate meals at both Subway and McDonald&#8217;s on separate days. The researchers took the receipts of their meal purchases and calculated that the participants purchased an average of 1,038 calories at McDonald&#8217;s versus 955 at Subway. They concluded that despite Subway&#8217;s healthy vibe, meals there are just as likely to contribute to overeating as compared to meals from McDonald&#8217;s.
+Now, to be fair, most of these news releases make it clear that it&#8217;s not strictly what the
+restaurants serve that matters; it&#8217;s what people *actually order* there. Unfortunately, it
+seems like people aren&#8217;t eating the healthy items. The study I linked to involved almost a
+hundred adolescents who ate meals at both Subway and McDonald&#8217;s on separate days. The
+researchers took the receipts of their meal purchases and calculated that the participants purchased
+an average of 1,038 calories at McDonald&#8217;s versus 955 at Subway. They concluded that despite
+Subway&#8217;s healthy vibe, meals there are just as likely to contribute to overeating as compared
+to meals from McDonald&#8217;s.
 
 <!--more-->
 
-This study is somewhat relative to me since it&#8217;s no secret that I am a Subway addict. At home, there are multiple Subways within a 15-minute drive. At Williams College, there&#8217;s a subway within a thirty **second* **walk* from my dorm. And at Greensboro, where I&#8217;m spending the summer, I&#8217;ve already found two Subways close to my work area.
+This study is somewhat relative to me since it&#8217;s no secret that I am a Subway addict. At home,
+there are multiple Subways within a 15-minute drive. At Williams College, there&#8217;s a subway
+within a *thirty second walk* from my dorm. And at Greensboro, where I&#8217;m spending the
+summer, I&#8217;ve already found two Subways close to my work area.
 
-In contrast, I don&#8217;t eat at McDonald&#8217;s anymore. The last time I remember even getting a meal there was &#8230;
+In contrast, I don&#8217;t eat at McDonald&#8217;s anymore. The last time I remember even getting a
+meal there was &#8230;
 
-&#8230; actually, I&#8217;m honestly not sure. My bess guess is during eighth or ninth grade. So it&#8217;s been a while since I&#8217;ve had a full meal there, so the study may be a bit biased in the sense that if its participants were willing to eat at McDonald&#8217;s, it&#8217;s not likely that they would order the healthy items at Subway.
+&#8230; actually, I&#8217;m honestly not sure. My bess guess is during eighth or ninth grade. So
+it&#8217;s been a while since I&#8217;ve had a full meal there, so the study may be a bit biased in
+the sense that if its participants were willing to eat at McDonald&#8217;s, it&#8217;s not likely
+that they would order the healthy items at Subway.
 
 But just to be sure that I&#8217;m at least avoiding the worst of Subway&#8217;s stuff, I decided to analyze my most recent meal there. I ordered a 12-inch nine-grain honey oat sandwich with oven roasted chicken, cheddar cheese, lettuce, onions, and spinach.
 
@@ -50,9 +66,15 @@ I do conclude, though, that it&#8217;s not best for me or anyone else to eat at 
 
 To those of you who regularly eat at Subway, try analyzing one of your meals these days and see what you discover.
 
-**Update 12/24/13: **The text above is the original entry, which I have kept unchanged for historical purposes. What&#8217;s rather amusing in retrospect is that about a week after this was first published, I had my last Subway meal. I have officially quit eating Subway foods.
+**Update 12/24/13:** The text above is the original entry, which I have kept unchanged for
+historical purposes. What&#8217;s rather amusing in retrospect is that about a week after this was
+first published, I had my last Subway meal. I have officially quit eating Subway foods.
 
-I realize that my analysis in the original post was more of a McDonalds versus Subway thing, but really, I should be focusing on the question of: should I eat Subway food at all? I&#8217;ve concluded, due to the way they cook/store their meats and because of my newfound concern over grains, that Subway is simply not going to be part of my diet for the rest of my life, unless they fundamentally alter the way they make sandwiches.
+I realize that my analysis in the original post was more of a McDonalds versus Subway thing, but
+really, I should be focusing on the question of: should I eat Subway food at all? I&#8217;ve
+concluded, due to the way they cook/store their meats and because of my newfound concern over
+grains, that Subway is simply not going to be part of my diet for the rest of my life, unless they
+fundamentally alter the way they make sandwiches.
 
  [1]: http://www.ncbi.nlm.nih.gov/pubmed/23660412
  [2]: http://news.yahoo.com/breaking-subway-just-unhealthy-mcdonald-185710202.html

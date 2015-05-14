@@ -17,6 +17,10 @@ tags:
 ---
 <a href="http://seitad.wordpress.com/2012/08/14/on-my-new-theory-of-computation-series/2012-08-09-13-05-07/" rel="attachment wp-att-532"><img class="aligncenter size-full wp-image-532" title="2012-08-09 13.05.07" alt="" src="http://seitad.files.wordpress.com/2012/08/2012-08-09-13-05-07.jpg" width="500" height="160" /></a>
 
+**UPDATE** May 13, 2015: I only managed to do half of what I wanted for this series, but at least I
+did _something_. As of now, I'm not going to go back to working on this because my current academic
+and research interests have shifted.
+
 The fall 2012 semester is approaching. It&#8217;s not as fast as those [winter waves in Waimea Bay][1], but close enough. (Yes, the above photo I took is of the *same* beach &#8212; click for a larger view.)
 
 Here are all the courses I&#8217;m taking:

@@ -25,7 +25,8 @@ Computability and complexity will come later in the course. Right now we&#8217;r
 
 <!--more-->
 
-To start off, let&#8217;s look at some basic computers, called *finite automata*. To put things formally, a finite automaton is a 5-tuple $latex (Q, sum, delta, q_{1}, F)$, where*
+To start off, let&#8217;s look at some basic computers, called *finite automata*. To put things
+formally, a finite automaton is a 5-tuple $latex (Q, sum, delta, q_{1}, F)$, where[^sipser]
 
   1. $latex Q$ is a finite set of states
   2. $latex sigma$ is a finite set known as the alphabet
@@ -57,9 +58,23 @@ When I say &#8220;progress through a given string,&#8221; I refer to the process
   4. By now it should be clearer what should be accepted by the machine. Let&#8217;s go with &#8220;10&#8221; and see what happens. We start at $latex q\_{1}$ as usual.  We proceed to $latex q\_{3}$ since we started with a 1. Our next character is a 0, so we go to $latex q_{4}$ and stop there. At last! We have a string that is recognized by the language! So whatever the language is here, it better include &#8220;10&#8221; but *exclude* &#8220;1&#8221;, &#8220;0&#8221;, and the empty string.
   5. Let&#8217;s try &#8220;010&#8221;. We start by going to $latex q\_{2}$ due to the leading zero. Then we have &#8220;10&#8221; left, so we follow the arrow for the &#8220;1&#8221; which loops back to the same state. Then our final task is to go where the &#8220;0&#8221; arrow points to, but again, that goes back to the same $latex q\_{2}$ state! Thus, &#8220;010&#8221; is not accepted by this machine.
 
-We can go on and on, but at some point, we have to come up with the rules for this language the machine accepts. Notice that state $latex q_{2}$ is a &#8220;death&#8221; or &#8220;trap&#8221; state, because as soon as a string enters that state, it *must* end there. All strings are finite, and no matter what, any symbol we get (which is only a 0 or a 1 here) will lead us back to the same state. In other words, it is impossible for a string to be accepted (i.e. finish at $latex q\_{4}$) if it ever enters $latex q\_{2}$. This means that *if a string has a leading zero, it will never be accepted by the language/machine*.
+We can go on and on, but at some point, we have to come up with the rules for this language the
+machine accepts. Notice that state $latex q_{2}$ is a &#8220;death&#8221; or &#8220;trap&#8221;
+state, because as soon as a string enters that state, it *must* end there. All strings are finite,
+and no matter what, any symbol we get (which is only a 0 or a 1 here) will lead us back to the same
+state. In other words, it is impossible for a string to be accepted (i.e. finish at $latex q\_{4}$)
+if it ever enters $latex q\_{2}$. This means that *if a string has a leading zero, it will never be
+    accepted by the language/machine*.
 
-So now we know the language this machine recognizes must have all strings starting with a 1. But are there further restrictions? The answer is yes. If we have a string that consists of all 1s, then we will always end at $latex q\_{3}$ due to the 1 that loops back to that state. This is not an accept state, so we need to consider having a 0 in some string. Notice that the accept state has a 0 that loops back to it. So if a given string ever reaches $latex q\_{4}$, as long as it ends in a 0, it will remain in that state and be accepted. It doesn&#8217;t matter if we have one, five, or a hundred zeroes. The only way a string can leave an accept state is by having a 1, which means that string goes back to $latex q_{3}$. But notice that this is* not a death state*! It is possible to come back to the accept state if a string is in $latex q_{3}$.
+So now we know the language this machine recognizes must have all strings starting with a 1. But are
+there further restrictions? The answer is yes. If we have a string that consists of all 1s, then we
+will always end at $latex q\_{3}$ due to the 1 that loops back to that state. This is not an accept
+state, so we need to consider having a 0 in some string. Notice that the accept state has a 0 that
+loops back to it. So if a given string ever reaches $latex q\_{4}$, as long as it ends in a 0, it
+will remain in that state and be accepted. It doesn&#8217;t matter if we have one, five, or a
+hundred zeroes. The only way a string can leave an accept state is by having a 1, which means that
+string goes back to $latex q_{3}$. But notice that this is *not a death state*! It is possible to
+come back to the accept state if a string is in $latex q_{3}$.
 
 Now we can formalize things. This state machine recognizes the following language $latex L$:
 
@@ -75,12 +90,17 @@ Now that was a simple example. I want to bring up a more complicated question th
 
 > Let $latex A$ be the language consisting of all strings over $latex {0,1}$  containing a 1 in the third position from the end.
 
-Designing a finite automata that accepts some language is arguably harder than the reverse process, determining what language is accepted by a given machine. I have my solution to the above question below. The diagram only needs to keep track of the last three digits. There are four accept states that correspond to the last three digits being 100, 101, 110, or 111, which are the four possibilities we could have for the last three symbols of accepted strings. Naturally, the four other non-accept states correspond to the last three symbols being 000, 001, 010, or 011.
+Designing a finite automata that accepts some language is arguably harder than the reverse process,
+determining what language is accepted by a given machine. I have my solution to the above question
+below. The diagram only needs to keep track of the last three digits. There are four accept states
+that correspond to the last three digits being 100, 101, 110, or 111, which are the four
+possibilities we could have for the last three symbols of accepted strings. Naturally, the four
+other non-accept states correspond to the last three symbols being 000, 001, 010, or 011.
 
 <a href="http://seitad.wordpress.com/2012/09/17/cs-theory-part-1-finite-automata/machine2-jpg/" rel="attachment wp-att-725"><img class="aligncenter size-large wp-image-725" title="Machine2.jpg" alt="" src="http://seitad.files.wordpress.com/2012/09/machine2.jpg?w=460" width="460" height="276" /></a>
 
 Up to now, I assumed that my finite automaton were deterministic, so it was always possible to know what was happening. But soon I&#8217;ll be moving on to *non-deterministic* finite automaton &#8230;
 
-(*) From my textbook, *Introduction to the Theory of Computation*, Third Edition, by Michael Sipser.
+[^sipser]: From my textbook, *Introduction to the Theory of Computation*, Third Edition, by Michael Sipser.
 
  [1]: http://seitad.wordpress.com/2012/08/14/on-my-new-theory-of-computation-series/

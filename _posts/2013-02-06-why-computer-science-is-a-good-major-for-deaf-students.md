@@ -23,7 +23,7 @@ Many people have asked why I am drawn to computer science. I thought that instea
 
 <!--more-->
 
-*********What is Computer Science?***
+***What is Computer Science?***
 
 Before delving deeper, we need to understand the definition of computer science. Before coming to college, I held the naive assumption that computer programming == computer science. But that&#8217;s far from the truth, even though many aspects of computer science involve programming. In the context of computer science, I view programming as a *mechanism for expressing something that I have learned or have rigorously analyzed and derived*. To modify a phrase my math professor once wrote, *m**ost* programs in computer science courses are *mostly* trivial. This means if you understand what you&#8217;re supposed to be doing, the programming itself isn&#8217;t all that challenging. There might be some syntax issues or compiler errors that you&#8217;ll have to deal with, but for the most part, those should be straightforward to correct. Analyze error messages and read documentation to find the fix, or ask on [StackOverflow][1]. The difficulty, as mentioned before, is understanding what you need to do conceptually before performing the application.
 
@@ -63,7 +63,11 @@ A [seminar][2] is a class composed of small students who discuss on a certain to
 
 But they are also disadvantageous to deaf students, and it&#8217;s fairly easy to see why. With class discussion, students can quickly take turns talking, and very often those who manage to raise their hands first will get the chance to participate. If a topic is particularly popular or heated, a deaf student may find it very difficult to participate as he or she will have to wait until understanding what the fellow students have said, and that gets delayed by the natural lag of sign language interpreters and CART as compared to normal hearing. Also, one of the more embarrassing things that can happen in seminars is if one makes a compelling and passionate argument, only to find that a student had previously provided those insights to the class. Of course, if that happens, a deaf student can explain that the misunderstanding came from the urge to quickly participate in the seminar format. But why be in a class that can offer that kind of risk?
 
-It&#8217;s no coincidence that I enjoy lectures far more than seminars. But the good news for computer science majors? *You (hopefully) won&#8217;t have seminars. *My college has no seminars in computer science, and I&#8217;m sure many other schools are similar in that regard. It&#8217;s a different story if you&#8217;re one of the small fraction of students entering a Ph.D program *and *sign up to take a research seminar, but how many students do that?
+It&#8217;s no coincidence that I enjoy lectures far more than seminars. But the good news for
+computer science majors? *You (hopefully) won&#8217;t have seminars.* My college has no seminars in
+computer science, and I&#8217;m sure many other schools are similar in that regard. It&#8217;s a
+different story if you&#8217;re one of the small fraction of students entering a Ph.D program
+*and* sign up to take a research seminar, but how many students do that?
 
 ***Growing Support Groups***
 
@@ -81,8 +85,7 @@ This is one of the benefits that can apply to anyone, not just a deaf person, bu
 
 It is true that this previous advice is more useful as a reason to why you should take *one* computer *programming *class, rather than *major* in computer science. But inevitably, the more computer science classes you take, the more programming becomes an inveterate activity, and therefore, these &#8220;casual&#8221; programs are easier to write and can be applied to a wider variety of circumstances.
 
-***Being Computer-Literate in a Technological World*  
-**
+***Being Computer-Literate in a Technological World***
 
 From the printing press to the scientific method to today, data and technology have been expanding exponentially. Thus, it is crucial that people understand what is out there and how it works. As an example, deaf people should be aware of the latest advances in cochlear implant and hearing aid technology. [Just recently][7], a hearing aid was now upgraded to be completely waterproof. And by &#8220;just recently,&#8221; notice that the linked blog post is dated as January 21, 2013.
 
@@ -94,7 +97,15 @@ One of the biggest concerns deaf students may have is job accessibility. Sure, w
 
 ***Closing Thoughts***
 
-[<img class="alignleft size-thumbnail wp-image-866" alt="ComputerScienceBU" src="http://seitad.files.wordpress.com/2013/01/computersciencebu.jpg?w=150" width="150" height="68" />][8] Hopefully this was an explanation that elucidates most of the reason why I decided to major in computer science. It&#8217;s not the entire reason, but then I would be going on and on about how theory is so scintillating, and that doesn&#8217;t quite help to spread the word about computer science. Part of my aim in this blog, for instance, was to explore connections between computer science and deafness. I hope this was a small step.
+[<img class="alignleft size-thumbnail wp-image-866" alt="ComputerScienceBU"
+src="http://seitad.files.wordpress.com/2013/01/computersciencebu.jpg?w=150" width="150" height="68"
+/>][8]
+
+Hopefully this was an explanation that elucidates most of the reason why I decided to major in
+computer science. It&#8217;s not the entire reason, but then I would be going on and on about how
+theory is so scintillating, and that doesn&#8217;t quite help to spread the word about computer
+science. Part of my aim in this blog, for instance, was to explore connections between computer
+science and deafness. I hope this was a small step.
 
  [1]: http://stackoverflow.com/
  [2]: http://en.wikipedia.org/wiki/Seminar

@@ -33,6 +33,6 @@ What language do you think this PDA recognizes? Note: the dollar sign is added o
 
 The above PDA will accept all strings that recognize the language $latex {ww^R mid w in {0,1}^* }$. It nondeterministically guesses where the middle of the input string will be, and tries to pop off stuff from the stack from that point on. Since we have nondeterminism here, we are guaranteed that if a string is in the language previously described, then it will be recognized by this PDA. Pretty impressive! Notice that this language is non-regular, which we can justifywith a simple pumping lemma proof.
 
-Up next for me is arguably the most important concept of the course:* the* *Turing Machine.*
+Up next for me is arguably the most important concept of the course: *the Turing Machine*.
 
  [1]: http://seitad.wordpress.com/2012/10/13/cs-theory-part-2-proving-languages-are-not-regular/

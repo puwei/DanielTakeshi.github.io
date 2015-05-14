@@ -9,6 +9,7 @@ tags:
   - hearing aids
   - society
 ---
+
 > Daniel, how much do your hearing aids help you hear?
 
 <a href="http://seitad.wordpress.com/2012/07/30/hearing-aids-how-they-help-and-how-they-fall-short-in-group-situations/starkeyhearingaids/" rel="attachment wp-att-379"><img class="alignright size-thumbnail wp-image-379" title="StarkeyHearingAids" alt="" src="http://seitad.files.wordpress.com/2012/07/starkeyhearingaids.jpg?w=150" width="150" height="150" /></a> I&#8217;m surprised I don&#8217;t get asked this question often by my classmates, colleagues, professors, and others. Perhaps it&#8217;s because my speaking ability causes hearing people to believe that I can hear as well as them. Or maybe they believe that hearing aids can *cure* hearing loss?
@@ -25,7 +26,7 @@ When you do that, the image doesn&#8217;t become clearer. Your computer has to i
 
 As I mentioned earlier, hearing aids let me understand sound that I would otherwise be unable to understand with the naked ear. A *lot* of sounds. In fact, I can hear no sounds with an intensity of 90 decibels or lower with my natural hearing; it&#8217;s the epitome of being &#8220;totally deaf.&#8221; For me to hear and understand a person talking in a normal tone without my hearing aids, my ears must be *inches* away from his or her mouth. Obviously, that&#8217;s not happening during most of my conversations, so I wear hearing aids almost all the time when I&#8217;m not sleeping.
 
-***A Typical Situation***
+# A Typical Situation
 
 I want to discuss a challenge that occurs often in my life, which is socializing in groups. Most of its difficulty is due to mechanical limitations of hearing aids, but there are also other forces in play. An example of a hypothetical situation would be during my 2012 [Bard College REU][1], where I would often amble with one or several other students for ten minutes at a time, which was the walking distance from our dorm to the heart of campus.
 
@@ -53,7 +54,7 @@ To recap, here&#8217;s a list of the barriers I experience:
 
 So while the benefits of hearing aids are enormous, the (non-exhaustative) previously listed challenges make it impossible for me to experience what life is really like for hearing people, especially during group situations. There are other cases when the hearing aid falls short of optimality, such as when I&#8217;m watching television, but I can write an entire <del datetime="2012-07-30T17:31:20+00:00">rant</del> blog entry about that later.
 
-***Now for the Good Part***
+# Now for the Good Part
 
 I don’t want to give the impression that hearing aids don’t help me at all. I was merely highlighting a salient downside. But the reality is without them, I would never be aware of many noises that exist in today&#8217;s world. I don&#8217;t think I would have done as well in school if I didn&#8217;t have hearing, and I certainly wouldn&#8217;t be able to do well at an academically rigorous school like Williams College ([second][3] in Forbes&#8217;s 2012 college rankings!), since I rely heavily on communication with my professors.
 
@@ -63,15 +64,11 @@ Look at the home pages of the computer science faulty at your college or univers
 
 I&#8217;m sure that most of the communication involved was email, but from my own experience, I&#8217;m convinced that it&#8217;s so much easier to conduct group research face-to-face. And that&#8217;s the baseline of what I need from my hearing aids. *I need to hear just enough to make working on a research project feasible*, which means *communication should not be a research roadblock*.
 
-***Conclusion***
+# Conclusion
 
 I love hearing aids. I put them in my ears as soon as I wake up every morning. I take care of my hearing aids by cleaning and drying them regularly. I store all pairs in soft containers and use my portable hearing aid dryer to ensure they [don&#8217;t break down due to moisture][4]. Even though it&#8217;s really tempting to do so, I never take them for granted, and constantly remind myself of how dependent I am on them. (Writing this entry was one way to do that, for instance.)
 
 Hearing aids have offered me the chance to experience the euphony of the world and to be capable of socializing with the vast majority of people I meet. But they perform poorly in many situations, falling short of normal hearing, and they are incapable of *truly curing* significant hearing loss.
-
-&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;
-
-(*The second image is the science center at Bard, and is from the Bard College website.*)
 
  [1]: http://seitad.wordpress.com/2012/06/03/summer-at-bard/
  [2]: http://www.aidsoff.org/the-reality-about-hearing-aids-the-cure-for-hearing-loss.html

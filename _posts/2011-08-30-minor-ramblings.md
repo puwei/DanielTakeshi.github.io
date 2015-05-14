@@ -10,7 +10,10 @@ categories:
 tags:
   - college
 ---
-It&#8217;s August 30, 2011. I&#8217;m planning on moving in to my room at Williams on September 2nd. Classes start on the eighth. As the last few days of my precious summer dwindle down, I gather some random thoughts I&#8217;ve accumulated as well as any future plans I have on my agenda for the fall semester. Some of my goals, in no particular order:
+It&#8217;s August 30, 2011. I&#8217;m planning on moving in to my room at Williams on September 2nd.
+Classes start on the eighth. As the last few days of my precious summer dwindle down, I gather some
+random thoughts I&#8217;ve accumulated as well as any future plans I have on my agenda for the fall
+semester. Some of my goals, in no particular order:
 
 1. Solve a Rubik&#8217;s Cube in 100 seconds or less.  
 2. Beat either my 500 push-ups in a day or my 600 sit-ups in a day records  
@@ -32,6 +35,9 @@ It&#8217;s August 30, 2011. I&#8217;m planning on moving in to my room at Willia
 18. Pick a Minecraft mod to play with
 
 Some of these goals are common, while others are a little more eccentric. I&#8217;ll try to achieve as many as possible.
+
+**UPDATE** May 13, 2015: In retrospect, I really should have worked more on C++ and de-valued the
+importance of drinking that much water.
 
  [1]: http://projecteuler.net/ "Project Euler"
  [2]: http://www.youtube.com/watch?v=X2Sr6FFdcII "muscle-up"
