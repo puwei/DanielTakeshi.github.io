@@ -23,7 +23,11 @@ We had several speakers in this ceremony. Some provided administrative informat
 
 To me, the most notable speaker was the Williams professor who introduced us to the history of the Williams College Phi Beta Kappa charter. It started in 1776 at the College of William and Mary (the college that, according to the speaker, *our grandmothers still think we go to*) and then spread to Massachusetts when Harvard acquired a charter in 1779. Williams tried numerous times to acquire one from Harvard, but did not succeed until 1864. The charter we obtained, written in Latin, was shown on display throughout the ceremony. Sadly, it appears to be the only one of its kind in which the granting institution&#8217;s name (&#8220;Harvard&#8221;) was written in much larger text than the name of the school being awarded (&#8220;Williams&#8221;)!
 
-After the history talk, another guest speaker highlighted the diversity of the majors studied and languages spoken among the Phi Beta Kappa members. He listed almost every major and language, *except* for computer science and American Sign Language. I am not sure how those two didn&#8217;t make it on his lists.
+After the history talk, another guest speaker highlighted the diversity of the majors studied and
+languages spoken among the Phi Beta Kappa members. He listed almost every major and language,
+*except* for computer science and American Sign Language. I am not sure how those two didn&#8217;t
+make it on his lists. I mean ... maybe if *one* of my two "diversity contributions" was listed, I
+wouldn't have made a big deal out of it, but *both*?
 
 Near the end of the ceremony, each of us went on stage to receive Phi Beta Kappa materials.
 

@@ -12,11 +12,19 @@ tags:
   - language
   - use vs speak
 ---
-Here&#8217;s an interesting question to consider: which one of &#8220;he/she/someone *uses* ASL&#8221; or &#8220;he/she/someone *speaks* ASL&#8221; should you use in writing and conversation? The answer isn&#8217;t obvious to most people without knowledge of ASL, because while *speak* is the default term for most languages, it&#8217;s not clear if ASL falls under that category due to its visual nature (and, I might add, its no-speaking requirement).
+Here&#8217;s an interesting question to consider: which one of &#8220;he/she/someone *uses*
+ASL&#8221; or &#8220;he/she/someone *speaks* ASL&#8221; should you use in writing and conversation?
+The answer isn&#8217;t obvious to most people without knowledge of ASL, because while *speak* is the
+default term for most languages, it&#8217;s not clear if ASL falls under that category due to its
+visual nature (and, I might add, its no-speaking requirement).
 
-I never had someone tell me which of the two phrases to use, and I&#8217;ve flip-flopped on my usage. I would say *speak* when I was younger, then in recent years I switched to saying *use,* and now I&#8217;m starting to think I should go back to *speak. *My recent shift is due to a discussion on the [Deaf Academics][1] mailing list.
+I never had someone tell me which of the two phrases to use, and I&#8217;ve flip-flopped on my
+usage. I would say *speak* when I was younger, then in recent years I switched to saying *use,* and
+now I&#8217;m starting to think I should go back to *speak*. My recent shift is due to a discussion
+on the [Deaf Academics][1] mailing list.
 
-[Here][2] is a video of someone arguing on behalf of *speak*, and here is the transcript (the meaning of s5s is explained in the video):
+[Here][2] is a video of someone arguing on behalf of *speak*, and here is the transcript (the
+meaning of s5s is explained in the video):
 
 > &#8220;Hi, I&#8217;m Michele Westfall and I currently write for ASL Rose. John Clark asked me to talk with you about Speak vs Sign, and I&#8217;m happy to do so. It&#8217;s no problem at all. Why? For the past couple of years, I&#8217;ve been encouraging Deaf people &#8230; really, **everyone** to use the word &#8220;speak&#8221; in relation to ASL. Why? I&#8217;ve been noticing that the hearing society frequently sees us as &#8220;silent.&#8221; Yes, they regard ASL as &#8220;beautiful,&#8221; but when it really counts and really comes down to it, we are still SILENT in their eyes. I&#8217;ve noticed that both hearing and Deaf people tend to say &#8220;ASL users&#8221;&#8230;and that bothers me.
 > 

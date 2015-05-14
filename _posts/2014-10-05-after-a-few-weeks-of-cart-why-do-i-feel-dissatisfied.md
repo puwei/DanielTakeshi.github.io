@@ -18,39 +18,90 @@ tags:
 ---
 [<img class="aligncenter size-large wp-image-1995" src="http://seitad.files.wordpress.com/2014/09/captioning.jpg?w=460" alt="captioning" width="460" height="127" />][1]
 
-As I said in a [recent post][2], I&#8217;ve been using a mixture of captioning (also known as [CART][3]) and interpreting services for various Berkeley-related events. For my two classes, I decided to forgo interpreting services in favor of captioning. Part of this was out of a desire to try something new, but I think most of it was because when I was at Williams, I experienced enormous frustration with my inability to sufficiently understand and follow technical lectures with interpreting services. (I had to rely on hours of independent reading before or after the talks for the material to make sense.)
+As I said in a [recent post][2], I&#8217;ve been using a mixture of captioning (also known as
+[CART][3]) and interpreting services for various Berkeley-related events. For my two classes, I
+decided to forgo interpreting services in favor of captioning. Part of this was out of a desire to
+try something new, but I think most of it was because when I was at Williams, I experienced enormous
+frustration with my inability to sufficiently understand and follow technical lectures with
+interpreting services. (I had to rely on hours of independent reading before or after the talks for
+the material to make sense.)
 
-This isn&#8217;t a knock on the interpreters, or a criticism of Williams. I&#8217;ve said before and will gladly continue to say that I was [very happy with the accommodations Williams was able to provide me][4], and how my interpreters have put up with me for four years as I consistently enrolled in the classes that they hated the most.
+This isn&#8217;t a knock on the interpreters, or a criticism of Williams. I&#8217;ve said before and
+will gladly continue to say that I was [very happy with the accommodations Williams was able to
+provide me][4], and how my interpreters have put up with me for four years as I consistently
+enrolled in the classes that they hated the most.
 
 > The problem is the [technical term dilemma][5] that continues to plague my experience in the classroom.
 
-In the best case scenario, using captioning services would let me focus primarily on the professor talking, and if there was something I missed, I could fall back on the captions to catch up on a few sentences. To make it clear, the way CART usually works is that the captioner will type on a laptop with the text small enough so that I can quickly look at the screen to see what was being said 10 seconds ago. With interpreting services, one can&#8217;t go &#8220;back in time.&#8221;
+In the best case scenario, using captioning services would let me focus primarily on the professor
+talking, and if there was something I missed, I could fall back on the captions to catch up on a few
+sentences. To make it clear, the way CART usually works is that the captioner will type on a laptop
+with the text small enough so that I can quickly look at the screen to see what was being said 10
+seconds ago. With interpreting services, one can&#8217;t go &#8220;back in time.&#8221;
 
-The other advantage I was hoping to gain from CART pertained to preserving the spelling of technical terms. An interpreter can&#8217;t really sign the word [*Gaussian*][6],  but a captioner can at least type out that word correctly once the professor has said it often enough (or has written it on the board).
+The other advantage I was hoping to gain from CART pertained to preserving the spelling of technical
+terms. An interpreter can&#8217;t really sign the word [*Gaussian*][6],  but a captioner can at
+least type out that word correctly once the professor has said it often enough (or has written it on
+the board).
 
-To top it all off, I was told during my first meeting with the Disabled Students&#8217; Program (DSP) that CART would be able to capture content with 99 percent accuracy.
+To top it all off, I was told during my first meeting with the Disabled Students&#8217; Program
+(DSP) that CART would be able to capture content with 99 percent accuracy.
 
-> Unfortunately, theory hasn&#8217;t matched with reality and, if anything, my experience in Berkeley classes so far has been *more* frustrating than with my Williams classes.
+> Unfortunately, theory hasn&#8217;t matched with reality and, if anything, my experience in
+> Berkeley classes so far has been *more* frustrating than with my Williams classes.
 
 <!--more-->
 
-I&#8217;m not trying to criticize Berkeley as a school, which so far looks like they&#8217;re excellent with regards to accommodations ([no issues that have shown up in other schools so far][7]!). This article is more of a holistic frustration at the whole education system.
+I&#8217;m not trying to criticize Berkeley as a school, which so far looks like they&#8217;re
+excellent with regards to accommodations ([no issues that have shown up in other schools so
+far][7]!). This article is more of a holistic frustration at the whole education system.
 
-Let me be a little more specific about what has happened so far. This semester, I&#8217;m taking two graduate-level computer science classes, natural language processing (NLP) and statistical learning theory (SLT). The former is an Artificial Intelligence course that&#8217;s heavy on programming, and the latter is a math course with problem sets. At the time of this writing, I have sat through eleven lectures for each class.
+Let me be a little more specific about what has happened so far. This semester, I&#8217;m taking two
+graduate-level computer science classes, natural language processing (NLP) and statistical learning
+theory (SLT). The former is an Artificial Intelligence course that&#8217;s heavy on programming, and
+the latter is a math course with problem sets. At the time of this writing, I have sat through
+eleven lectures for each class.
 
 ***Natural Language Processing***
 
-One interesting wrinkle is that I have *remote *captioning for my NLP class*. *This means for each lecture I bring a microphone hooked up to my laptop, and a captioner in a different area (perhaps at her own house) will connect to my computer through Skype or Google Hangout and type what&#8217;s being said. I see the captions via another program that lets me see the captioner&#8217;s computer screen on my laptop. It&#8217;s pretty cool, actually. (One student in the class thought it was a sophisticated automatic speech recognition system.)
+One interesting wrinkle is that I have *remote* captioning for my NLP class. This means for each
+lecture I bring a microphone hooked up to my laptop, and a captioner in a different area (perhaps at
+her own house) will connect to my computer through Skype or Google Hangout and type what&#8217;s
+being said. I see the captions via another program that lets me see the captioner&#8217;s computer
+screen on my laptop. It&#8217;s pretty cool, actually. (One student in the class thought it was a
+sophisticated automatic speech recognition system.)
 
-Berkeley had to provide remote captioning because there were too many requests for CART during the class time slot. I was fine with it because, well, why not?
+Berkeley had to provide remote captioning because there were too many requests for CART during the
+class time slot. I was fine with it because, well, why not?
 
-Unfortunately, I didn&#8217;t anticipate there being multiple factors that would result in a tiring and frustrating classroom experience.
+Unfortunately, I didn&#8217;t anticipate there being multiple factors that would result in a tiring
+and frustrating classroom experience.
 
-First, my NLP class moves at a *very* fast pace. (Since it is a graduate level computer science course, I expected that it would move quickly, though perhaps not as fast as it has so far.) As a consequence, my captioner has had a hard time keeping up with the conversational pace. It&#8217;s common for her to type in all the sentences for about thirty seconds, then to take a five second break, and then to come back to captioning. I can&#8217;t blame her &#8212; it&#8217;s impossible to type nonstop for the eighty-minute lecture, but it does throw a wrench in my plan to try and understand everything from the transcript, because there&#8217;s so much that could be missing.
+First, my NLP class moves at a *very* fast pace. (Since it is a graduate level computer science
+course, I expected that it would move quickly, though perhaps not as fast as it has so far.) As a
+consequence, my captioner has had a hard time keeping up with the conversational pace. It&#8217;s
+common for her to type in all the sentences for about thirty seconds, then to take a five second
+break, and then to come back to captioning. I can&#8217;t blame her &#8212; it&#8217;s impossible to
+type nonstop for the eighty-minute lecture, but it does throw a wrench in my plan to try and
+understand everything from the transcript, because there&#8217;s so much that could be missing.
 
-To be fair to the professor, we do have a lot to discuss, and the students here are skilled enough so that most can absorb plenty of knowledge even when it&#8217;s coming at a fast pace. So while I do feel like the lecture rate is a bit too high, I know it&#8217;s not something that can be addressed easily without causing some additional problems. I&#8217;ve already talked to the professor about possibly slowing down the lecture rate, and he was happy I brought it to his attention and would see what he could do without reducing the material we cover.
+To be fair to the professor, we do have a lot to discuss, and the students here are skilled enough
+so that most can absorb plenty of knowledge even when it&#8217;s coming at a fast pace. So while I
+do feel like the lecture rate is a bit too high, I know it&#8217;s not something that can be
+    addressed easily without causing some additional problems. I&#8217;ve already talked to the
+    professor about possibly slowing down the lecture rate, and he was happy I brought it to his
+    attention and would see what he could do without reducing the material we cover.
 
-My other frustrations in the class stem from the remote connection. The microphone that Berkeley&#8217;s DSP gave me is powerful, but when other students ask questions in the class, their voices are often too quiet for the captioner to pick up. As a result, *most* of the time when students ask questions, the captioner has been forced to write down &#8220;(Inaudible)&#8221; which is the standard way of marking down unknown comments, so I don&#8217;t understand the flow of conversation between the students and the professor. And knowing what the other students are saying was one of the major benefits of having interpreting services! In a classroom setting, the professors are *much* easier for me to hear than the other students, even if those students are physically closer to me. I haven&#8217;t been asking the professor to repeat what the students have said, which is my fault &#8212; I need to start doing that!
+My other frustrations in the class stem from the remote connection. The microphone that
+Berkeley&#8217;s DSP gave me is powerful, but when other students ask questions in the class, their
+voices are often too quiet for the captioner to pick up. As a result, *most* of the time when
+students ask questions, the captioner has been forced to write down &#8220;(Inaudible)&#8221; which
+is the standard way of marking down unknown comments, so I don&#8217;t understand the flow of
+conversation between the students and the professor. And knowing what the other students are saying
+was one of the major benefits of having interpreting services! In a classroom setting, the
+professors are *much* easier for me to hear than the other students, even if those students are
+physically closer to me. I haven&#8217;t been asking the professor to repeat what the students have
+said, which is my fault &#8212; I need to start doing that!
 
 My other, and perhaps most significant frustration with the remote captioning service, pertains to the logistic and technical difficulties we have experienced. The first lecture was fine, but the second was not. I had an on-campus captioner act as a substitute for the remote captioner, but the substitute didn&#8217;t get the right room assignment because the professor had to change the room (due to over-enrollment), and I didn&#8217;t update it with DSP because, well, a remote captioner doesn&#8217;t need to have a room number.
 

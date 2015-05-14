@@ -82,8 +82,14 @@ Professor H-B writes:
   
   <div title="Page 8">
     <p>
-      Her article is written and directed at students who aspire to study at the top programs. I personally would extend the &#8220;top 10&#8243; part (in both blockquotes above) to be perhaps &#8220;top 25-ish&#8221; or so, because I&#8217;m pretty sure the schools ranked ~10 to ~25 value research experience to a comparable extent as do the very top schools. Also, there are some subfields of computer science that lower ranked schools might specialize in, which may not be reflected in their overall ranking. One example might be The University of Pennsylvania (currently ranked #17 overall) and their stellar programming languages group.
-    </p>
+      Her article is written and directed at students who aspire to study at the top programs. I
+      personally would extend the "top" part (in both blockquotes above) to be perhaps "top 25-ish"
+      or so, because I&#8217;m pretty sure the schools ranked ~10 to ~25 value research experience
+      to a comparable extent as do the very top schools. Also, there are some subfields of computer
+      science that lower ranked schools might specialize in, which may not be reflected in their
+      overall ranking. One example might be The University of Pennsylvania (currently ranked #17
+      overall) and their stellar programming languages group.
+      </p>
     
     <p>
       <strong>Clarification/Modification #3: Computer Science GRE</strong>

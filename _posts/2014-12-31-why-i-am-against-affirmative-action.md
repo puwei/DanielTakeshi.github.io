@@ -14,19 +14,68 @@ tags:
   - faculty hiring
   - Sonia Sotomayor
 ---
-**Update 1/1/2015:** Happy 2015 everyone! I read Ta-Nehisi Coates&#8217; article [The Case for Reparations][1], which talks about affirmative action a little bit but mostly is about the unfortunate news that, even after slavery ended and after the civil rights era, African Americans are really *not* equal to whites, a claim that I agree with wholeheartedly. I was surprised and devastated when he described how Congress failed to even *consider* the possibility of providing any form of reparations. Sadly, as the years go by, the likelihood of making substantial or meaningful reparations declines. Consider the payments to Japanese-Americans who were deported to camps in World War II. (Had I lived in California as a child at that time, I might have been among those people.) But at least some of those victims were able to get reparations *during their lifetime*. The question of how to do the same for African Americans is much trickier.
+**Update 1/1/2015:** Happy 2015 everyone! I read Ta-Nehisi Coates&#8217; article [The Case for
+Reparations][1], which talks about affirmative action a little bit but mostly is about the
+unfortunate news that, even after slavery ended and after the civil rights era, African Americans
+are really *not* equal to whites, a claim that I agree with wholeheartedly. I was surprised and
+devastated when he described how Congress failed to even *consider* the possibility of providing any
+form of reparations. Sadly, as the years go by, the likelihood of making substantial or meaningful
+reparations declines. Consider the payments to Japanese-Americans who were deported to camps in
+World War II. (Had I lived in California as a child at that time, I might have been among those
+people.) But at least some of those victims were able to get reparations *during their lifetime*.
+The question of how to do the same for African Americans is much trickier.
 
-Coates&#8217; article brings up affirmative action in several contexts. One is when President Barack Obama said that his children should *not *benefit from that policy, so I have another supporter there that I didn&#8217;t list in my original article. The second is that affirmative action is a tricky policy because there is no clear definition of it (I agree), and Coates appears to be doubtful about affirmative action&#8217;s effectiveness in reaching equality among blacks and whites (and Asians?).
+Coates&#8217; article brings up affirmative action in several contexts. One is when President Barack
+Obama said that his children should *not* benefit from that policy, so I have another supporter
+there that I didn&#8217;t list in my original article. The second is that affirmative action is a
+tricky policy because there is no clear definition of it (I agree), and Coates appears to be
+doubtful about affirmative action&#8217;s effectiveness in reaching equality among blacks and whites
+(and Asians?).
 
-When I was reading Coates&#8217; article, I kept thinking about ways to boost minority enrollment in STEM. One effective way, I think, would be to implement affirmative action-like policies not for career positions, but for temporary programs that are sort of &#8220;breeding grounds&#8221; for such careers or college positions. For instance, many affluent families send their high school children to math and science summer programs. I believe if those programs made conscious efforts to reach out to minorities, or if there were even programs that *only* accepted minorities, that could serve to be a better place to practice such affirmative action-like policies. *I *was able to benefit from a program like that, and I think I know a few others like this, but it&#8217;s going to take years to see a difference in the racial and gender diversity among academics because of the scarcity of positions and the tenure aspect (which means the previous generation sticks around for decades).
+When I was reading Coates&#8217; article, I kept thinking about ways to boost minority enrollment in
+STEM. One effective way, I think, would be to implement affirmative action-like policies not for
+career positions, but for temporary programs that are sort of &#8220;breeding grounds&#8221; for
+such careers or college positions. For instance, many affluent families send their high school
+children to math and science summer programs. I believe if those programs made conscious efforts to
+reach out to minorities, or if there were even programs that *only* accepted minorities, that could
+serve to be a better place to practice such affirmative action-like policies. *I* was able to
+benefit from a program like that, and I think I know a few others like this, but it&#8217;s going to
+take years to see a difference in the racial and gender diversity among academics because of the
+scarcity of positions and the tenure aspect (which means the previous generation sticks around for
+decades).
 
 That&#8217;s all I have to say for this (first) update. **Here is my original post:**
 
-Affirmative action is the process of giving favoritism in some way (usually for employment) to groups of disadvantaged people who have historically been victims of discrimination. Affirmative action policies vary according to country. In the United States, having a pure quota on making sure that X percent of a workforce belongs to a certain group is illegal, but affirmative action does exist. I would like to present an argument against this policy based on one simple idea, though I should first add the disclaimer that I do not think I have benefited from it or will benefit from in the future. The only way I would is if some employer wants to hire a deaf person, but I rarely see this discussed in the two cases that I&#8217;m familiar with: college admissions, and faculty recruitment in STEM fields. Discussions about the lack of diversity in STEM are dominated around women, African Americans and Hispanics. It annoys me that people with disabilities are often ignored, but maybe I should talk about that later.
+Affirmative action is the process of giving favoritism in some way (usually for employment) to
+groups of disadvantaged people who have historically been victims of discrimination. Affirmative
+action policies vary according to country. In the United States, having a pure quota on making sure
+that X percent of a workforce belongs to a certain group is illegal, but affirmative action does
+exist. I would like to present an argument against this policy based on one simple idea, though I
+should first add the disclaimer that I do not think I have benefited from it or will benefit from in
+the future. The only way I would is if some employer wants to hire a deaf person, but I rarely see
+this discussed in the two cases that I&#8217;m familiar with: college admissions, and faculty
+recruitment in STEM fields. Discussions about the lack of diversity in STEM are dominated around
+women, African Americans and Hispanics. It annoys me that people with disabilities are often
+ignored, but maybe I should talk about that later.
 
-I am against affirmative action mostly because *it often makes the people who benefit from affirmative action feel like the reason why they were hired is because of affirmative action, and not due to merit*. (There&#8217;s also the real problem of resentment over those who think they aren&#8217;t getting their jobs, but I think that is less important.) Over the past few years, I have become far more sensitive to issues regarding race and gender, and I have learned about countless stories from people who have lamented how others view them as an &#8220;affirmative action hire.&#8221; Of these stories, the one that stuck to me the most was of current Supreme Court [Justice Clarence Thomas][2], who would constantly remark that others stigmatized his Yale law degree as the* product of affirmative action rather than his own merit*:
+I am against affirmative action mostly because *it often makes the people who benefit from
+affirmative action feel like the reason why they were hired is because of affirmative action, and
+not due to merit*. (There&#8217;s also the real problem of resentment over those who think they
+aren&#8217;t getting their jobs, but I think that is less important.) Over the past few years, I
+have become far more sensitive to issues regarding race and gender, and I have learned about
+countless stories from people who have lamented how others view them as an &#8220;affirmative action
+hire.&#8221; Of these stories, the one that stuck to me the most was of current Supreme Court
+[Justice Clarence Thomas][2], who would constantly remark that others stigmatized his Yale law
+degree as the *product of affirmative action rather than his own merit*:
 
-> Affirmative action (though it wasn&#8217;t yet called that) had become a fact of like at American college and universities, and before long I realized that those blacks who benefited from it were being judged by a double standard. As much as it stung to be told that I&#8217;d done well in the seminary DESPITE my race, it was far worse to feel that I was now at Yale BECAUSE of it. I sought to vanquish the perception that I was somehow inferior to my white classmates by obtaining special permission to carry more than the maximum number of credit hours and by taking a rigorous curriculum of courses in such traditional areas as corporate law, bankruptcy, and commercial transactions. How could anyone dare to doubt my abilities if I excelled in such demanding classes?
+> Affirmative action (though it wasn&#8217;t yet called that) had become a fact of like at American
+> college and universities, and before long I realized that those blacks who benefited from it were
+> being judged by a double standard. As much as it stung to be told that I&#8217;d done well in the
+> seminary DESPITE my race, it was far worse to feel that I was now at Yale BECAUSE of it. I sought
+> to vanquish the perception that I was somehow inferior to my white classmates by obtaining special
+> permission to carry more than the maximum number of credit hours and by taking a rigorous
+> curriculum of courses in such traditional areas as corporate law, bankruptcy, and commercial
+> transactions. How could anyone dare to doubt my abilities if I excelled in such demanding classes?
 
 One more recent story was from [Professor Carlotta Berry&#8217;s recent New York Times editorial][3], where she said that she wants to be viewed professionally, but understands that some may view her faculty hiring as a product of affirmative action, even as she points out, she does not believe she benefited from it.
 
