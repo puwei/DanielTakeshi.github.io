@@ -21,14 +21,14 @@ perspectives.
 In my case, I:
 
 - wanted to feel like I had more control over my site, rather than writing some stuff and then
-  handing it over to a black-box database to do all the work
+  handing it over to a black-box database to do all the work.
 - wanted to write more in Markdown and use git/GitHub more often, which will be useful for me as I
-  continue to work in computer science
-- wanted to more easily be able to write code and math in my posts
+  continue to work in computer science.
+- wanted to more easily be able to write code and math in my posts.
 - wanted to use my own personal text editor (vim is my current favorite) rather than Wordpress's
-  WYSIWYG editor
-- was tired of various advertisements underneath my posts
-- wanted to be more of a hacker and less like the "ignorant masses," no offense intended folks ... =)
+  WYSIWYG editor.
+- was tired of various advertisements underneath my posts.
+- wanted to be more of a hacker and less like the "ignorant masses," no offense intended =).
 
 Jekyll, which was created by GitHub founder [Tom
 Preston-Werner](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html)[^tom], offers
@@ -63,20 +63,21 @@ Wordpress.com to Wordpress.org. It took me a while to realize that there even *w
 Wordpress.com is hosted by Wordpress and they handle everything (including the price of hosting, so
 it's free for us), but we don't have as much control over the site, and the extensions they offer
 are absurdly overpriced. Wordpress.org, on the other hand, means we have more control over the site
-and can choose a domain name to get rid of that ugly "wordpress" text in the URL.
+and can choose a domain name to get rid of that ugly "wordpress" text in the URL. Needless to say,
+this makes Wordpress.org extremely common among many professional bloggers and organizations.
 
 In my case, I had been using Wordpress.com for `seitad.wordpress.com`, so what I had to do was go to
 [Bluehost](http://www.bluehost.com/wordpress), pay to create a Wordpress.org site, which I named
 `seitad.com`, and *then* I could migrate. The migration process itself is pretty easy once you've
 got a Wordpress.org site up, so I won't go into detail on that. The reason why I used Bluehost is
-because it's a recommended Wordpress provider, and on their website there's actually a menu option
-where you can click to create a Wordpress.org site. Unfortunately, that's about it for my praise,
-because I otherwise really hate Bluehost. Did anyone else feel like Bluehost does almost nothing but
-shove various "upgrade feature XXX for $YZ" messages down our throats? I was even misled by their
-pricing situation and instead of paying $5 to "host" `seitad.com` for a month, I accidentally paid
-$71 to host that site for a *year*. I did notice that they had a 30-day money back guarantee, so
-hopefully I can hastily finish up this migration and request my money back so so I won't have to
-deal with Bluehost again[^gitfree].
+because it's a recommended Wordpress provider, and on their website there's a menu option that you
+can click to create a Wordpress.org site. Unfortunately, that's about it for my praise, because I
+otherwise really hate Bluehost. Did anyone else feel like Bluehost does almost nothing but shove
+various "upgrade feature XXX for $YZ" messages down our throats? I was even misled by their pricing
+situation and instead of paying $5 to "host" `seitad.com` for a month, I accidentally paid $71 to
+host that site for a *year*. I did notice that they had a 30-day money back guarantee, so hopefully
+I can hastily finish up this migration and request my money back so so I won't have to deal with
+Bluehost again[^gitfree].
 
 To clarify, the only reason why I am migrating to Wordpress.org is because the next step, using a
 Wordpress-to-Jekyll exporter plugin, only works on Wordpress.org sites, because Wordpress.com sites
@@ -97,35 +98,39 @@ dashboard.
 
 <img src="{{site.url}}/assets/permalinks.png" alt="permalinks">
 
-Now let's discuss that Wordpress-to-Jekyll exporter I recently mentioned. This plugin, founded by
+Now let's discuss that Wordpress-to-Jekyll exporter I recently mentioned. This plugin, created by
 GitHub staff member Ben Balter, can be found (you guessed it) [on
 GitHub](https://github.com/benbalter/wordpress-to-jekyll-exporter). What you need to do is go to the
-"Releases" tab to download a .zip file of the code. Then unzip it, and follow the instructions that
-I've taken from the current README file:
+"Releases" tab and download a .zip file of the code; I downloaded version 2.0.1. Then unzip it and
+follow the instructions that I've taken from the current README file:
 
 1. Place plugin in `/wp-content/plugins/` folder
 2. Activate plugin in WordPress dashboard
 3. Select Export to Jekyll from the Tools menu
 
 Steps (2) and (3) shouldn't need much explanation, but step (1) is the trickiest. The easiest way to
-do this is to establish what's known as an FTP connection to the Wordpress.org server. What I did
+do this is to establish what's known as an FTP connection to the Wordpress.org server, with the
+"host name" field specified by the URL of the old site (in my case, `seitad.com`). What I did
 was download [FileZilla](https://filezilla-project.org/), a free FTP provider, and used its
 graphical user interface to connect to my Wordpress.org site.
 
 <img src="{{site.url}}/assets/filezilla.png" alt="filezilla">
 
 Note that to connect to the site, one does *not* generally use his or her Wordpress.org's login, but
-instead, one needs to use the login information from Bluehost[^bluehost]! Once I got over that
+instead, one needs to use the login information from Bluehost[^bluehost]! Once I got over my initial
 confusion, I was able to "drag and drop" the wordpress-to-jekyll exporter plugin to the Wordpress
-site. Then executing steps (2) and (3) should result in a `jekyll-export.zip` file that contains the
-converted HTML-to-Markdown information about blog entries, as well as other metadata such as the
-categories, tags, etc.
+site. You can see in the above image (of Filezilla) that I have the plugin in the correct directory
+on the remote site. Executing steps (2) and (3) should then result in a `jekyll-export.zip` file
+that contains the converted HTML-to-Markdown information about blog entries, as well as other
+metadata such as the categories, tags, etc.
 
 All right, now that we have our zip file, it's time to create a Jekyll directory with the `jekyll new
 danieltakeshi.github.io` command, where `danieltakeshi` should be replaced with whatever GitHub
 username you have. Then take that `jekyll-export.zip` file and unzip it in this directory. This
 should mean that all your old Wordpress posts are now in the `_posts` directory, *and* that they
-are converted to Markdown, *and* that they contain some metadata.
+are converted to Markdown, *and* that they contain some metadata. The importer will ask if you want
+to override the default `_config.yml` file; I chose to decline that option, so `_config.yml` was
+still set to be what `jekyll new ...` created for me.
 
 The official Jekyll documentation [contains a
 tool](http://import.jekyllrb.com/docs/wordpressdotcom/) that you can use to convert from Wordpress
@@ -137,10 +142,10 @@ missing some Ruby libraries that later caused a series of dependency headaches. 
 simplicity and how the posts actually get converted to Markdown automatically are the two reasons
 why Ben's external jekyll plugin is so popular among migrators.
 
-At this point, it makes sense to try and commit everything to github. The way that the
-`username.github.io` site works is that it gets automatically refreshed each time you push to the
-master branch. Thus, in your blog directory, assuming you've already initialized a git repository
-there, just do something like
+At this point, it makes sense to try and commit everything to GitHub to see if the GitHub pages will
+look good. The way that the `username.github.io` site works is that it gets automatically refreshed
+each time you push to the master branch. Thus, in your blog directory, assuming you've already
+initialized a git repository there, just do something like
 
 ~~~
 $ git add .
@@ -149,15 +154,15 @@ $ git push origin master
 ~~~
 
 These commands[^commands] will update the github repository, which automatically updates
-`username.github.io`, so you can check the website to see your blog.
+`username.github.io`, so you can refresh the website to see your blog.
 
 One thing you'll notice, however, is that *comments by default are not enabled*. Moreover, *old
-comments made on Wordpress.org are **not** present* even with the use of Ben's wordpress-to-jekyll
+comments made on Wordpress.org are **not** present* even with the use of Ben's Wordpress-to-Jekyll
 tool. Why this occurs can be summarized as follows: Jekyll generates static pages, but comments are
 *dynamic*. So it is necessary to use an external system, which is where Disqus comes into play.
 
-Unfortunately, this step was what took me a *really* long time to figure out. I'll summarize the
-steps as follows:
+Unfortunately, it took me a *really* long time to figure out how to import comments correctly. I'll
+summarize the mini-steps as follows:
 
 - In the Admin panel for Disqus, create a new website and give it a "shortname" that we will need
   later. (For this one, I used the shortname `seitasplace`.)
@@ -165,13 +170,24 @@ steps as follows:
   are "registered" with Disqus. What this means is that you should be able to view all comments in
   your blog from the Disqus Admin panel.
 - Now comes the part that I originally missed, which took me hours to figure out: I had to import
-  the comments with Disqus! It seems a little confusing to me, but I guess we have to do it. On
-  Disqus, there is a "Discussions" panel, and then there's a sub-menu option for "Import". There, we
-  need . The following image should clarify what I mean:
+  the comments with Disqus! It seems a little confusing to me (I mean, don't I already have comments
+  registered?), but I guess we have to do it. On Disqus, there is a "Discussions" panel, and then
+  there's a sub-menu option for "Import" (see the following image for clarification). There, we need
+  to upload the .xml file of the Wordpress.org site that contains all the comments, which one can
+  obtain without a plugin by going to Tools -> Export in the Wordpress dashboard. 
 
 <img src="{{site.url}}/assets/disqus.png" alt="disqus_image">
 
-- You will also likely need to do some URL mapping.
+- You will also likely need to do some URL mapping. Comments in Disqus are stored relative to a URL,
+  and the default URL is obviously the source from where it was imported! But if we're migrating
+  from source A to source B, doesn't it make sense to have the comments default to source B's URL
+  instead of source A? In my case, I used a mapper in the "Tools" menu (in the above image) to
+  convert all the comment links to be based on the current site's URL. That way, if the original
+  source (i.e., the Wordpress site) gets deleted, we still retain the comments[^comments]. If you
+  made sure the permalinks match, then this process should be pretty easy.
+- Finally, the last thing to do is to actually install Disqus comments in the code for wordpress.
+  For that, I went to the "Universal Code" option for Disqus, and pasted the HTML code there into
+  the `_layouts/post.html` file.
 
 After several restarts due to some random issues with Disqus/Wordpress having problems with deleted
 material, I was *finally* able to get comments imported correctly, and they had the same names
@@ -179,59 +195,70 @@ assigned to the commentators! Excellent! The *traceback* comments, which are cre
 when one blog post links to another blog post, did not get copied over here, but I guess that's OK
 with me. I mostly wanted the *human* comments, for obvious reasons.
 
-Whew! <del>So we are done, right</del>? Oh, never mind -- we have to proofread each post!
+Whew! <del>So we are done, right</del>? Oh, never mind -- we have to proofread each post! Since I
+had 151 posts from Wordpress to import, that meant I had to proofread *every single one of them*.
+Ben's importer tool is good but not perfect, and code- or math-heavy posts are especially difficult
+to convert correctly. Even disregarding code and math, a common issue was that italicized text
+wouldn't get parsed correctly. Sometimes the Markdown asterisks were "one space too ahead", e.g., if
+the word `code` needs to be italicized, the Markdown syntax for that is `*code*`, but sometimes the
+importer created `*code *`, and that danging space can create some ugly asterisks visible in the
+resulting HTML.
 
-DRAFT BELOW
+Even after basic proofreading, there are *still* additional steps one needs to take in order to
+ensure a crisp blog. One needs to
 
+- fix the links for the images, since the images by default are set to the original Wordpress
+  address. The Wordpress-to-Jekyll plugin will put the images in the `wp-content` folder, but I
+  (and the official Jekyll documentation) recommend copying those images over to an `assets` folder.
+  The default `wp-content` folder contains too many folders and sub-directories for my liking, but I
+  guess it's useful if a blog contains thousands of images.
+- fix the post-to-post hyperlinks in each post to refer to the current Jekyll version. In vim, this
+  should be easy as I can do a bunch of find-and-replace calls to each file. Ensuring that the
+  Wordpress permalinks follow Jekyll-style permalinks makes this task easier.
+- incorporate extra tools to get LaTeX formatting.
 
-# Next Steps
+I haven't been able to do all these steps yet, but I'm working on it[^deadlinks].
 
-```bash
-$ jekyll build
-$ jekyll serve
-```
+Whew! The best part about the migration is that you only have to do it once. Part of the problem is
+that I had to rely on a motley collection of blog posts to help me out. The Jekyll documentation
+itself was not very helpful[^jekyll].
 
-These commands will generate a local copy of the 
+# Post-Migration Plan
 
-The Jekyll docs themselves, by the way, were not much help. I worry when we need to rely on
-arbitrary blog posts for help[^jekyll].
+In addition to the actual migration, there are some sensible steps that users should take to ensure
+that they can extract maximal utility from Jekyll. For me, I plan to
 
-Well, I am impressed with the simplified look so far.
+- learn more Markdown[^markdown]! And in addition, it makes sense to use a text editor that can
+  handle Markdown well. I'm using vim since it's my default, but it's actually *not* that useful to
+  me, because I set the syntax mode off (using `:syntax off`) and by default vim does not have a
+  Markdown highlighter. I'm sure someone has created a Markdown syntax add-on to vim, so I'll search
+  for that.
+- actually make the site look better! I don't mind the simplicity of default Jekyll, but a little
+  more "piazza" wouldn't hurt. I'd like to at least get a basic "theme" up and running, and to
+  include excerpts from each post on the front page.
+- make a site redirect from my old Wordpress.com site, so that it redirects users to this site. I'd
+  rather not delete the old site all of a sudden (even though I will delete it eventually). But I
+  *will* get rid of that Wordpress.org site that I had to pay to create, all just to help me migrate
+  to Jekyll.
 
-- Simplified code
-- Footnotes are really easy! Just click on them, and then click a link to get back to where we were
-- etc.
+Incidentally, now that we've covered the migration pipeline, I thought I should make it clear how
+one would go about using Jekyll. To add new posts, one simply adds a file in the `_posts` directory
+that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter,
+which contains the title, the date, etc. Looking at the raw Markdown code of sample posts is
+probably the easiest way to learn.
 
-How to add new posts:
+One could update the site with each edit by adding, committing, and pushing to GitHub, but probably
+a better way is to update locally by running `jekyll build; jekyll serve`. This will create a local
+copy of Jekyll that one can have open in a web browser even if one doesn't have Internet access.
+Each time one saves a post, the server will update, so by refreshing, we can see the edit. It won't
+catch all edits --- I had to push to GitHub and then update the local copy to get images to show up
+correctly --- but it is useful enough that I thought I'd share (and suggest) it. Furthermore, if
+the website is public, it's best to update/push polished versions of posts rather than
+works-in-progress.
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see
-your changes. You can rebuild the site in many different ways, but the most common way is to run
-`jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention
-`YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for
-this post to get an idea about how it works.
-
-Whew! The best part about the migration is that you only have to do it once.
-
-I have a couple of plans for this summer. First, the ones related to Jekyll are:
-
-- Well, I'm not finished with this process. I'm still getting the images, links, and other stuff
-  working. If you see any dead links or anything like that, please contact me. I also need to get a
-  reasonable design up and running.
-- Learn more Markdown, and also figure out a nice text editor for Markdown. The use of vim for me is
-  already great, but one issue is that I'm not sure how easy it is to put Markdown-style hyperlinks,
-  for instance. But there has to be some vim tool out there, so I will search for that first. For
-  Markdown, what I'd really like to do is get some nice math up here. (The code, I showed in an
-  earlier segment.)
-- As far as the old wordpress.com site, I guess I'll make a site redirect, since I'd rather all site
-  traffic go here now, not there.
-
-And what about this summer?
-
-- I'm going to *try* and actually post some real computer science-related stuff here, so that I can
-  look it up here in a pinch. Perhaps some prelim review material would also be good to have, and
-  I'll definitely need to study over the summer. I can't wait until the semester begins, after all!
+Hopefully these personal notes prove useful to future Wordpress.{com,org}-to-Jekyll migrators. In
+the meantime, I'm going to fix up the rest of this site and prepare some new entries that accentuate
+some of Jekyll's neat features.
 
 ***
 
@@ -261,5 +288,13 @@ And what about this summer?
     Markdown scheme.
 
 [^plugin]: Fortunately, you can find this plugin by searching in Wordpress directly; there's no need
-    to do some fancy FTP stuff.
+    to engage in fancy FTP stuff.
+
+[^comments]: Actually, I haven't tested this yet. I hope this works.
+
+[^deadlinks]: If you see things like dead links or any "weird" looking text here, please contact me.
+
+[^markdown]: To add to the complexity, there are several different versions of Markdown. My site is
+    currently using the `kramdown` style, but another popular one (that GitHub pages use) is
+    `redcarpet`, but that style messed up my footnotes, so I eschewed from using it.
 
