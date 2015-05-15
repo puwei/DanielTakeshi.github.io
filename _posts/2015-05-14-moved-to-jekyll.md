@@ -84,9 +84,21 @@ don't allow external plugins to be installed. (Remember what I said earlier abou
 much control over Wordpress.com sites? Case in point!) But before we do that, there's a critical
 step we'll want to do: change the permalinks for Wordpress to conform to Jekyll's default style.
 
-TODO describe, include image?
+A *permalink* is the link extension given to a blog post after the end of the site URL. For
+instance, suppose a site has address `http://www.address.com`. It might have a page called "News"
+that one can click on, and that could have address `http://www.address.com/news`, and `news` would
+be the permalink.
 
-This plugin, founded by GitHub staff member Ben Balter, can be found (you guessed it) [on
+Modifying permalinks is not *strictly* necessary, but it will make importing comments later easy.
+The default Wordpress.org scheme seems like it appends a "p" followed by an integer, and then a
+question mark. We want to change it to match Jekyll's default naming scheme, which is
+`/year/month/day/title`, and we can do that by modifying the "Permalinks" section in the Wordpress
+dashboard.
+
+<img src="{{site.url}}/assets/permalinks.png" alt="permalinks">
+
+Now let's discuss that Wordpress-to-Jekyll exporter I recently mentioned. This plugin, founded by
+GitHub staff member Ben Balter, can be found (you guessed it) [on
 GitHub](https://github.com/benbalter/wordpress-to-jekyll-exporter). What you need to do is go to the
 "Releases" tab to download a .zip file of the code. Then unzip it, and follow the instructions that
 I've taken from the current README file:
@@ -100,7 +112,7 @@ do this is to establish what's known as an FTP connection to the Wordpress.org s
 was download [FileZilla](https://filezilla-project.org/), a free FTP provider, and used its
 graphical user interface to connect to my Wordpress.org site.
 
-TODO screenshot of ftp
+<img src="{{site.url}}/assets/filezilla.png" alt="filezilla">
 
 Note that to connect to the site, one does *not* generally use his or her Wordpress.org's login, but
 instead, one needs to use the login information from Bluehost[^bluehost]! Once I got over that
@@ -157,7 +169,7 @@ steps as follows:
   Disqus, there is a "Discussions" panel, and then there's a sub-menu option for "Import". There, we
   need . The following image should clarify what I mean:
 
-<IMG SRC="{{site.url}}/assets/disqus.png" ALT="disqus_image" WIDTH=256 HEIGHT=256>
+<img src="{{site.url}}/assets/disqus.png" alt="disqus_image">
 
 - You will also likely need to do some URL mapping.
 
