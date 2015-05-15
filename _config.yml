@@ -14,3 +14,4 @@ github_username: DanielTakeshi
 
 # Build settings
 markdown: kramdown
+#markdown: redcarpet # Does not make multiline ``` ... ``` work!

@@ -81,7 +81,10 @@ deal with Bluehost again[^gitfree].
 To clarify, the only reason why I am migrating to Wordpress.org is because the next step, using a
 Wordpress-to-Jekyll exporter plugin, only works on Wordpress.org sites, because Wordpress.com sites
 don't allow external plugins to be installed. (Remember what I said earlier about how we don't have
-much control over Wordpress.com sites? Case in point!)
+much control over Wordpress.com sites? Case in point!) But before we do that, there's a critical
+step we'll want to do: change the permalinks for Wordpress to conform to Jekyll's default style.
+
+TODO describe, include image?
 
 This plugin, founded by GitHub staff member Ben Balter, can be found (you guessed it) [on
 GitHub](https://github.com/benbalter/wordpress-to-jekyll-exporter). What you need to do is go to the
@@ -95,12 +98,16 @@ I've taken from the current README file:
 Steps (2) and (3) shouldn't need much explanation, but step (1) is the trickiest. The easiest way to
 do this is to establish what's known as an FTP connection to the Wordpress.org server. What I did
 was download [FileZilla](https://filezilla-project.org/), a free FTP provider, and used its
-graphical user interface to connect to my Wordpress.org site. Note that to connect to the site, one
-does *not* generally use his or her Wordpress.org's login, but instead, one needs to use the login
-information from Bluehost[^bluehost]! Once I got over that confusion, I was able to "drag and drop"
-the wordpress-to-jekyll exporter plugin to the Wordpress site. Then executing steps (2) and (3)
-should result in a `jekyll-export.zip` file that contains the converted HTML-to-Markdown
-information about blog entries, as well as other metadata such as the categories, tags, etc.
+graphical user interface to connect to my Wordpress.org site.
+
+TODO screenshot of ftp
+
+Note that to connect to the site, one does *not* generally use his or her Wordpress.org's login, but
+instead, one needs to use the login information from Bluehost[^bluehost]! Once I got over that
+confusion, I was able to "drag and drop" the wordpress-to-jekyll exporter plugin to the Wordpress
+site. Then executing steps (2) and (3) should result in a `jekyll-export.zip` file that contains the
+converted HTML-to-Markdown information about blog entries, as well as other metadata such as the
+categories, tags, etc.
 
 All right, now that we have our zip file, it's time to create a Jekyll directory with the `jekyll new
 danieltakeshi.github.io` command, where `danieltakeshi` should be replaced with whatever GitHub
@@ -150,7 +157,9 @@ steps as follows:
   Disqus, there is a "Discussions" panel, and then there's a sub-menu option for "Import". There, we
   need . The following image should clarify what I mean:
 
-![screenshot]({{site.url}}/assets/disqus.png)
+<IMG SRC="{{site.url}}/assets/disqus.png" ALT="disqus_image" WIDTH=256 HEIGHT=256>
+
+- You will also likely need to do some URL mapping.
 
 After several restarts due to some random issues with Disqus/Wordpress having problems with deleted
 material, I was *finally* able to get comments imported correctly, and they had the same names
