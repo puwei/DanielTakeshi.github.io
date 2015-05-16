@@ -44,54 +44,63 @@ computers to run Moses, but clang should be built-in or be part of Xcode so it s
 there as long as I have Xcode. Speaking of boost, I did have boost 1.56 installed; I got it via the
 command ```brew install boost```, which will install boost 1.56 in ```/usr/local/Cellar/boost/```,
 because that&#8217;s the default place where [homebrew][8] installs things. For example, I also have
-the widely-used [numpy][9] package located in /usr/local/Cellar/numpy.
+the widely-used [numpy][9] package located in `/usr/local/Cellar/numpy`.
 
 So, thinking that I had things taken care of, I went into my mosesdecoder directory, and followed
 the instructions by running ```./bjam -j8```. Unfortunately, I ran into the dreaded &#8220;clang:
 error: linker command failed with exit code 1.&#8221;
 
+~~~
 $ ./bjam -j8  
-Tip: install tcmalloc for faster threading. See BUILD-INSTRUCTIONS.txt for more information.  
-mkdir: bin: File exists  
-&#8230;patience&#8230;  
-&#8230;patience&#8230;  
-&#8230;found 4469 targets&#8230;  
-&#8230;updating 155 targets&#8230;  
-darwin.link lm/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/query  
-ld: library not found for -lboost_thread  
+Tip: install tcmalloc for faster threading. See BUILD-INSTRUCTIONS.txt for more information.
+mkdir: bin: File exists
+...patience...
+...patience...
+...found 4469 targets...
+...updating 155 targets...
+darwin.link lm/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/query
+ld: library not found for -lboost_thread
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 
-// Additional error messages&#8230;
+// Additional error messages...
 
-&#8230;failed darwin.link mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/util_test&#8230;  
-&#8230;skipped <pmert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi>util\_test.passed for lack of <pmert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi>util\_test&#8230;  
-darwin.link mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/vocabulary_test  
-ld: library not found for -lboost_thread  
+...failed darwin.link mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/util_test...
+...skipped <pmert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi>util_test.passed for
+lack of <pmert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi>util_test...
+darwin.link mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/vocabulary_test
+ld: library not found for -lboost_thread
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 
-&quot;g++&quot; -o &quot;mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/vocabulary\_test&quot; &quot;mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/VocabularyTest.o&quot; &quot;mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/libmert\_lib.a&quot; -lboost\_unit\_test\_framework -llzma -lbz2 -ldl -lboost\_system -lz -lboost\_thread -lm -liconv -g -Wl,-dead\_strip -no\_dead\_strip\_inits\_and_terms  
-&#8230;failed darwin.link mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/vocabulary_test&#8230;  
-&#8230;skipped <pmert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi>vocabulary\_test.passed for lack of <pmert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi>vocabulary\_test&#8230;  
-&#8230;failed updating 72 targets&#8230;  
-&#8230;skipped 83 targets&#8230;  
-The build failed. If you need support, run:  
-./jam-files/bjam -j8 &#8211;debug-configuration -d2 |gzip >build.log.gz  
-then attach build.log.gz to your e-mail.  
-You MUST do 3 things before sending to the mailing list:  
-1. Subscribe to the mailing list at http://mailman.mit.edu/mailman/listinfo/moses-support  
-2. Attach build.log.gz to your e-mail  
+"g++" -o "mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/vocabulary_test"
+"mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/VocabularyTest.o"
+"mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/libmert_lib.a"
+-lboost_unit_test_framework -llzma -lbz2 -ldl -lboost_system -lz -lboost_thread -lm -liconv -g
+-Wl,-dead_strip -no_dead_strip_inits_and_terms
+...failed darwin.link
+mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/vocabulary_test... 
+...skipped <pmert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi>vocabulary_test.passed
+for lack of <pmert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi>vocabulary_test...
+...failed updating 72 targets…
+...skipped 83 targets…
+
+The build failed. If you need support, run:
+./jam-files/bjam -j8 –debug-configuration -d2 |gzip >build.log.gz
+then attach build.log.gz to your e-mail.
+You MUST do 3 things before sending to the mailing list:
+1. Subscribe to the mailing list at http://mailman.mit.edu/mailman/listinfo/moses-support
+2. Attach build.log.gz to your e-mail
 3. Say what is the EXACT command you executed when you got the error
+~~~
 
-Huh. I can&#8217;t even do a simple installation?!? Note: in the above terminal output, I included
-my original command (after the dollar sign $), and the error message was much longer than
-what&#8217;s displayed; I got rid of some if it with ```// Additional error messages``` for the sake
-of clarity.
+Huh. I can't even do a simple installation?!? Note: in the above terminal output, I included my
+original command (after the dollar sign $), and the error message was much longer than what's
+displayed; I got rid of some if it with `// Additional error messages` for the sake of clarity.
 
 What&#8217;s the problem? Apparently, moses couldn&#8217;t find the ```lboost_thread``` library.
 After some extensive research on Google and asking on the Moses mailing list, I think the issue
 comes down to the layout being ```layout=tagged``` versus ```layout=system```. To give an example,
 the library file that I think ```lboost_thread``` refers to is ```libboost_thread-mt.a```, which is
-a ```tagged``` version due to having ```mt```; the untagged file version would be
+a *tagged* version due to having ```mt```; the untagged file version would be
 ```libboost_thread.a```. I *think* this was the problem I was getting, but I couldn&#8217;t figure
 it out despite making moses look at the directory where boost was installed. On the instructions,
 they say to do ```./bjam -with-boost=~/workspace/temp/boost_1_55_0 -j8``` where the
@@ -114,8 +123,10 @@ That pastes the boost files in the current directory, but now we have to *compil
 the time of this writing, the Moses installation instructions say to execute the following two
 commands in the boost directory:
 
+~~~
 ./bootstrap.sh;
 ./b2 -j8 -prefix=$PWD -libdir=$PWD/lib64 -layout=system link=static install || echo FAILURE
+~~~
 
 Unfortunately, running those commands never helped, and I consistently got the same amount of
 errors/warnings each time. After a series of uninstallations/installations, I decided to just try
@@ -123,10 +134,12 @@ following the instructions directly from the boost website, specifically from th
 Started][10]&#8221; section. I attempted the following set of commands from a clean download folder
 `boost_1_57_0`:
 
-cp -r boost\_1\_57_0/ /usr/local  
-cd /usr/local/boost\_1\_57_0  
+~~~
+cp -r boost_1_57_0/ /usr/local  
+cd /usr/local/boost_1_57_0  
 ./bootstrap.sh  
 ./b2 install  
+~~~
 
 *And in addition to that* &#8230; I went into Apple&#8217;s Finder window, double-clicked on the
 Xcode application (just to check if I had clang installed) &#8230; and upon doing so, I received a
@@ -138,49 +151,51 @@ idea about how much that initial pop-up must have helped me.
 I then tried to compile moses again with a simple `./bjam -j8` command. Aaaaaand &#8230; it worked!
 See some of the output (again, the dollar sign indicates lines that I typed):
 
+~~~
 $ cd ~/mosesdecoder/  
 $ ./bjam -j8  
 Tip: install tcmalloc for faster threading. See BUILD-INSTRUCTIONS.txt for more information.  
 mkdir: bin: File exists  
-&#8230;patience&#8230;  
-&#8230;patience&#8230;  
-&#8230;found 4470 targets&#8230;  
-&#8230;updating 63 targets&#8230;  
+...patience...
+...patience...
+...found 4470 targets...
+...updating 63 targets...
 common.copy /Users/danielseita/mosesdecoder/bin/lmplz  
-darwin.link util/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/bit\_packing\_test  
-darwin.link util/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/multi\_intersection\_test  
-darwin.link util/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/joint\_sort\_test  
-darwin.link util/bin/file\_piece\_test.test/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/file\_piece\_test  
-darwin.link lm/bin/partial\_test.test/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/partial\_test  
-darwin.link lm/bin/left\_test.test/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/left\_test  
-darwin.link lm/bin/model\_test.test/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/model\_test  
-testing.unit-test util/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/joint\_sort\_test.passed  
-Running 4 test cases&#8230;
+darwin.link util/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/bit_packing_test  
+darwin.link util/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/multi_intersection_test  
+darwin.link util/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/joint_sort_test  
+darwin.link util/bin/file_piece_test.test/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/file_piece_test  
+darwin.link lm/bin/partial_test.test/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/partial_test  
+darwin.link lm/bin/left_test.test/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/left_test  
+darwin.link lm/bin/model_test.test/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/model_test  
+testing.unit-test util/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/joint_sort_test.passed  
+Running 4 test cases...
 
-\*** No errors detected  
-testing.unit-test util/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/multi\_intersection\_test.passed  
-Running 4 test cases&#8230;
+*** No errors detected  
+testing.unit-test util/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/multi_intersection_test.passed  
+Running 4 test cases...
 
 // Additional cases not shown
 
-\*** No errors detected  
+***  No errors detected  
 testing.unit-test mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/util_test.passed  
-Running 3 test cases&#8230;
+Running 3 test cases...
 
-\*** No errors detected  
+*** No errors detected  
 testing.unit-test mert/bin/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/vocabulary_test.passed  
-Running 2 test cases&#8230;
+Running 2 test cases...
 
-\*** No errors detected  
-testing.capture-output moses/LM/bin/BackwardTest.test/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/BackwardTest.run  
-\*\*passed\*\* moses/LM/bin/BackwardTest.test/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/BackwardTest.test  
-&#8230;updated 63 targets&#8230;  
+*** No errors detected  
+testing.capture-output moses/LM/bin/BackwardTest.test/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/BackwardTest.run
+**passed** moses/LM/bin/BackwardTest.test/darwin-4.2.1/release/debug-symbols-on/link-static/threading-multi/BackwardTest.test
+...updated 63 targets...
 SUCCESS
+~~~
 
-What&#8217;s the lesson here? I guess the point is that *deleting stuff and just starting an
-installation process all over again while trying out new ways of doing things is one of the most
-effective techniques to tackling complicated software problems*. Yeah, it&#8217;s kind of lame, but
-I guess trial-and-error is the *nature* of Linux/Unix.
+What's the lesson here? I guess the point is that *deleting stuff and just starting an installation
+process all over again while trying out new ways of doing things is one of the most effective
+techniques to tackling complicated software problems*. Yeah, it's kind of lame, but I guess
+trial-and-error is the *nature* of Linux/Unix.
 
 All right, now let&#8217;s discuss the *second* main problem I had with installing Moses, this time
 related to mgiza. I initially ran into the problems that I will describe below, but the fix above
@@ -193,9 +208,11 @@ software) and instead using mgiza, which is a multi-threaded version of GIZA++. 
 cloned it into a directory. The installation instructions are really simple, since mgiza comes with
 makefiles (the cmake command will generate a Makefile). There are three commands to execute:
 
+~~~
 cmake .  
 make  
 make install
+~~~
 
 Notice that cmake has a period after it, which indicates that we&#8217;re assuming the installation
 happens in the *current directory*.
@@ -203,27 +220,29 @@ happens in the *current directory*.
 Of course, despite the simplicity of these instructions, I still got errors. The cmake step seemed
 to work fine, but not make:
 
+~~~
 1 warning generated.  
 Linking CXX executable ../bin/d4norm  
 Undefined symbols for architecture x86_64:  
-&quot;std::string::\_Rep::\_M_destroy(std::allocator<char> const&)&quot;, referenced from:  
-boost::system::(anonymous namespace)::generic\_error\_category::message(int) const in libboost\_system-mt.a(error\_code.o)  
-&quot;std::string::\_Rep::\_S\_empty\_rep_storage&quot;, referenced from:  
-boost::system::(anonymous namespace)::generic\_error\_category::message(int) const in libboost\_system-mt.a(error\_code.o)  
-&quot;std::string::assign(char const*, unsigned long)&quot;, referenced from:  
-boost::system::(anonymous namespace)::generic\_error\_category::message(int) const in libboost\_system-mt.a(error\_code.o)  
-&quot;std::basic\_string<char, std::char\_traits<char>, std::allocator<char> >::basic_string(char const*, std::allocator<char> const&)&quot;, referenced from:  
-boost::system::(anonymous namespace)::generic\_error\_category::message(int) const in libboost\_system-mt.a(error\_code.o)  
-&quot;std::basic\_string<char, std::char\_traits<char>, std::allocator<char> >::basic_string(std::string const&)&quot;, referenced from:  
-boost::system::(anonymous namespace)::generic\_error\_category::message(int) const in libboost\_system-mt.a(error\_code.o)  
-&quot;std::basic\_string<char, std::char\_traits<char>, std::allocator<char> >::~basic_string()&quot;, referenced from:  
-boost::system::(anonymous namespace)::generic\_error\_category::message(int) const in libboost\_system-mt.a(error\_code.o)  
+"std::string::_Rep::_M_destroy(std::allocator<char> const&)", referenced from:  
+boost::system::(anonymous namespace)::generic_error_category::message(int) const in libboost_system-mt.a(error_code.o)  
+"std::string::_Rep::_S_empty_rep_storage", referenced from:  
+boost::system::(anonymous namespace)::generic_error_category::message(int) const in libboost_system-mt.a(error_code.o)  
+"std::string::assign(char const*, unsigned long)", referenced from:  
+boost::system::(anonymous namespace)::generic_error_category::message(int) const in libboost_system-mt.a(error_code.o)  
+"std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(char const*, std::allocator<char> const&)", referenced from:  
+boost::system::(anonymous namespace)::generic_error_category::message(int) const in libboost_system-mt.a(error_code.o)  
+"std::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::string const&)", referenced from:  
+boost::system::(anonymous namespace)::generic_error_category::message(int) const in libboost_system-mt.a(error_code.o)  
+"std::basic_string<char, std::char_traits<char>, std::allocator<char> >::~basic_string()", referenced from:  
+boost::system::(anonymous namespace)::generic_error_category::message(int) const in libboost_system-mt.a(error_code.o)  
 ld: symbol(s) not found for architecture x86_64  
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
+~~~
 
-Yikes &#8230; another problem with boost! And this time, the &#8220;ld: symbols(s) not found for
-architecture x86_64&#8243; error occurred. Again, as I mentioned earlier, the solution lies not with
-mgiza itself but with boost (where it&#8217;s installed, etc.), so consider a clean installation and
+Yikes &#8230; another problem with boost! And this time, the "ld: symbols(s) not found for
+architecture x86_64" error occurred. Again, as I mentioned earlier, the solution lies not with mgiza
+itself but with boost (where it&#8217;s installed, etc.), so consider a clean installation and
 compilation of boost from the official website (not homebrew). When I did that, I deleted the mgiza
 directory, cloned it again from git, and the three subsequent commands worked. I got a ton of
 warning messages, *but no errors,* which is the important part.
@@ -235,10 +254,10 @@ your directory structure should work, but there are some important things to be 
 (1) Installing irstlm is a little different because now it&#8217;s version 5.80.06 rather than the
 5.80.03 that&#8217;s currently listed on the website. (In fact, irstlm 5.80.03 does not even compile
 on my laptop.) With this new version, irstlm moved the directory structure so now the installation
-won&#8217;t work if you copy the baseline. There&#8217;s a README in the &#8220;trunk&#8221;
-directory inside irstlm so I followed that and didn&#8217;t seem to have many issues. Make sure you
-modify the rest of the baseline&#8217;s commands accordingly, since the documentation assumes that
-we use ~/irstlm/bin as the place where the binaries are located.
+won&#8217;t work if you copy the baseline. There&#8217;s a README in the `trunk` directory inside
+irstlm so I followed that and didn&#8217;t seem to have many issues. Make sure you modify the rest
+of the baseline&#8217;s commands accordingly, since the documentation assumes that we use
+`~/irstlm/bin` as the place where the binaries are located.
 
 (2) One thing I had trouble with was the &#8220;&#8211;text yes&#8221; option for the compile-lm. That
   created a &#8220;DEBUG: warning: too many parameters&#8221; output, [as described here][11]. The
@@ -253,9 +272,10 @@ steps with normal GIZA++, but I could never get it work because after training w
 hours, something wrong happened with the lexical reordering score, because extract.o.sorted.gz never
 got generated. Here&#8217;s the error I got in the log file training.out:
 
+~~~
 libc++abi.dylib: terminating with uncaught exception of type  
 util::ErrnoException: util/file.cc:68 in int util::OpenReadOrThrow(const char *)  
-threw ErrnoException because \`-1 == (ret = open(name, 0x0000))&#8217;.
+threw ErrnoException because '-1 == (ret = open(name, 0x0000))'.
 
 No such file or directory while opening  
 /Users/danielseita/working/train/model/extract.o.sorted.gz
@@ -264,9 +284,10 @@ ERROR: Execution of:
 /Users/danielseita/mosesdecoder/scripts/../bin/lexical-reordering-score  
 /Users/danielseita/working/train/model/extract.o.sorted.gz 0.5  
 /Users/danielseita/working/train/model/reordering-table.  
-&#8211;model &quot;wbe msd wbe-msd-bidirectional-fe&quot;
+-model "wbe msd wbe-msd-bidirectional-fe"
 
 died with signal 6, without coredump
+~~~
 
 The error above prevented a `moses.ini` file from even forming. To work around this issue, it&#8217;s
 possible to run the training while removing the `-reordering` argument, but when I did that, tuning
@@ -281,13 +302,16 @@ called `word_align_tools`; inside the mosesdecoder directory. I also specified t
 for mgiza to be four. The following code shows the list of commands I used to *prepare* my file
     system for training:
 
+~~~
 cd ~/mosesdecoder/  
-mkdir word\_align\_tools  
-cp ~/mgiza/mgizapp/bin/* word\_align\_tools/  
-cp ~/mgiza/mgizapp/scripts/merge\_alignment.py word\_align_tools/
+mkdir word_align_tools  
+cp ~/mgiza/mgizapp/bin/* word_align_tools/  
+cp ~/mgiza/mgizapp/scripts/merge_alignment.py word_align_tools/
+~~~
 
 And this does the actual training:
 
+~~~
 /Users/danielseita/mosesdecoder/scripts/training/train-model.perl  
 -root-dir /Users/danielseita/working/train  
 -corpus /Users/danielseita/corpus/news-commentary-v8.fr-en.clean  
@@ -295,11 +319,12 @@ And this does the actual training:
 -lm 0:3:/Users/danielseita/lm/news-commentary-v8.fr-en.blm.en  
 -mgiza -mgiza-cpus 4  
 -external-bin-dir /Users/danielseita/mosesdecoder/mgiza_tools/ >&training.out
+~~~
 
 I put in some backward slashes there just so the code wouldn&#8217;t require so much scrolling to
 understand, but I didn&#8217;t include them when I ran it in Terminal. Also notice that I&#8217;m
 using **absolute paths**, rather than relative paths. This means we want a full path like
-/Users/danielseita/mosesdecoder instead of ~/mosesdecoder. I saw some errors online that were
+`/Users/danielseita/mosesdecoder` instead of `~/mosesdecoder`. I saw some errors online that were
 resolved with using full paths, so I decided to use full paths for *everything*, though it&#8217;s
 probably worth it only for the -root-dir argument above. Finally, I&#8217;m not adding in a
 &#8220;:8&#8243; to the language model argument, because I don&#8217;t know what that does (to do:
@@ -318,7 +343,9 @@ Once training is done, here&#8217;s a *very* important piece of advice: **change
 moses.ini file to say KENLM instead of SRILM**. This means my moses.ini file had a line that looked
 like this:
 
+~~~
 KENLM name=LM0 factor=0 path=/Users/danielseita/lm/newscommentary-v8.fr-en.blm.en order=3
+~~~
 
 I&#8217;m not sure why this isn&#8217;t emphasized that much on the baseline webpage, because
 it&#8217;s pretty darn important! The tuning will fail if we don&#8217;t get the language model set
@@ -329,22 +356,27 @@ training step, such as if I made an error in the command for training. Once I fi
 working, tuning was fine, and the following command (for tuning) ran in the normal time range, which
 is about four hours.
 
+~~~
 /Users/danielseita/mosesdecoder/scripts/training/mert-moses.pl  
 /Users/danielseita/corpus/news-test2008.true.fr  
 /Users/danielseita/corpus/news-test2008.true.en  
 /Users/danielseita/mosesdecoder/bin/moses  
-/Users/danielseita/working/train/model/moses.ini &#8211;decoder-flags=&quot;-threads 4&quot;  
-&#8211;mertdir /Users/danielseita/mosesdecoder/bin/ >& mert.out
+/Users/danielseita/working/train/model/moses.ini -decoder-flags="-threads 4"
+-mertdir /Users/danielseita/mosesdecoder/bin/ >& mert.out
+~~~
 
 (5) Testing should proceed as normal. My BLEU score is 23.58, which is what they expect (they say they got 23.5).
 
+~~~
 $ ~/mosesdecoder/scripts/generic/multi-bleu.perl -lc  
 ~/corpus/newstest2011.true.en < newstest2011.translated.en  
-BLEU = 23.58, 60.3/29.9/16.9/10.1 (BP=1.000, ratio=1.017, hyp\_len=76035, ref\_len=74753)
+BLEU = 23.58, 60.3/29.9/16.9/10.1 (BP=1.000, ratio=1.017, hyp_len=76035, ref_len=74753)
+~~~
 
 Looking back at this, while Moses is no doubt a great software system, it *does* take a lot of
 effort to get it working correctly. Sometime in the next few weeks, I&#8217;ll try to post a real,
-organized guide here.
+organized guide here. **UPDATE** May 16, 2015: I doubt I'll ever get a real guide up here, since
+Moses isn't really an integral part of my research now. Sorry about that!
 
  [1]: http://www.statmt.org/moses/
  [2]: https://seitad.wordpress.com/2012/07/27/wrapping-up-my-summer-research/
