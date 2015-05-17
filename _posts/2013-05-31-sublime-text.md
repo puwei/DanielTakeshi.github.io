@@ -13,7 +13,7 @@ tags:
   - Sublime Text
   - text editor
 ---
-[<img class="aligncenter size-large wp-image-974" alt="Sublime_Text" src="http://seitad.files.wordpress.com/2013/05/sublime_text.png?w=460" width="460" height="382" />][1]
+<img src="{{site.url}}/assets/Sublime_Text.png" alt="sublime">
 
 All right, let&#8217;s give this a shot.
 
@@ -25,6 +25,5 @@ I don&#8217;t think I&#8217;m at the point in my career where I need to really w
 
 Now, if Sublime Text starts requiring us to *pay *for continued use, then I&#8217;m likely gone. Hopefully that won&#8217;t happen.
 
- [1]: http://seitad.files.wordpress.com/2013/05/sublime_text.png
  [2]: http://www.sublimetext.com/
  [3]: http://en.wikipedia.org/wiki/K-means_clustering

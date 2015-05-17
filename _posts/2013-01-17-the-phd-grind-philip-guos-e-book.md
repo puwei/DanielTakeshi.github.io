@@ -14,7 +14,7 @@ tags:
   - Philip Guo
   - publications
 ---
-[<img class="aligncenter size-medium wp-image-850" alt="800px-PhD's" src="http://seitad.files.wordpress.com/2013/01/800px-phds.jpg?w=300" width="300" height="225" />][1]
+<img src="{{site.url}}/assets/new_phds.jpg" alt="new_phds">
 
 Today, I read Philip Guo&#8217;s e-book *[The Ph.D. Grind][2]. *It&#8217;s completely free (just
 visit the link and download) and it&#8217;s fairly easy reading, so one should be able to finish in
@@ -50,5 +50,4 @@ Some of my quick thoughts after reading this book include:
 To wrap things up, I recommend *The Ph.D. Grind *especially to undergraduates who are considering
 pursuing a Ph.D. in computer science. Again, it&#8217;s free and easy to read.
 
- [1]: http://seitad.files.wordpress.com/2013/01/800px-phds.jpg
  [2]: http://www.pgbovine.net/PhD-memoir.htm

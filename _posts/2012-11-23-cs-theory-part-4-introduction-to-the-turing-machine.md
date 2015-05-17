@@ -9,7 +9,8 @@ tags:
   - theory
   - Turing Machine
 ---
-<a href="http://seitad.wordpress.com/2012/11/23/cs-theory-part-4-introduction-to-the-turing-machine/turingmachine/" rel="attachment wp-att-783"><img class="aligncenter size-large wp-image-783" title="TuringMachine" alt="" src="http://seitad.files.wordpress.com/2012/11/turingmachine.png?w=460" width="460" height="255" /></a>
+
+<img src="{{site.url}}/assets/TuringMachine.png" alt="turing_machine">
 
 And here we are with what I think is the most important &#8220;new&#8221; concept in this course:
 the Turing Machine. Roughly speaking, these are automata that are equivalent in power to what we
@@ -108,3 +109,5 @@ is not presented to the machine in the format with two cells per symbol, so the 
 tape is copied, the copying marks are put directly over the input symbol.
 
 Quite nice, isn&#8217;t it?
+
+

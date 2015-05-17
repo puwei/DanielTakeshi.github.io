@@ -15,9 +15,8 @@ tags:
   - Summer Academy
   - technology
 ---
-<p style="text-align:center;">
-  <a href="http://seitad.files.wordpress.com/2013/01/computer_science_quarks.jpg"><img class="aligncenter  wp-image-812" alt="Computer_Science_Quarks" src="http://seitad.files.wordpress.com/2013/01/computer_science_quarks.jpg?w=460" width="368" height="367" /></a>
-</p>
+
+<img src="{{site.url}}/assets/Computer_Science_Quarks.jpg" alt="cs_quarks">
 
 Many people have asked why I am drawn to computer science. I thought that instead of trying to come up with an answer extempore each time, I would put this in writing to provide a better quality explanation. I will place a special emphasis on how computer science can particularly benefit deaf people. (As well as those who are hard-of-hearing.) This post will probably be one of the few that I&#8217;ll regularly come back to revise in the future.
 
@@ -97,10 +96,6 @@ One of the biggest concerns deaf students may have is job accessibility. Sure, w
 
 ***Closing Thoughts***
 
-[<img class="alignleft size-thumbnail wp-image-866" alt="ComputerScienceBU"
-src="http://seitad.files.wordpress.com/2013/01/computersciencebu.jpg?w=150" width="150" height="68"
-/>][8]
-
 Hopefully this was an explanation that elucidates most of the reason why I decided to major in
 computer science. It&#8217;s not the entire reason, but then I would be going on and on about how
 theory is so scintillating, and that doesn&#8217;t quite help to spread the word about computer
@@ -109,9 +104,8 @@ science and deafness. I hope this was a small step.
 
  [1]: http://stackoverflow.com/
  [2]: http://en.wikipedia.org/wiki/Seminar
- [3]: http://seitad.wordpress.com/2011/08/26/summer-academy
+ [3]: http://danieltakeshi.github.io/2011/08/26/summer-academy
  [4]: http://www.washington.edu/accesscomputing/dhh/academy/index.html
  [5]: http://www.cs.washington.edu/people/faculty/ladner/
  [6]: http://www.washington.edu/doit/
  [7]: http://hearinglosshelp.com/weblog/siemens-aquaris-micon-hearing-aid-now-rated-waterproof-and-dustproof-and-shock-resistant.php
- [8]: http://seitad.files.wordpress.com/2013/01/computersciencebu.jpg
