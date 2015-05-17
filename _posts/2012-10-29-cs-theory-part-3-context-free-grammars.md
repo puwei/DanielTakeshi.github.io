@@ -60,7 +60,7 @@ anywhere in the transition function, as we&#8217;ll see in the always-necessary 
 What language do you think this PDA recognizes? Note: the dollar sign is added on the stack before
 the first character is read; it&#8217;s used solely to indicate the bottom of the stack.
 
-<a href="http://seitad.wordpress.com/2012/10/29/cs-theory-part-3-context-free-grammars/2012-10-29-22-18-49/" rel="attachment wp-att-751"><img class="aligncenter size-large wp-image-751" title="2012-10-29 22.18.49" alt="" src="http://seitad.files.wordpress.com/2012/10/2012-10-29-22-18-49.jpg?w=460" height="345" width="460" /></a>
+<img src="{{site.url}}/assets/pda.jpg" alt="pda">
 
 The above PDA will accept all strings that recognize the language $$\{ww^R \mid w \in \{0,1\}^*
 \}$$.  It nondeterministically guesses where the middle of the input string will be, and tries to
@@ -71,4 +71,4 @@ simple pumping lemma proof.
 
 Up next for me is arguably the most important concept of the course: *the Turing Machine*.
 
- [1]: http://seitad.wordpress.com/2012/10/13/cs-theory-part-2-proving-languages-are-not-regular/
+ [1]: http://danieltakeshi.github.io/2012/10/13/cs-theory-part-2-proving-languages-are-not-regular/

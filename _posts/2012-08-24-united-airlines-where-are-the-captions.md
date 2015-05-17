@@ -13,7 +13,8 @@ tags:
   - movie
   - subtitles
 ---
-<a href="http://seitad.wordpress.com/2012/08/24/united-airlines-where-are-the-captions/the-new-united/" rel="attachment wp-att-625"><img class="aligncenter size-full wp-image-625" title="The New United" alt="" src="http://seitad.files.wordpress.com/2012/08/the-new-united.jpg" width="450" height="300" /></a>
+
+<img src="{{site.url}}/assets/the-new-united.jpg" alt="united">
 
 Much progress has been made with respect to the amount of film time that is captioned. The [Federal Communications Commission][1] has the following basic requirements:
 

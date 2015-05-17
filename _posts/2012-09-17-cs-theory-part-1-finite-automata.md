@@ -61,7 +61,7 @@ members of the language. That&#8217;s the key. And to indicate what I mean, let&
 advantageous to do so given how intuitive it is. The following is a state diagram of a finite
 automata that recognizes some language.
 
-<a href="http://seitad.wordpress.com/2012/09/17/cs-theory-part-1-finite-automata/machine1-jpg/" rel="attachment wp-att-717"><img class="aligncenter size-large wp-image-717" title="Machine1.jpg" alt="" src="http://seitad.files.wordpress.com/2012/09/machine1-e1347921561729.jpg?w=460" width="460" height="276" /></a>
+<img src="{{site.url}}/assets/machine1.jpg" alt="dfa1">
 
 It&#8217;s a little blurry (future images will be better), but I hope you can still see the
 interesting symbols. First, there are four large circles, with one having a circle within it. Each
@@ -146,7 +146,7 @@ that correspond to the last three digits being 100, 101, 110, or 111, which are 
 possibilities we could have for the last three symbols of accepted strings. Naturally, the four
 other non-accept states correspond to the last three symbols being 000, 001, 010, or 011.
 
-<a href="http://seitad.wordpress.com/2012/09/17/cs-theory-part-1-finite-automata/machine2-jpg/" rel="attachment wp-att-725"><img class="aligncenter size-large wp-image-725" title="Machine2.jpg" alt="" src="http://seitad.files.wordpress.com/2012/09/machine2.jpg?w=460" width="460" height="276" /></a>
+<img src="{{site.url}}/assets/machine2.jpg" alt="dfa2">
 
 Up to now, I assumed that my finite automaton were deterministic, so it was always possible to know
 what was happening. But soon I&#8217;ll be moving on to *non-deterministic* finite automaton &#8230;

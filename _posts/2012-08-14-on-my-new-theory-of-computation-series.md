@@ -15,7 +15,8 @@ tags:
   - Theory of Computation
   - Williams
 ---
-<a href="http://seitad.wordpress.com/2012/08/14/on-my-new-theory-of-computation-series/2012-08-09-13-05-07/" rel="attachment wp-att-532"><img class="aligncenter size-full wp-image-532" title="2012-08-09 13.05.07" alt="" src="http://seitad.files.wordpress.com/2012/08/2012-08-09-13-05-07.jpg" width="500" height="160" /></a>
+
+<img src="{{site.url}}/assets/waimea.jpg" alt="waimea">
 
 **UPDATE** May 13, 2015: I only managed to do half of what I wanted for this series, but at least I
 did _something_. As of now, I'm not going to go back to working on this because my current academic

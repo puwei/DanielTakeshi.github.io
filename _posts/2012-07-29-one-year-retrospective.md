@@ -10,7 +10,6 @@ tags:
   - blog
   - productivity
 ---
-<a href="http://seitad.wordpress.com/2012/07/29/one-year-retrospective/1year/" rel="attachment wp-att-371"><img class="alignright size-thumbnail wp-image-371" title="1Year" alt="" src="http://seitad.files.wordpress.com/2012/07/1year.jpg?w=150" width="150" height="150" /></a>
 
 I started this blog on August 1, 2011, so I get to celebrate that I&#8217;ve been blogging for about
 a year. I now want to take a step back and see what I have achieved and what goals I should set for
@@ -47,5 +46,3 @@ summer 2012 starts &#8212; in Honolulu, Hawaii! I&#8217;ll be there for two week
 I&#8217;ll have a great time with my family. And true to my new habits, I have a few interesting
 posts backed up (no less than five), which will likely be published upon my return to Albany, New
 York. Stay tuned.
-
- [1]: http://seitad.wordpress.com/2012/07/02/blog-productivity/
