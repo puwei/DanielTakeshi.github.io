@@ -23,7 +23,7 @@ Our group successfully classified a random sample of sentences as belonging to t
 
 Overall, I&#8217;m glad I had the chance to participate in the Bard REU, and I&#8217;m optimistic that we will produce a strong research paper. I thank the professors there for accepting me into their program, and the National Science Foundation, which has now sponsored my second straight summer program.
 
- [1]: http://seitad.wordpress.com/2012/06/03/summer-at-bard/
+ [1]: http://danieltakeshi.github.io/2012/06/03/summer-at-bard/
  [2]: http://en.wikipedia.org/wiki/BLEU
  [3]: http://www.statmt.org/moses/index.php?n=Main.HomePage
  [4]: http://simple.wikipedia.org/wiki/Main_Page

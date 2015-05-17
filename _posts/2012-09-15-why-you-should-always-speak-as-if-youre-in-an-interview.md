@@ -36,4 +36,4 @@ So please, as much as possible, do the following:
 
 In my case, the first point I listed is the most helpful for me when I hear. But for those who may lack more &#8220;raw&#8221; hearing even with the help of assisted listening devices, the fourth *may* be more effective. But the first one, in my opinion, should take priority.
 
- [1]: http://seitad.wordpress.com/2012/09/06/how-to-be-more-deaf-friendly-the-search-for-simple-yet-stunningly-effective-strategies/
+ [1]: http://danieltakeshi.github.io/2012/09/06/how-to-be-more-deaf-friendly-the-search-for-simple-yet-stunningly-effective-strategies/

@@ -153,4 +153,4 @@ what was happening. But soon I&#8217;ll be moving on to *non-deterministic* fi
 
 [^sipser]: From my textbook, *Introduction to the Theory of Computation*, Third Edition, by Michael Sipser.
 
- [1]: http://seitad.wordpress.com/2012/08/14/on-my-new-theory-of-computation-series/
+ [1]: http://danieltakeshi.github.io/2012/08/14/on-my-new-theory-of-computation-series/

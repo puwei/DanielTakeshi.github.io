@@ -28,4 +28,4 @@ Here,&#8221; just for that purpose, but I think the page I just set up now will 
 starting point. Any constructive feedback on the structure of &#8220;Seita&#8217;s Place,&#8221; of
 course, is more than welcome.
 
- [1]: http://seitad.wordpress.com/2012/07/02/blog-productivity/
+ [1]: http://danieltakeshi.github.io/2012/07/02/blog-productivity/

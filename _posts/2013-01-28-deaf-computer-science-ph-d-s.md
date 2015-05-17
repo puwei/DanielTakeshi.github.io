@@ -28,4 +28,4 @@ Dr. Vogler and I both think that Dr. Vogler was the first deaf person to earn a 
 
  [1]: http://www.gallaudet.edu/faculty-staff/business/alkoby_karen.html
  [2]: http://www.gallaudet.edu/faculty-staff/communication_studies/vogler_christian.html
- [3]: http://seitad.wordpress.com/2012/02/04/technical-term-dilemma/
+ [3]: http://danieltakeshi.github.io/2012/02/04/technical-term-dilemma/

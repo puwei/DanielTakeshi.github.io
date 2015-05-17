@@ -27,5 +27,5 @@ Possible topics I may discuss in the future will likely fall in one of the follo
 
 I am solicitous to see how this turns out, and how much I learn from this project.
 
- [1]: http://seitad.wordpress.com/2012/08/23/analysis-of-accessibility-a-critical-overview-of-espns-first-take/
- [2]: http://seitad.wordpress.com/2012/08/24/united-airlines-where-are-the-captions/
+ [1]: http://danieltakeshi.github.io/2012/08/23/analysis-of-accessibility-a-critical-overview-of-espns-first-take/
+ [2]: http://danieltakeshi.github.io/2012/08/24/united-airlines-where-are-the-captions/

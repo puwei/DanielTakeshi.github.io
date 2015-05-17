@@ -106,7 +106,7 @@ Professor H-B writes:
     </blockquote>
     
     <p>
-      As I <a href="http://seitad.wordpress.com/2013/08/01/no-more-computer-science-gre-subject-test-exam/">mentioned earlier</a>, there is no such thing as a computer science GRE subject test now. Her article was written in 2011, while the CS exam was terminated in 2013, so she&#8217;ll almost certainly remove this part during her next update.
+      As I <a href="http://danieltakeshi.github.io/2013/08/01/no-more-computer-science-gre-subject-test-exam/">mentioned earlier</a>, there is no such thing as a computer science GRE subject test now. Her article was written in 2011, while the CS exam was terminated in 2013, so she&#8217;ll almost certainly remove this part during her next update.
     </p>
     
     <p>

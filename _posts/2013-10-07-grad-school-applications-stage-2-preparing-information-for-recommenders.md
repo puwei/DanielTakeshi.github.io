@@ -28,4 +28,4 @@ One thing that I had hoped to include in the packet was an updated statement of 
 
 It was a relief to finally send information to my three recommenders, so now I can focus on getting my actual essays and applications. No, I&#8217;m not as far as I hoped to be in the plan I posted in July, but I&#8217;m getting there. I still have a couple of weeks before the first deadlines arrive&#8230;
 
- [1]: http://seitad.wordpress.com/2013/07/20/grad-school-applications-stage-1-the-quiet-before-the-storm/
+ [1]: http://danieltakeshi.github.io/2013/07/20/grad-school-applications-stage-1-the-quiet-before-the-storm/

@@ -18,8 +18,8 @@ This summer, I&#8217;ve spent a good amount of time analyzing the content of my 
 the composition of my computer science entries, I realized that I don&#8217;t talk about the subject
 material in my *classes* a whole lot. Most of my posts in that category are related to programming,
 research, and other areas. I do have four course-related posts thus far in a &#8220;theory of
-computation&#8221; series, which you can access by looking at the recently-added [directory][2] of
-blog entries, but other than that, there&#8217;s honestly not much.
+computation&#8221; series, which you can access by looking at the <del>recently-added directory of
+blog entries</del>[^removed], but other than that, there&#8217;s honestly not much.
 
 I&#8217;m hoping to change that as the summer turns into fall. One way is to revive my theory of
 computation series, which is motivated in part because I&#8217;m going to be a theory teaching
@@ -182,7 +182,7 @@ fields.
 In the next post, I&#8217;ll discuss an obvious extension of this problem to *decision trees*, which
 are not restricted to classifying after just one decision.
 
- [2]: http://seitad.wordpress.com/detailed-directory-of-blog-entries/
+ [^removed]: This was removed when the blog migrated to Jekyll in May 2015.
  [3]: http://en.wikipedia.org/wiki/Precision_and_recall
  [4]: http://en.wikipedia.org/wiki/Overfitting
  [5]: http://en.wikipedia.org/wiki/Decision_stump

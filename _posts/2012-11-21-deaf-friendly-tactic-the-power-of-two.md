@@ -33,4 +33,4 @@ So to anyone thinking about dividing up people, I suggest keeping the &#8220;Pow
 
 [This post is part of a series that I started [here][1].]
 
- [1]: http://seitad.wordpress.com/2012/09/06/how-to-be-more-deaf-friendly-the-search-for-simple-yet-stunningly-effective-strategies/
+ [1]: http://danieltakeshi.github.io/2012/09/06/how-to-be-more-deaf-friendly-the-search-for-simple-yet-stunningly-effective-strategies/

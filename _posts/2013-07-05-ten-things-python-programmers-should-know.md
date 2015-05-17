@@ -654,7 +654,7 @@ on how to go from beginner to intermediate/expert.
 If you have any further questions or comments, feel free to reply to this post or Google around.
 Have fun programming in Python!
 
- [1]: http://seitad.wordpress.com/2012/08/05/java-to-python-transition/
+ [1]: http://danieltakeshi.github.io/2012/08/05/java-to-python-transition/
  [2]: http://www.secnetix.de/olli/Python/block_indentation.hawk
  [3]: http://www.python.org/
  [4]: http://docs.python.org/2/

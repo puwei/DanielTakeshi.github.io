@@ -164,4 +164,3 @@ competitive resume contest.
  [6]: http://oestrem.com/thingstwice/2007/05/latex-vs-word-vs-writer/
  [7]: http://en.wikipedia.org/wiki/Beamer_(LaTeX)
  [8]: http://icml.cc/2012/papers/592.pdf
- [9]: http://seitad.files.wordpress.com/2013/07/latex_beamer.png

@@ -29,4 +29,4 @@ So why&#8217;s it going to end? There are two primary reasons.
 Professor Ladner and the program coordinator did not reapply for funding, and thus the Summer Academy will no longer continue. About 90 students in all will have been served in the Summer Academy&#8217;s seven years of existence. As of this writing, the 2013 session is well underway, but the era will come to an end on August 24, 2013.
 
  [1]: http://www.washington.edu/accesscomputing/dhh/academy/
- [2]: http://seitad.wordpress.com/2011/08/26/summer-academy/
+ [2]: http://danieltakeshi.github.io/2011/08/26/summer-academy/

@@ -72,5 +72,5 @@ I *have* joined and blogged about it, hopefully this leads to another aspiring 
 the list. In the meantime, I&#8217;ve already started thinking about possible blog entries that
 expand some of the themes I explored in the mailing list.
 
- [1]: http://seitad.wordpress.com/2013/01/28/deaf-computer-science-ph-d-s/
- [2]: http://seitad.wordpress.com/2012/08/24/united-airlines-where-are-the-captions/
+ [1]: http://danieltakeshi.github.io/2013/01/28/deaf-computer-science-ph-d-s/
+ [2]: http://danieltakeshi.github.io/2012/08/24/united-airlines-where-are-the-captions/

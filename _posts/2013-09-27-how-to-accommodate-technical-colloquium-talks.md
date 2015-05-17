@@ -36,8 +36,8 @@ Here are some hypothetical scenarios I have in mind:
 
 As one can see, there&#8217;s no substitute to having normal hearing. Different forms of accommodations have their pluses and minuses, and it&#8217;s up to the individual and his or her institution to come up with a reasonable plan. I&#8217;m still not entirely sure what&#8217;s best for me, but hopefully I can come up with some firm decision soon.
 
- [1]: http://seitad.wordpress.com/2013/09/17/my-williams-college-mathematics-colloquium-talk/
+ [1]: http://danieltakeshi.github.io/2013/09/17/my-williams-college-mathematics-colloquium-talk/
  [2]: http://www.phonak.com/com/b2c/en/products/fm/transmitters/smartlink_plus/overview.html
- [3]: http://seitad.wordpress.com/2013/06/08/first-thoughts-on-the-contego-r900-fm-system/
- [4]: http://seitad.wordpress.com/2012/02/04/technical-term-dilemma/
+ [3]: http://danieltakeshi.github.io/2013/06/08/first-thoughts-on-the-contego-r900-fm-system/
+ [4]: http://danieltakeshi.github.io/2012/02/04/technical-term-dilemma/
  [5]: http://www.captionfirst.com/CART

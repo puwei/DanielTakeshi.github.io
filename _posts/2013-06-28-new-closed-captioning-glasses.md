@@ -59,4 +59,4 @@ is saying to me in real time. (Actually, this is theoretically impossible, but w
 right?)
 
  [1]: http://www.npr.org/blogs/alltechconsidered/2013/05/12/183218751/new-closed-captioning-glasses-help-deaf-go-out-to-the-movies
- [2]: http://seitad.wordpress.com/2012/09/06/how-to-be-more-deaf-friendly-the-search-for-simple-yet-stunningly-effective-strategies/comment-page-1/
+ [2]: http://danieltakeshi.github.io/2012/09/06/how-to-be-more-deaf-friendly-the-search-for-simple-yet-stunningly-effective-strategies/comment-page-1/
