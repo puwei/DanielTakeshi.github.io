@@ -128,7 +128,7 @@ Unfortunately, we don't know the density of the individual sources, so we approx
 "good" density and make them equal to each other. We can do this by taking the derivative of the
 sigmoid function:
 
-<img src="{{site.url}}/assets/logistic-curve.png" alt="sigmoid">
+<img src="{{site.url}}/assets/Logistic-curve.png" alt="sigmoid">
 
 The reason why this works is that the sigmoid function satisfies the properties of a *cumulative
 distribution function*, and by differentiating such a function, we get a *probability density

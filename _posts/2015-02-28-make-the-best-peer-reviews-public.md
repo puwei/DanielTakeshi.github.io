@@ -13,7 +13,6 @@ tags:
   - NIPS
   - peer review
 ---
-<img src="{{site.url}}/assets/nips-2014-poster-thumbnail.png" alt="nips">
 
 The annual Neural Information Processing Systems (NIPS) conference is arguably the premier machine
 learning conference along with the International Conference on Machine Learning (ICML). I read a lot
