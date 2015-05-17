@@ -32,6 +32,6 @@ probably apply to many other types of hearing aids.
 I emphasize the importance of reading these manuals because if one is going to be using a hearing aid often, it&#8217;s important to know as much about them as possible, and I think this aspect gets glossed over in today&#8217;s busy lives. Similarly, don&#8217;t forget to learn more about your cars, houses, phones, laptops, and other expensive items &#8212; you might learn something useful.
 
  [1]: https://seitad.files.wordpress.com/2014/08/oticon_sensei.jpg
- [2]: http://seitad.wordpress.com/2014/04/17/im-going-to-berkeley/
+ [2]: http://danieltakeshi.github.io/2014/04/17/im-going-to-berkeley/
  [3]: http://www.oticon.com/products/hearing-aids/children/sensei/about-sensei.aspx
- [4]: http://seitad.wordpress.com/2012/07/18/dont-get-hearing-aids-with-touch-screens/
+ [4]: http://danieltakeshi.github.io/2012/07/18/dont-get-hearing-aids-with-touch-screens/

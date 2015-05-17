@@ -379,7 +379,7 @@ organized guide here. **UPDATE** May 16, 2015: I doubt I'll ever get a real guid
 Moses isn't really an integral part of my research now. Sorry about that!
 
  [1]: http://www.statmt.org/moses/
- [2]: https://seitad.wordpress.com/2012/07/27/wrapping-up-my-summer-research/
+ [2]: https://danieltakeshi.github.io/2012/07/27/wrapping-up-my-summer-research/
  [3]: http://www.statmt.org/moses/?n=Moses.Baseline
  [4]: http://www.cs.berkeley.edu/~klein/cs288/fa14/
  [5]: http://www.boost.org/

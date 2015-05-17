@@ -23,4 +23,4 @@ Wait a second, did Ballmer just exclude Berkeley from the Stanford, CMU, and MIT
 Anyway, I hope Berkeley can maintain its reputation for the next few years. This is mainly so that people will be willing to take me seriously at a first glance/conversation when discussing research; beyond that, of course, they&#8217;ll care more about your actual record than the school you go to. But it *helps* to go to a highly-ranked school. And I&#8217;m sure that some of Harvard&#8217;s new faculty members will have gotten their Ph.D.s from Berkeley. Incidentally, the fourth and fifth year students at Berkeley who have strong publication records must be feeling ecstatic.
 
  [1]: http://www.thecrimson.com/article/2014/11/13/ballmer-computer-science-gift/
- [2]: http://seitad.wordpress.com/2014/03/19/the-2013-turing-award-and-the-2014-computer-science-ph-d-rankings/
+ [2]: http://danieltakeshi.github.io/2014/03/19/the-2013-turing-award-and-the-2014-computer-science-ph-d-rankings/

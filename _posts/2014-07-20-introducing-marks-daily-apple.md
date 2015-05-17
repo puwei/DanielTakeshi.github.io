@@ -44,7 +44,11 @@ My quest for learning more about health, diet, nutrition, and food led me to [Ma
 
 Mark Sisson advocates his [own food pyramid][3], which emphasizes meats (including fish, eggs, and fowl), vegetables, fats, fruits, and some carbohydrates. Notice the distinct lack of bread, rice, cereal, and pasta! It&#8217;s a long story about why he excludes them, but Sisson explains this in his blog and has some decent (but in my opinion, not overwhelming) evidence to back up his claims. For the most part, I favor his food pyramid over the 1992 USDA food pyramid, but I think Sisson&#8217;s pyramid should have kept vegetables as the &#8220;base&#8221; group to reiterate how they should compose the bulk of the diet in terms of volume.
 
-If you want more information about his philosophy towards food and life, I&#8217;ll refer you to his [Start Here][4] page. When reading Mark&#8217;s Daily Apple, realize that Mark Sisson&#8217;s focus is not just on nutrition, but indeed, on a *lifestyle*. His advice encompasses sleep, play, exercise, and many other factors that affect our health. There&#8217;s so much out there that Mark Sisson posts new entries *daily* and still has no shortage of topics to talk about. His blog has been on my [About][5] page for a while, but I thought it would be interesting to actually introduce it in one of my entries.
+If you want more information about his philosophy towards food and life, I&#8217;ll refer you to his
+[Start Here][4] page. When reading Mark&#8217;s Daily Apple, realize that Mark Sisson&#8217;s focus
+is not just on nutrition, but indeed, on a *lifestyle*. His advice encompasses sleep, play,
+exercise, and many other factors that affect our health. There&#8217;s so much out there that Mark
+Sisson posts new entries *daily* and still has no shortage of topics to talk about.
 
 In a future blog post, I&#8217;ll delve more deeply into diet controversies. (Don&#8217;t worry &#8212; this digression doesn&#8217;t mean that I&#8217;m turning into a nutritionist&#8230;)
 
@@ -52,4 +56,3 @@ In a future blog post, I&#8217;ll delve more deeply into diet controversies. (Do
  [2]: http://www.marksdailyapple.com/#axzz37wZDBuAp
  [3]: http://www.marksdailyapple.com/introducing-the-new-primal-blueprint-food-pyramid/#axzz37wZDBuAp
  [4]: http://www.marksdailyapple.com/welcome-to-marks-daily-apple/#axzz37wZDBuAp
- [5]: http://seitad.wordpress.com/about/

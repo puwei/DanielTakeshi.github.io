@@ -49,7 +49,6 @@ happens to be flowing around. So I prefer to just sit and stand as needed during
 and I hope that other students (and faculty!) consider doing that.
 
  [1]: http://www.cs.berkeley.edu/~sequin/soda/soda.html
- [2]: https://seitad.files.wordpress.com/2014/10/office.jpg
  [3]: http://gizmodo.com/312920/treadmill-desk-promotes-hamster-itis
  [4]: http://www.cs.cornell.edu/~tanzeem/
  [5]: http://www.marksdailyapple.com/standing-at-work/#axzz3GXp1N4Ek

@@ -98,4 +98,4 @@ Zhang&#8217;s paper was around 50 pages.
  [3]: http://www.win.tue.nl/~gwoegi/P-versus-NP.htm
  [4]: http://www.simonsfoundation.org/quanta/20130519-unheralded-mathematician-bridges-the-prime-gap/
  [5]: http://en.wikipedia.org/wiki/Higgs_boson
- [6]: http://seitad.wordpress.com/2013/07/12/its-time-to-ditch-powerpoint-and-word-in-favor-of-latex/
+ [6]: http://danieltakeshi.github.io/2013/07/12/its-time-to-ditch-powerpoint-and-word-in-favor-of-latex/

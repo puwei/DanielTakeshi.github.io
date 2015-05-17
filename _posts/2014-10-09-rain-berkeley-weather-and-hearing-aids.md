@@ -25,7 +25,6 @@ Anyway, I&#8217;m happy to report that hearing aid wearers in the San Francisco 
 
 There was a [newspaper article a few weeks ago][4] that touched on the topic of rain in the Bay Area, so from what I can tell, I should expect more rain once it&#8217;s winter, but probably not *that* much. (I&#8217;m also aware that California&#8217;s in a historic drought, so I do feel guilty for being happy about the lack of rain.) Needless to say, the weather here is vastly different from the weather in Williamstown, MA. I remember when it would rain for days in September, thus ruining the Ultimate Frisbee fields. So far, the weather in Berkeley has been terrific, which is probably one of many reasons why graduate students come here from all over the world.
 
- [1]: https://seitad.files.wordpress.com/2014/10/berkeley_weather.png
  [2]: http://www.appalachianaudiology.com/waterproof-hearing-aids.php
- [3]: http://seitad.wordpress.com/2012/07/18/dont-get-hearing-aids-with-touch-screens/
+ [3]: http://danieltakeshi.github.io/2012/07/18/dont-get-hearing-aids-with-touch-screens/
  [4]: http://www.mercurynews.com/california/ci_26599086/couple-days-actual-rain-will-arrive-bay-area?source=pkg

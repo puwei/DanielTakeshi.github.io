@@ -38,6 +38,6 @@ Okay, I have to confess: part of the reason why I haven&#8217;t put on my hearin
 
 Thus, while turning off hearing aids is useful when faced with prolonged noise exposure, it is not generally a long-term solution. With situations such as shared offices, which are a typical work environment for graduate students, I think the benefits decrease and the drawbacks (as stated earlier) become more striking. (At Berkeley, I&#8217;m pretty sure graduate students periodically interrupt each other to talk about research.) As a possible alternative, I could utilize noise-canceling headphones that cover my hearing aids (without causing any &#8220;ringing&#8221;) which would take care of some of the problems I mentioned. Interestingly enough, the last time I tried wearing noise-canceling headphones over my hearing aids, they didn&#8217;t cancel out any noise! So it seems to me that I just need to get used to working with background noise.
 
- [1]: http://seitad.wordpress.com/2014/05/31/speak-vs-use-asl/
- [2]: http://seitad.wordpress.com/2013/04/26/whats-it-like-being-an-undergraduate-teaching-assistant/
+ [1]: http://danieltakeshi.github.io/2014/05/31/speak-vs-use-asl/
+ [2]: http://danieltakeshi.github.io/2013/04/26/whats-it-like-being-an-undergraduate-teaching-assistant/
  [3]: http://www.oticon.com/products/hearing-aids/children/sensei/about-sensei.aspx

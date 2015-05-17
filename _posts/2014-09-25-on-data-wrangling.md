@@ -60,9 +60,9 @@ hard as you did to *prepare* the project and its data in the first place.
 
  [1]: https://seitad.files.wordpress.com/2014/09/data_science.png
  [2]: http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html
- [3]: http://seitad.wordpress.com/2012/07/27/wrapping-up-my-summer-research/
+ [3]: http://danieltakeshi.github.io/2012/07/27/wrapping-up-my-summer-research/
  [4]: http://machinelearning.wustl.edu/mlpapers/paper_files/BleiNJ03.pdf
  [5]: http://homes.cs.washington.edu/~jheer/
  [6]: http://db.cs.berkeley.edu/jmh/
- [7]: http://seitad.wordpress.com/2014/03/29/graduate-school-visit-4-the-university-of-washington/
+ [7]: http://danieltakeshi.github.io/2014/03/29/graduate-school-visit-4-the-university-of-washington/
  [8]: http://inst.eecs.berkeley.edu/~cs188/pacman/project_overview.html

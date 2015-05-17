@@ -49,7 +49,7 @@ The third day was when all the one-on-one, 30-minute faculty meetings occurred.
 After my final faculty meeting of the day, I was able to sneak in another hour or two to do some late Operations Research homework. For dinner, I headed out with the HCI group, and then later took the train to San Francisco airport since, like many of the Berkeley admits, I had to head to Seattle for another visit days starting the next morning&#8230;.
 
  [1]: http://seitad.files.wordpress.com/2014/03/berkeley2.jpg
- [2]: http://seitad.wordpress.com/2014/03/27/graduate-school-visit-2-cornell-university/
+ [2]: http://danieltakeshi.github.io/2014/03/27/graduate-school-visit-2-cornell-university/
  [3]: http://www.berkeleyside.com/2012/08/27/cal-memorial-stadium-unveiled-after-21-month-renovation/
  [4]: http://www.cs.berkeley.edu/~sequin/soda/soda.html
  [5]: http://en.wikipedia.org/wiki/Sather_Tower

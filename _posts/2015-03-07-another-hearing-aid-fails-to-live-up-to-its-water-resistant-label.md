@@ -49,5 +49,4 @@ each other about who should be playing the next game or what they want to do aft
 basketball&#8217;s over. A more important issue is that I drive to the gym, and driving without
 working hearing aids is something I would rather avoid.
 
- [1]: https://seitad.files.wordpress.com/2015/03/aquaris-wave.gif
- [2]: https://seitad.wordpress.com/2014/08/23/reading-the-oticon-sensei-hearing-aid-manual/
+ [2]: https://danieltakeshi.github.io/2014/08/23/reading-the-oticon-sensei-hearing-aid-manual/

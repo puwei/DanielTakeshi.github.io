@@ -79,11 +79,7 @@ Finally, where are my viewers coming from? Since February 2012, it seems like th
 
 <img src="{{site.url}}/assets/Stats_Blog_Country.png" alt="stats">
 
- [1]: http://seitad.files.wordpress.com/2014/01/minecraft-island-village.jpg
- [2]: http://seitad.wordpress.com/2014/01/18/what-if-300-deaf-people-were-isolated-on-an-island/
- [3]: http://seitad.wordpress.com/2011/10/11/asl-guildelines/
- [4]: http://seitad.files.wordpress.com/2014/01/stats_blog_popular.png
- [5]: http://seitad.files.wordpress.com/2014/01/stats_blog_unpopular.png
- [6]: http://seitad.wordpress.com/2013/07/05/ten-things-python-programmers-should-know/
- [7]: http://seitad.wordpress.com/2012/03/30/on-the-hardness-of-nintendo-games/
- [8]: http://seitad.files.wordpress.com/2014/01/stats_blog_country.png
+ [2]: http://danieltakeshi.github.io/2014/01/18/what-if-300-deaf-people-were-isolated-on-an-island/
+ [3]: http://danieltakeshi.github.io/2011/10/11/asl-guildelines/
+ [6]: http://danieltakeshi.github.io/2013/07/05/ten-things-python-programmers-should-know/
+ [7]: http://danieltakeshi.github.io/2012/03/30/on-the-hardness-of-nintendo-games/

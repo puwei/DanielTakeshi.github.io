@@ -55,5 +55,5 @@ noon to 2:00pm: Try to get back to research regarding the BID Data Project. Writ
  [2]: https://github.com/BIDData
  [3]: http://www.cs.berkeley.edu/~jfc/
  [4]: http://www.cs.berkeley.edu/~malik/
- [5]: https://seitad.wordpress.com/2014/11/02/any-social-advice-for-mingling-sessions/
+ [5]: https://danieltakeshi.github.io/2014/11/02/any-social-advice-for-mingling-sessions/
  [6]: http://www.scottaaronson.com/blog/?p=388

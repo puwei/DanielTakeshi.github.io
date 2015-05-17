@@ -88,5 +88,5 @@ are like, and I will *probably* take the sequel, CS 281B, the next time it&#8217
 
  [1]: https://seitad.files.wordpress.com/2014/12/statistical_learning_theory.png
  [2]: http://piazza.com
- [3]: http://seitad.wordpress.com/2014/12/18/detection-theory-adventures-a-k-a-a-final-project/
- [4]: http://seitad.wordpress.com/2014/10/05/after-a-few-weeks-of-cart-why-do-i-feel-dissatisfied/
+ [3]: http://danieltakeshi.github.io/2014/12/18/detection-theory-adventures-a-k-a-a-final-project/
+ [4]: http://danieltakeshi.github.io/2014/10/05/after-a-few-weeks-of-cart-why-do-i-feel-dissatisfied/

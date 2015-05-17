@@ -27,5 +27,5 @@ While this blog post might convey a bleak message, there is, oddly enough a very
 
 *That method is to do outstanding work*. If you can do that, and others are impressed, then you know that you&#8217;ve been able to overcome the various minor hassles related to accommodations and that you&#8217;re an accepted member of the community. If not, then either the situation doesn&#8217;t fit in this kind of framework, or it might be necessary to re-evaluate your objectives.
 
- [1]: https://seitad.wordpress.com/2013/09/27/how-to-accommodate-technical-colloquium-talks/
- [2]: https://seitad.wordpress.com/2013/06/28/new-closed-captioning-glasses/
+ [1]: https://danieltakeshi.github.io/2013/09/27/how-to-accommodate-technical-colloquium-talks/
+ [2]: https://danieltakeshi.github.io/2013/06/28/new-closed-captioning-glasses/

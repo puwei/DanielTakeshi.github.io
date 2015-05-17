@@ -144,11 +144,10 @@ Overall, being in my classes has been an incredibly frustrating experience for m
 
 Nonetheless, I *do* feel like I am learning a lot, and I *do* feel like things will improve as the semester progresses. But in the meantime, I know there&#8217;s only one thing that can make this easier: *doing a ridiculous amount of self-study*. Do the readings, find online tutorials, do whatever it takes to learn the stuff discussed in lecture, ideally *before* the lecture occurs. Doing a ton of reading before lectures has proven to be a rock-solid learning strategy for me.
 
- [1]: https://seitad.files.wordpress.com/2014/09/captioning.jpg
- [2]: http://seitad.wordpress.com/2014/09/14/good-news-accommodations-for-berkeley-events-are-quick-and-easy-to-obtain/
+ [2]: http://danieltakeshi.github.io/2014/09/14/good-news-accommodations-for-berkeley-events-are-quick-and-easy-to-obtain/
  [3]: http://www.washington.edu/doit/Faculty/articles?386
- [4]: http://seitad.wordpress.com/2012/06/23/williams-college-spoils-me/
- [5]: http://seitad.wordpress.com/2012/02/04/technical-term-dilemma/
+ [4]: http://danieltakeshi.github.io/2012/06/23/williams-college-spoils-me/
+ [5]: http://danieltakeshi.github.io/2012/02/04/technical-term-dilemma/
  [6]: http://en.wikipedia.org/wiki/Gaussian_function
  [7]: http://seitad.wordpress.com/2013/04/13/an-inside-view-of-rits-accommodation-policies-and-its-limitations/
  [8]: http://vis.berkeley.edu/~maneesh/

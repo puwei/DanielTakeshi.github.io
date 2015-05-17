@@ -340,7 +340,7 @@ his YouTube video, [Sugar: The Bitter Truth][55]. Dr. Yudkin&#8217;s book was th
 2012 due to growing demand, which gives an idea of how it has stood the test of time.
 
  [1]: https://seitad.files.wordpress.com/2014/07/good-calories.jpg
- [2]: http://seitad.wordpress.com/2014/07/20/introducing-marks-daily-apple/
+ [2]: http://danieltakeshi.github.io/2014/07/20/introducing-marks-daily-apple/
  [3]: http://en.wikipedia.org/wiki/History_of_USDA_nutrition_guides
  [4]: http://en.wikipedia.org/wiki/Fast_Food_Nation
  [5]: http://jama.jamanetwork.com/article.aspx?articleid=1832542

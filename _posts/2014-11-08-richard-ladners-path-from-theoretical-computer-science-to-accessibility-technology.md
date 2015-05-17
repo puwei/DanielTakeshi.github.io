@@ -27,4 +27,4 @@ On a related note, Richard isn&#8217;t the only scientist who has made a late-st
 
  [1]: http://www.cs.washington.edu/people/faculty/ladner
  [2]: http://www.sigaccess.org/2014/08/september-2014-newsletter-2/
- [3]: http://seitad.wordpress.com/2011/08/26/summer-academy/
+ [3]: http://danieltakeshi.github.io/2011/08/26/summer-academy/

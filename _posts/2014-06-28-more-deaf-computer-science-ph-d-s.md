@@ -55,7 +55,7 @@ Kanevsky&#8217;s resume includes being named an IBM Master and more than 15o U.S
 
 Unfortunately, I&#8217;ve never personally met any of these people, but it would be nice to do so someday.
 
- [1]: http://seitad.wordpress.com/2013/01/28/deaf-computer-science-ph-d-s/
+ [1]: http://danieltakeshi.github.io/2013/01/28/deaf-computer-science-ph-d-s/
  [2]: http://en.wikipedia.org/wiki/Vint_Cerf
  [3]: https://cs.uwaterloo.ca/~dberry/
  [4]: https://sites.google.com/site/dskanevsky/

@@ -33,5 +33,5 @@ From what I can tell, Lizarraga is now playing professional basketball in Mexico
 
  [1]: http://sports.espn.go.com/los-angeles/ncb/columns/story?id=4970355
  [2]: http://sports.espn.go.com/ncb/columns/story?id=6125964
- [3]: http://seitad.wordpress.com/2013/08/08/my-pre-college-education-as-a-deaf-mainstreamed-student/
- [4]: http://seitad.wordpress.com/2013/04/13/an-inside-view-of-rits-accommodation-policies-and-its-limitations/
+ [3]: http://danieltakeshi.github.io/2013/08/08/my-pre-college-education-as-a-deaf-mainstreamed-student/
+ [4]: http://danieltakeshi.github.io/2013/04/13/an-inside-view-of-rits-accommodation-policies-and-its-limitations/

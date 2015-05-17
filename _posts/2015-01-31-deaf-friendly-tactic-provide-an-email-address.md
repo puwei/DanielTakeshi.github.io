@@ -41,9 +41,9 @@ Furthermore, the set of people who regularly use email form effectively a proper
 
 Conclusion: if you&#8217;re going to provide a phone number for contact, I would strongly urge you to also provide an email address.
 
- [1]: https://seitad.wordpress.com/2012/09/06/how-to-be-more-deaf-friendly-the-search-for-simple-yet-stunningly-effective-strategies/
- [2]: https://seitad.wordpress.com/2012/09/15/why-you-should-always-speak-as-if-youre-in-an-interview/
- [3]: https://seitad.wordpress.com/2012/11/21/deaf-friendly-tactic-the-power-of-two/
+ [1]: https://danieltakeshi.github.io/2012/09/06/how-to-be-more-deaf-friendly-the-search-for-simple-yet-stunningly-effective-strategies/
+ [2]: https://danieltakeshi.github.io/2012/09/15/why-you-should-always-speak-as-if-youre-in-an-interview/
+ [3]: https://danieltakeshi.github.io/2012/11/21/deaf-friendly-tactic-the-power-of-two/
  [4]: http://www.abouttty.com/
  [5]: http://www.fcc.gov/guides/video-relay-services
  [6]: http://support.apple.com/en-us/HT202186

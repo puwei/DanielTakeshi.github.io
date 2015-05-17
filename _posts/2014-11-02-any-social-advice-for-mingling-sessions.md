@@ -63,4 +63,4 @@ days.
 
  [1]: https://seitad.files.wordpress.com/2014/11/awards09-alumni-mingling-in-foyer.jpg
  [2]: http://math.williams.edu/williamssmall-gathering-in-san-diego-in-january/
- [3]: http://seitad.wordpress.com/2012/06/30/accommodations-at-conferences-and-talks/
+ [3]: http://danieltakeshi.github.io/2012/06/30/accommodations-at-conferences-and-talks/

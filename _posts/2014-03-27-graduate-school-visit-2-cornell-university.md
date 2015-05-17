@@ -92,5 +92,4 @@ similar to Williamstown.
 
 Overall, it was another nice visit.
 
- [1]: http://seitad.wordpress.com/2014/02/22/graduate-school-visit-1-the-university-of-texas-at-austin/
- [2]: http://seitad.files.wordpress.com/2014/03/cornell_gatesha.jpg
+ [1]: http://danieltakeshi.github.io/2014/02/22/graduate-school-visit-1-the-university-of-texas-at-austin/

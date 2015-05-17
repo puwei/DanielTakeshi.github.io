@@ -83,7 +83,6 @@ I&#8217;ll come back to this post in a little over a year to see if I predicted 
 hopefully there will be a deaf person who is making a serious run for a political position, but I
 doubt it.
 
- [1]: https://seitad.files.wordpress.com/2015/04/dem-2016-clinton-banner.jpg
  [2]: http://fivethirtyeight.com/datalab/ted-cruz-is-late-to-the-party/
  [3]: http://fivethirtyeight.com/features/rand-paul-is-losing-his-fathers-base/
  [4]: http://fivethirtyeight.com/features/the-hillary-clinton-steamroller-rumbles-to-life/
@@ -93,4 +92,4 @@ doubt it.
  [8]: http://en.wikipedia.org/wiki/Gary_Malkowski
  [9]: http://www.lco-cdo.org/en/gary-malkowski
  [10]: http://www.lifeprint.com/asl101/topics/malkowski-gary.htm
- [11]: https://seitad.wordpress.com/2015/01/11/gallaudet-university-is-searching-for-a-president/
+ [11]: https://danieltakeshi.github.io/2015/01/11/gallaudet-university-is-searching-for-a-president/

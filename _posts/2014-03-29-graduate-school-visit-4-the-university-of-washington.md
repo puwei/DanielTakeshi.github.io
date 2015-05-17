@@ -41,7 +41,7 @@ I also need to decide on which graduate school to attend! That&#8217;s what I&#8
 
  [1]: http://www.silvercloud.com/university/
  [2]: http://seitad.files.wordpress.com/2014/03/washington_paulallen.jpg
- [3]: http://seitad.wordpress.com/2011/08/26/summer-academy/
+ [3]: http://danieltakeshi.github.io/2011/08/26/summer-academy/
  [4]: http://news.cs.washington.edu/2012/09/06/uw-cse-makes-game-changing-hires-in-machine-learning-big-data-computer-vision-and-computer-systems/
  [5]: http://news.cs.washington.edu/2013/08/31/maya-cakmak-shayan-oveis-gharan-matt-reynolds-and-zach-tatlock-join-the-uw-cse-faculty/
  [6]: http://seitad.files.wordpress.com/2014/03/paulallenatrium.jpg

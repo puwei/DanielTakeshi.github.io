@@ -36,5 +36,5 @@ meaning of s5s is explained in the video):
 > 
 > Saying &#8220;We sign ASL&#8221; gives way too much credit/weight to Voice. No. Enough. It&#8217;s time to bring ASL on equal footing with all other voiced languages. You speak ASL. I speak ASL. We don&#8217;t &#8220;do&#8221; ASL. We don&#8217;t &#8220;use&#8221; ASL. We speak ASL. We are ASL speakers. I hope this makes sense to you. If not, let me know. Bye bye.&#8221;
 
- [1]: http://seitad.wordpress.com/2013/06/23/the-deaf-academics-mailing-list/
+ [1]: http://danieltakeshi.github.io/2013/06/23/the-deaf-academics-mailing-list/
  [2]: https://www.youtube.com/watch?v=oo4Kb4oT9Xc

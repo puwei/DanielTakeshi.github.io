@@ -111,7 +111,7 @@ entered CS 281a lectures in a bad mood as a result of CS 288.
 Wow, I&#8217;m happy the class is done. Oh, and I am also officially *done* with all forms of CART.
 
  [1]: https://seitad.files.wordpress.com/2014/12/siri.jpg
- [2]: https://seitad.wordpress.com/2014/12/30/review-of-statistical-learning-theory-cs-281a-at-berkeley/
+ [2]: https://danieltakeshi.github.io/2014/12/30/review-of-statistical-learning-theory-cs-281a-at-berkeley/
  [3]: http://machinelearning.wustl.edu/mlpapers/paper_files/BleiNJ03.pdf
  [4]: https://seitad.files.wordpress.com/2015/01/cs288_slide.png
  [5]: http://www.cs.berkeley.edu/~klein/cs288/fa14/assignment1.pdf
@@ -119,4 +119,4 @@ Wow, I&#8217;m happy the class is done. Oh, and I am also officially *done* with
  [7]: http://www.cs.berkeley.edu/~klein/cs288/fa14/assign_parsing.pdf
  [8]: http://www.cs.berkeley.edu/~klein/cs288/fa14/assign_rerank.pdf
  [9]: http://www.cs.berkeley.edu/~klein/cs288/fa14/assign_align.pdf
- [10]: https://seitad.wordpress.com/2014/10/05/after-a-few-weeks-of-cart-why-do-i-feel-dissatisfied/
+ [10]: https://danieltakeshi.github.io/2014/10/05/after-a-few-weeks-of-cart-why-do-i-feel-dissatisfied/

@@ -26,5 +26,5 @@ Side note: after Googling my own name, I&#8217;m happy to see that Seita&#8217;s
  [1]: http://amturing.acm.org/award_winners/lamport_1205376.cfm
  [2]: http://en.wikipedia.org/wiki/List_of_Turing_Award_laureates_by_university_affiliation
  [3]: http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-science-schools/computer-science-rankings
- [4]: http://seitad.wordpress.com/2014/02/22/graduate-school-visit-1-the-university-of-texas-at-austin/
- [5]: http://seitad.wordpress.com/2011/08/02/hello-world/
+ [4]: http://danieltakeshi.github.io/2014/02/22/graduate-school-visit-1-the-university-of-texas-at-austin/
+ [5]: http://danieltakeshi.github.io/2011/08/02/hello-world/
