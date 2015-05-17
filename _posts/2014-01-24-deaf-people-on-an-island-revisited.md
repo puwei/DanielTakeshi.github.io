@@ -15,7 +15,7 @@ tags:
   - hearing aids
   - language
 ---
-[<img class="aligncenter size-large wp-image-1591" alt="minecraft-island-village" src="http://seitad.files.wordpress.com/2014/01/minecraft-island-village.jpg?w=460" width="460" height="258" />][1]
+<img src="{{site.url}}/assets/minecraft-island-village.jpg" alt="minecraft">
 
 This discussion will be a continuation of my last post, [What if 300 Deaf People were Isolated on an Island][2]? I will focus on the usage of American Sign Language versus English in the hypothetical scenario that a group of deaf people migrate to an island and are allowed to form their own small country.
 
@@ -65,11 +65,11 @@ My blog entry that has the most comments is, by far, [ASL Guidelines][3] with 1
 
 How do the blog posts rate in terms of popularity? That&#8217;s pretty easy to gauge, as WordPress keeps track of views for each entry. Here&#8217;s an image showing the top of the chart:
 
-[<img class="aligncenter size-large wp-image-1600" alt="Stats_Blog_Popular" src="http://seitad.files.wordpress.com/2014/01/stats_blog_popular.png?w=460" width="460" height="246" />][4]
+<img src="{{site.url}}/assets/Stats_Blog_Popular.png" alt="stats">
 
 And the bottom:
 
-[<img class="aligncenter size-large wp-image-1601" alt="Stats_Blog_Unpopular" src="http://seitad.files.wordpress.com/2014/01/stats_blog_unpopular.png?w=460" width="460" height="191" />][5]
+<img src="{{site.url}}/assets/Stats_Blog_Unpopular.png" alt="stats">
 
 So the most popular post is by far [Ten Things Python Programmers Should Know][6], with 404 views. The least popular is [On the Hardness of Nintendo Games][7], with a measly two views.
 
@@ -77,7 +77,7 @@ So the most popular post is by far [Ten Things Python Programmers Should Know][6
 
 Finally, where are my viewers coming from? Since February 2012, it seems like the majority are (by far) from the **United States**. The next country on the list is **India**, followed by the **United Kingdom**.
 
-[<img class="aligncenter size-large wp-image-1604" alt="Stats_Blog_Country" src="http://seitad.files.wordpress.com/2014/01/stats_blog_country.png?w=460" width="460" height="266" />][8]
+<img src="{{site.url}}/assets/Stats_Blog_Country.png" alt="stats">
 
  [1]: http://seitad.files.wordpress.com/2014/01/minecraft-island-village.jpg
  [2]: http://seitad.wordpress.com/2014/01/18/what-if-300-deaf-people-were-isolated-on-an-island/

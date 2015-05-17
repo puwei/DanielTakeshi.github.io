@@ -13,7 +13,7 @@ tags:
   - text editor
   - vim
 ---
-[<img class="aligncenter size-large wp-image-1493" alt="emacs_tutorial" src="http://seitad.files.wordpress.com/2013/12/emacs_tutorial.png?w=460" width="460" height="383" />][1]
+<img src="{{site.url}}/assets/emacs_tutorial.png" alt="emacs">
 
 Programming as part of a large project, such as building a new C++ compiler from scratch, is vastly different compared to a smaller task, like writing a script to answer a random [Project Euler][2] question. Large projects typically involve too many files interacting with each other to work on a single program in isolation (for instance, it can be confusing to know what methods to refer to from another program in a file), so using an advanced [integrated development environment][3] (IDE) like [Eclipse][4] is probably the norm. For smaller tasks, two of the most commonly used text editors by programmers are [emacs][5] and [vim][6].
 

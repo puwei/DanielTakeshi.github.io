@@ -12,9 +12,8 @@ tags:
   - famous problems
   - P vs NP
 ---
-&nbsp;
 
-[<img class="aligncenter size-large wp-image-1770" src="http://seitad.files.wordpress.com/2014/04/pvsnp1.png?w=460" alt="PvsNP" width="460" height="292" />][1]
+<img src="{{site.url}}/assets/PvsNP.png" alt="pvsnp">
 
 For one of my final projects this semester, I&#8217;m working on something that&#8217;s loosely
 based off of the [traveling salesman problem][2] (TSP) and the P vs NP question, the latter of which

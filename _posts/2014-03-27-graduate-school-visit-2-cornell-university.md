@@ -21,7 +21,7 @@ assigned rooms in the Statler Hotel. Not only is this located right in campus, b
 literally just a one-minute walk away from Cornell&#8217;s brand-new computer science building,
 called the Bill & Melinda Gates Hall. (Yes, [sound familiar][1]?)
 
-[<img class="aligncenter size-large wp-image-1683" src="http://seitad.files.wordpress.com/2014/03/cornell_gatesha.jpg?w=460" alt="Cornell_GatesHa" width="460" height="278" />][2]
+<img src="{{site.url}}/assets/Cornell_GatesHa.jpg" alt="berkeley">
 
 <!--more-->
 

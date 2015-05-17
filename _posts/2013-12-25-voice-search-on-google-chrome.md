@@ -12,9 +12,14 @@ tags:
   - Google
   - voice recognition
 ---
-[<img class="aligncenter size-large wp-image-1476" alt="GoogleVoiceRecognition" src="http://seitad.files.wordpress.com/2013/12/googlevoicerecognition.png?w=460" width="460" height="253" />][1]
 
-About a month ago, Google Chrome released [voice search and voice action][2]. The main idea is that we can literally just talk to the computer while browsing Google, and it will respond with (ideally) what you wanted. This feature isn&#8217;t limited to just browsing Google, though. It&#8217;s also possible to tell Google to start an email, or to find information about people in your contacts list.
+<img src="{{site.url}}/assets/GoogleVoiceRecognition.png" alt="googlevoice">
+
+About a month ago, Google Chrome released [voice search and voice action][2]. The main idea is that
+we can literally just talk to the computer while browsing Google, and it will respond with (ideally)
+what you wanted. This feature isn&#8217;t limited to just browsing Google, though. It&#8217;s also
+possible to tell Google to start an email, or to find information about people in your contacts
+list.
 
 To use it, open Google, click on the microphone and wait until Google prompts you to say something. But if one has to click on a microphone, it wouldn&#8217;t make sense to use voice recognition because we can type almost as fast as we can talk. (It seems like this feature is built for mobile users, where typing is typically a lot slower.) So there is now a Google Voice Search Hotword extension, so one can avoid typing at all by saying &#8220;OK Google.&#8221; For details, refer to [their article][3] about the extension. As one can see, it&#8217;s still in beta (at the time of this blog post), so this is all recent technology. In fact, Google suggested that they released this feature so that people cooking for Thanksgiving didn&#8217;t have to wash their hands in order to use Google.
 

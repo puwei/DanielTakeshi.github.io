@@ -11,7 +11,7 @@ tags:
   - graduate school applications
   - UT Austin
 ---
-[<img class="aligncenter size-large wp-image-1644" alt="UT_Austin" src="http://seitad.files.wordpress.com/2014/02/ut_austin.jpg?w=460" width="460" height="345" />][1]
+<img src="{{site.url}}/assets/UT_Austin.jpg" alt="austin">
 
 I  recently finished up a three-day stay in Austin, TX, in order to attend UT Austin&#8217;s computer science visit days (&#8220;GradFest&#8221;) for admitted Ph.D. students. This was my first of what will be four school visits.
 
@@ -23,7 +23,7 @@ I arrived in Austin at around noon on the first day of GradFest and went to my h
 
 Following that, my host took me to his cubicle and provided me with a computer since he knew I was super-busy with work. (I didn&#8217;t actually get any done.) By the way, UT Austin&#8217;s computer science department is housed in a *brand-new* building called [The Bill & Melinda Gates Computer Science Complex and Dell Computer Science Hall][2], pictured below.
 
-[<img class="aligncenter size-large wp-image-1645" alt="utaustin_csbuilding" src="http://seitad.files.wordpress.com/2014/02/utaustin_csbuilding.jpg?w=460" width="460" height="327" />][3]
+<img src="{{site.url}}/assets/utaustin_csbuilding.jpg" alt="austin">
 
 For anyone who&#8217;s worried about collaboration among different subfields of computer science, you *definitely* won&#8217;t have that concern with UT Austin. Previously, different computer science departments were scattered around several buildings. Now, they&#8217;re all together in one, making interaction among different areas *much* easier. Each of the floors is mostly the same, with lounges, computer science labs, offices, and so on. All faculty members have their own offices, with the rest being shared or assigned to postdocs. Ph.D. students are given cubicles in the area corresponding to their computer science subfield, so it&#8217;s very easy to talk to other graduate students. Cubicles are also located near the real offices, which I imagine is great for having quick chats and updates with professors.
 

@@ -14,7 +14,7 @@ tags:
   - Seattle Seahawks
   - Super Bowl
 ---
-[<img class="aligncenter size-full wp-image-1616" alt="Super_Bowl_XLVIII_logo" src="http://seitad.files.wordpress.com/2014/02/super_bowl_xlviii_logo.png" width="329" height="302" />][1]
+<img src="{{site.url}}/assets/Super_Bowl_XLVIII_logo.png" alt="superbowl">
 
 Last night, I participated in a popular American tradition by watching the Super Bowl game. You can read recaps on [The New York Times][2], [ESPN][3], and other sources.
 

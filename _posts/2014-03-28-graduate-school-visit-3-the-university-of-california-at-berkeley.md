@@ -10,7 +10,7 @@ categories:
 tags:
   - Berkeley
 ---
-[<img class="aligncenter size-large wp-image-1694" src="http://seitad.files.wordpress.com/2014/03/berkeley2.jpg?w=460" alt="Berkeley2" width="460" height="345" />][1]
+<img src="{{site.url}}/assets/Berkeley2.jpg" alt="berkeley">
 
 After [visiting Cornell][2], I had a short break at Williams and then traveled to San Francisco to visit the University of California at Berkeley.
 
@@ -38,7 +38,7 @@ After the chair&#8217;s presentation, there were group meetings based on researc
 
 After all that was the campus tour at 4:00 PM. I went inside the [Sather Tower][5] and took the following photo while I was at the top. Another one of my photos is the one that starts this blog post.
 
-[<img class="aligncenter size-large wp-image-1693" src="http://seitad.files.wordpress.com/2014/03/berkeley1.jpg?w=460" alt="Berkeley1" width="460" height="345" />][6]
+<img src="{{site.url}}/assets/Berkeley1.jpg" alt="berkeley">
 
 The day wouldn&#8217;t have been complete without the graduate student panel, which took place right after the tour. It was similar to the ones at Cornell and UT Austin. I was genuinely interested to see what the graduate students would answer to the question of &#8220;What is the worst thing about Berkeley?&#8221; After all, they cannot use the excuses of either the weather being cold (it&#8217;s not) or the school not being the highest ranked (it has the best ranking). The grad students said: getting through the bureaucracy.
 

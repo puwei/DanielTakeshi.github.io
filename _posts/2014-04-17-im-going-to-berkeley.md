@@ -12,7 +12,8 @@ tags:
   - graduate school applications
   - Washington
 ---
-[<img class="aligncenter wp-image-1744 size-large" src="http://seitad.files.wordpress.com/2014/04/berkeleytower.jpg?w=460" alt="OLYMPUS DIGITAL CAMERA" width="460" height="613" />][1]
+
+<img src="{{site.url}}/assets/BerkeleyTower.jpg" alt="berkeley">
 
 This entry is a few days overdue &#8212; my apologies. (Excuse of the day: my thesis is due in a few weeks.) Admitted students had until April 15th to make their graduate school choices, and I made mine on April 13. As you can no doubt tell from the title of this post, I have committed to the University of California, Berkeley. I will start pursuing a Ph.D. in computer science there this fall.
 

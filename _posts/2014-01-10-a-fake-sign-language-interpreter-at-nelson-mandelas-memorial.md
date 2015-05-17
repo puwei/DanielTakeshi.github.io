@@ -13,7 +13,8 @@ tags:
   - sign language
   - South Africa
 ---
-[<img class="aligncenter size-large wp-image-1531" alt="interpreter-popup" src="http://seitad.files.wordpress.com/2014/01/interpreter-popup.jpg?w=460" width="460" height="228" />][1]
+
+<img src="{{site.url}}/assets/interpreter-popup.jpg" alt="mandela">
 
 Last month, [Nelson Mandela][2] passed away. Mr. Mandela, who led the emancipation of South Africa from white minority rule, was one of the most beloved people in his country. Thus, there was no doubt that his memorial would be well-attended by not only people from South Africa, but also some of the world&#8217;s most prominent leaders such as President Barack Obama.
 
