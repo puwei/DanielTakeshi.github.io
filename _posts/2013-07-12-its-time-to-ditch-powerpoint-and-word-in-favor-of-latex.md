@@ -14,7 +14,7 @@ tags:
   - PDF
   - PowerPoint
 ---
-[<img class="aligncenter size-medium wp-image-1172" alt="LaTeX_image" src="http://seitad.files.wordpress.com/2013/07/latex_image.png?w=300" width="300" height="178" />][1]
+<img src="{{site.url}}/assets/LaTeX_image.png" alt="latex">
 
 **The Big Idea**
 
@@ -123,7 +123,7 @@ following image shows the &#8220;cover slide&#8221; of a presentation I gave usi
 my machine learning class last semester, based on this ICML 2012 [paper][8]. And yes, that paper,
 like virtually all computer science papers, was formatted using LaTeX.
 
-[<img class="aligncenter size-medium wp-image-1174" alt="LaTeX_Beamer" src="http://seitad.files.wordpress.com/2013/07/latex_beamer.png?w=300" width="300" height="225" />][9]
+<img src="{{site.url}}/assets/LaTeX_Beamer.png" alt="beamer">
 
 With Beamer, we use ```\begin{frame}``` and ```\end{frame}``` and put text between those two
 commands to get what we want on one &#8220;slide.&#8221; The advantage of using Beamer is that
@@ -157,7 +157,6 @@ typesetting software. For instance, LaTeX is great for writing resumes and curri
 Needless to say, my current resume/CV was formed using LaTeX, and I recently won second place in a
 competitive resume contest.
 
- [1]: http://seitad.files.wordpress.com/2013/07/latex_image.png
  [2]: http://www.latex-project.org/
  [3]: http://www-cs-faculty.stanford.edu/~uno/
  [4]: http://pages.uoregon.edu/koch/texshop/

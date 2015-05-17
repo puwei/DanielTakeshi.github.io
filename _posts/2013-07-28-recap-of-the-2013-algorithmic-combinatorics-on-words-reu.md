@@ -15,7 +15,7 @@ tags:
   - REU
   - summer
 ---
-[<img class="aligncenter size-full wp-image-1333" alt="Hike UNCG" src="http://seitad.files.wordpress.com/2013/06/hike-uncg1.png" width="456" height="200" />][1]
+<img src="{{site.url}}/assets/Hike_UNCG.png" alt="uncg">
 
 Yesterday, I arrived back home after spending the previous eight weeks at the 2013 [Algorithmic
 Combinatorics on Words][2] REU. It was a great experience overall, so I thought I’d share a bit
@@ -164,7 +164,6 @@ above summarizes some of the interesting things about the REU.
 
 Good luck to everyone who went and I wish you all the best.
 
- [1]: http://seitad.files.wordpress.com/2013/06/hike-uncg1.png
  [2]: http://www.uncg.edu/cmp/reu/
  [3]: http://www.amazon.com/Algorithmic-Combinatorics-Discrete-Mathematics-Applications/dp/1420060929
  [4]: http://en.wikipedia.org/wiki/Complex_analysis

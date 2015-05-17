@@ -12,7 +12,7 @@ tags:
   - decision stumps
   - machine learning
 ---
-[<img class="aligncenter size-medium wp-image-1283" alt="Machine_Learning" src="http://seitad.files.wordpress.com/2013/07/machine_learning.jpg?w=300" width="300" height="199" />][1]
+<img src="{{site.url}}/assets/Machine_Learning.jpg" alt="ml">
 
 This summer, I&#8217;ve spent a good amount of time analyzing the content of my blog. By looking at
 the composition of my computer science entries, I realized that I don&#8217;t talk about the subject
@@ -182,7 +182,6 @@ fields.
 In the next post, I&#8217;ll discuss an obvious extension of this problem to *decision trees*, which
 are not restricted to classifying after just one decision.
 
- [1]: http://seitad.files.wordpress.com/2013/07/machine_learning.jpg
  [2]: http://seitad.wordpress.com/detailed-directory-of-blog-entries/
  [3]: http://en.wikipedia.org/wiki/Precision_and_recall
  [4]: http://en.wikipedia.org/wiki/Overfitting

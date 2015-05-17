@@ -130,7 +130,7 @@ memory or be time-intensive.
 Below, I&#8217;ve included a screenshot of me performing some commands on my Macbook Pro&#8217;s
 Terminal, using the 3.3 Python shell. (Click to enlarge.)
 
-[<img class="aligncenter size-medium wp-image-1114" alt="Python_Terminal" src="http://seitad.files.wordpress.com/2013/07/python_terminal1.png?w=300" width="300" height="120" />][10]
+<img src="{{site.url}}/assets/Python_Terminal.png" alt="python">
 
 This set of commands sets up an empty list (```list1```) and adds to it all the *even* integers in
 the range [2, 16).
@@ -663,7 +663,6 @@ Have fun programming in Python!
  [7]: http://www.uncg.edu/cmp/reu/index.html
  [8]: Nevertheless, after digesting the changes, you’ll find that Python really hasn’t changed all that much – by and large, we’re mostly fixing well-known annoyances and warts, and removing a lot of old cruft.
  [9]: http://www.cygwin.com/
- [10]: http://seitad.files.wordpress.com/2013/07/python_terminal1.png
  [11]: http://docs.python.org/3.3/library/os.html
  [12]: http://docs.python.org/3.3/library/sys
  [13]: http://en.wikipedia.org/wiki/K-means_clustering
