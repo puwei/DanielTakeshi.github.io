@@ -21,7 +21,12 @@ Summers are nice because they offer me a break from an intense academic environm
 
 There&#8217;s a lot of information available that we can use for diet advice. For instance, the United States Department of Agriculture has their famous (or infamous, as I&#8217;ll get to shortly) 1992 food pyramid:
 
-[<img class="aligncenter size-large wp-image-1895" src="http://seitad.files.wordpress.com/2014/07/usda_food_pyramid.gif?w=460" alt="USDA_Food_Pyramid" width="460" height="358" />][1]Let&#8217;s suppose we use this as a guide to optimal health, which seems reasonable because it&#8217;s from a United States government organization. (It shouldn&#8217;t be, because that pyramid has already been scrapped in favor of new dietary guidelines, but it&#8217;s good to discuss it to see the historical perspective on food.)
+<img src="{{site.url}}/assets/USDA_Food_Pyramid.png" alt="food_pyramid">
+
+Let&#8217;s suppose we use this as a guide to optimal health, which seems reasonable because
+it&#8217;s from a United States government organization. (It shouldn&#8217;t be, because that
+pyramid has already been scrapped in favor of new dietary guidelines, but it&#8217;s good to discuss
+it to see the historical perspective on food.)
 
 Unfortunately, even without consulting outside sources, I can already see several problems:
 

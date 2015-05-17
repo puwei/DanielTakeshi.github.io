@@ -10,7 +10,8 @@ categories:
 tags:
   - graduate students
 ---
-[<img class="aligncenter size-large wp-image-1969" src="http://seitad.files.wordpress.com/2014/08/soda_hall.jpg?w=460" alt="soda_hall" width="460" height="365" />][1]
+
+<img src="{{site.url}}/assets/soda_hall.jpg" alt="soda">
 
 My life has been busy in the past few weeks as I&#8217;ve gotten adjusted to life in Berkeley. Part
 of this process has been going through orientation. I sat through a new EECS graduate student

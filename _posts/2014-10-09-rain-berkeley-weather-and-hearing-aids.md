@@ -14,7 +14,8 @@ tags:
   - water resistance
   - weather
 ---
-[<img class="aligncenter size-large wp-image-2022" src="https://seitad.files.wordpress.com/2014/10/berkeley_weather.png?w=460" alt="Berkeley_Weather" width="460" height="520" />][1]
+
+<img src="{{site.url}}/assets/Berkeley_Weather.png" alt="berkeley_weather">
 
 I&#8217;m sure that most long-time hearing aid users such as myself have gone through this scenario: you&#8217;re outside, wearing your hearing aids, and the weather (sunny, 75 degrees) is great. Perhaps you&#8217;re taking a walk around your neighborhood, or you and a friend are having lunch outside. But then all of a sudden, the weather takes a nasty turn and it&#8217;s pouring rain. Since you don&#8217;t have an umbrella or a rain jacket, you scramble to find shelter. While you are doing so, you also wonder if you should take off your hearing aids, as they are (sadly) not waterproof. You consider a few important questions. Is it raining hard enough? Can you reach shelter quickly? Is it safe to take off your hearing aids?
 

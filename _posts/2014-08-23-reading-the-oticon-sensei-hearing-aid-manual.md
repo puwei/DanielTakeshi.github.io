@@ -14,7 +14,6 @@ tags:
   - reading
   - Sensei
 ---
-[<img class="alignright size-full wp-image-1956" src="http://seitad.files.wordpress.com/2014/08/oticon_sensei.jpg" alt="oticon_sensei" width="200" height="325" />][1]
 
 I&#8217;m 22 years old and have been wearing hearing aids for most of my life. 
 But for some reason, I&#8217;ve never read a hearing aid instructions manual. [Now that I live in

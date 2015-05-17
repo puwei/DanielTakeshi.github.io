@@ -14,7 +14,8 @@ tags:
   - MOOC
   - video
 ---
-[<img class="aligncenter wp-image-1924 size-large" src="http://seitad.files.wordpress.com/2014/07/machine_learning_coursera.png?w=460" alt="machine_learning_coursera" width="460" height="308" />][1]
+
+<img src="{{site.url}}/assets/machine_learning_coursera.png" alt="andrewng_coursera">
 
 If you&#8217;re interested in taking a free online course, consider [Coursera][2]. It takes seconds to make an account and filter through the 700 or so classes currently in the database to find what interests you. Classes are generally affiliated with a university, and professors are often the ones lecturing in the videos online. In addition to video lectures, there are homework assignments and exams, which are submitted electronically, as well as user discussion forums where the students can discuss class concepts.
 

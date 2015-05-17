@@ -15,7 +15,7 @@ tags:
   - silence
   - workforce
 ---
-<img class="aligncenter size-large wp-image-1943" src="http://seitad.files.wordpress.com/2014/08/no-hearing-3.jpg?w=460" alt="no-hearing-3" width="460" height="314" />
+<img src="{{site.url}}/assets/no-hearing-3.jpg" alt="nohearing">
 
 Tomorrow, I will finish up a software engineering internship. I usually work at home, and lately I&#8217;ve been getting out of bed, wolfing down breakfast (berries, broccoli, and eggs), and conducting my morning coding session, all without putting on my hearing aids. Sometimes, I don&#8217;t touch them until the afternoon.
 

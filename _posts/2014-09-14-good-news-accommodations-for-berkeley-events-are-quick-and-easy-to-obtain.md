@@ -16,7 +16,7 @@ tags:
   - Disability Access Services
   - event
 ---
-[<img class="aligncenter size-large wp-image-1985" src="http://seitad.files.wordpress.com/2014/09/berkeley_access.png?w=460" alt="berkeley_access" width="460" height="283" />][1]
+<img src="{{site.url}}/assets/berkeley_access.png" alt="access">
 
 I&#8217;ve only been a Berkeley student for about three weeks, but I&#8217;m already appreciating how quick and easy it has been to get accommodations for various events. To do so, one just needs to go to the [Disability Access Services website][2], fill out a two-page online form, and submit. I&#8217;ve filed about half a dozen requests already, an indication of how many meetings I&#8217;ll need to be attending to during my time in Berkeley. (Though I&#8217;m probably better off than the tenured professors here in that regard.)
 

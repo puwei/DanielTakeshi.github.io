@@ -16,7 +16,8 @@ tags:
   - lecture
   - statistics
 ---
-[<img class="aligncenter size-large wp-image-1995" src="http://seitad.files.wordpress.com/2014/09/captioning.jpg?w=460" alt="captioning" width="460" height="127" />][1]
+
+<img src="{{site.url}}/assets/captioning.jpg" alt="captioning">
 
 As I said in a [recent post][2], I&#8217;ve been using a mixture of captioning (also known as
 [CART][3]) and interpreting services for various Berkeley-related events. For my two classes, I

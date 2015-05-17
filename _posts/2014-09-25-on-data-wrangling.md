@@ -13,7 +13,8 @@ tags:
   - data wrangling
   - machine learning
 ---
-[<img class="aligncenter size-large wp-image-2001" src="http://seitad.files.wordpress.com/2014/09/data_science.png?w=460" alt="data_science" width="460" height="292" />][1]
+
+<img src="{{site.url}}/assets/data_science.jpg" alt="data_science">
 
 Last month, the New York Times [published an interesting article][2] that connected with my
 experience working as a computer scientist. The idea is that there&#8217;s so much data out there

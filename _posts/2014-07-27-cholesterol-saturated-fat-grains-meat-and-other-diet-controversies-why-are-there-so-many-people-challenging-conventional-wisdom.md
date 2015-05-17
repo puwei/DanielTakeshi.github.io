@@ -18,7 +18,6 @@ tags:
   - sugar
   - The China Study
 ---
-[<img class="alignright wp-image-1902 size-medium" src="https://seitad.files.wordpress.com/2014/07/good-calories.jpg?w=195" alt="" width="195" height="300" />][1]
 
 As I mentioned in my [recent post introducing Mark&#8217;s Daily Apple][2], I have become more
 interested in understanding diet, nutrition, and health. Sadly, this doesn&#8217;t come without
@@ -325,8 +324,6 @@ universities were *recommending sugar*, and that it was a *safe alternative to f
 the 1980s. But [Dr. John Yudkin][51] disagreed, and published *Pure, White, and Deadly: How Sugar is
 Killing us, and what we can do to Stop it*. So perhaps sugar and some forms of fat (trans,
 saturated?) are bad for us, but sugar is a *stronger risk*?
-
-<img class="alignright wp-image-1884 size-medium" src="http://seitad.files.wordpress.com/2014/07/pure-white-and-deadly.jpg?w=193" alt="Pure-White-and-Deadly" width="193" height="300" />
 
 According to a [2014 article on *The Telegraph*][52], Ancel Keys and the sugar industry ruthlessly
 attacked Dr. Yudkin, hindering his credibility. But as the past few decades has witnessed, Dr.

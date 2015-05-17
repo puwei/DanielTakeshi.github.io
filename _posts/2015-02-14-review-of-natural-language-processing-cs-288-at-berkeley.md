@@ -42,7 +42,7 @@ CS 288 was a typical lecture class, and the grading was based exclusively on fiv
 projects. They were not exactly easy. Look at the following slide that Dan put up on the first day
 of class:
 
-<img src="{{site.url}}/assets/CS288_Slide" alt="cs288">
+<img src="{{site.url}}/assets/CS288_Slide.png" alt="cs288">
 
 I come into every upper-level computer science expecting to be worked to oblivion, so this slide
 didn&#8217;t intimidate me, but seeing that text there gave me an initial extra &#8220;edge&#8221;
