@@ -12,17 +12,35 @@ tags:
 
 > Daniel, how much do your hearing aids help you hear?
 
-<a href="http://seitad.wordpress.com/2012/07/30/hearing-aids-how-they-help-and-how-they-fall-short-in-group-situations/starkeyhearingaids/" rel="attachment wp-att-379"><img class="alignright size-thumbnail wp-image-379" title="StarkeyHearingAids" alt="" src="http://seitad.files.wordpress.com/2012/07/starkeyhearingaids.jpg?w=150" width="150" height="150" /></a> I&#8217;m surprised I don&#8217;t get asked this question often by my classmates, colleagues, professors, and others. Perhaps it&#8217;s because my speaking ability causes hearing people to believe that I can hear as well as them. Or maybe they believe that hearing aids can *cure* hearing loss?
+<a href="http://seitad.wordpress.com/2012/07/30/hearing-aids-how-they-help-and-how-they-fall-short-in-group-situations/starkeyhearingaids/" rel="attachment wp-att-379"><img class="alignright size-thumbnail wp-image-379" title="StarkeyHearingAids" alt="" src="http://seitad.files.wordpress.com/2012/07/starkeyhearingaids.jpg?w=150" width="150" height="150" /></a>
 
-Unfortunately, that&#8217;s not what they do. They *amplify* sound, and allows me to *be aware of its existence*. If someone&#8217;s talking, then I *know* that the person is talking, regardless of whether I&#8217;m looking at him or her. The difficulty for me, and for other people who wear hearing aids, is understanding the fine details.
+I&#8217;m surprised I don&#8217;t get asked this question often by my classmates, colleagues,
+professors, and others. Perhaps it&#8217;s because my speaking ability causes hearing people to
+believe that I can hear as well as them. Or maybe they believe that hearing aids can *cure* hearing
+loss?
+
+Unfortunately, that&#8217;s not what they do. They *amplify* sound, and allows me to *be aware of
+its existence*. If someone&#8217;s talking, then I *know* that the person is talking, regardless of
+whether I&#8217;m looking at him or her. The difficulty for me, and for other people who wear
+hearing aids, is understanding the fine details.
 
 <!--more-->
 
-Here&#8217;s an analogy. Suppose you&#8217;re on your computer and are looking at a tiny image that&#8217;s 50&#215;50 pixels in size. From what you can see, it&#8217;s interestingly complex and alluring. It&#8217;s bright and colorful. There are wondrous curves that weave together and form some figure you can&#8217;t make out. You want to better understand what the image conveys, so you do the logical thing and try to resize it by pasting it into Photoshop and then dragging its edges to fit your entire monitor. (I&#8217;m assuming you&#8217;re a little naive &#8212; no offense intended.)
+Here&#8217;s an analogy. Suppose you&#8217;re on your computer and are looking at a tiny image
+that&#8217;s 50&#215;50 pixels in size. From what you can see, it&#8217;s interestingly complex and
+alluring. It&#8217;s bright and colorful. There are wondrous curves that weave together and form
+some figure you can&#8217;t make out. You want to better understand what the image conveys, so you
+do the logical thing and try to resize it by pasting it into Photoshop and then dragging its edges
+to fit your entire monitor. (I&#8217;m assuming you&#8217;re a little naive &#8212; no offense
+intended.)
 
 But there&#8217;s a problem.
 
-When you do that, the image doesn&#8217;t become clearer. Your computer has to invent new pixels that coincide with the original pixels. As a result, the &#8220;large&#8221; image is a badly distorted version of the smaller one, and you still can&#8217;t fully understand what the image means. But perhaps it *does* convey more information than the really small image did, so despite its flaws, you stick with this method of understanding tiny pictures.
+When you do that, the image doesn&#8217;t become clearer. Your computer has to invent new pixels
+that coincide with the original pixels. As a result, the &#8220;large&#8221; image is a badly
+distorted version of the smaller one, and you still can&#8217;t fully understand what the image
+means. But perhaps it *does* convey more information than the really small image did, so despite its
+flaws, you stick with this method of understanding tiny pictures.
 
 As I mentioned earlier, hearing aids let me understand sound that I would otherwise be unable to understand with the naked ear. A *lot* of sounds. In fact, I can hear no sounds with an intensity of 90 decibels or lower with my natural hearing; it&#8217;s the epitome of being &#8220;totally deaf.&#8221; For me to hear and understand a person talking in a normal tone without my hearing aids, my ears must be *inches* away from his or her mouth. Obviously, that&#8217;s not happening during most of my conversations, so I wear hearing aids almost all the time when I&#8217;m not sleeping.
 
@@ -32,7 +50,12 @@ I want to discuss a challenge that occurs often in my life, which is socializing
 
 In the company of just one student, I can easily start and maintain a satisfying conversation. I still have to ask my companion to repeat every fifth or sixth sentence he says, but at least I get the general direction of what we&#8217;re talking about.
 
-<a href="http://seitad.wordpress.com/2012/07/30/hearing-aids-how-they-help-and-how-they-fall-short-in-group-situations/bardsciencecenter/" rel="attachment wp-att-386"><img class="alignleft size-medium wp-image-386" title="BardScienceCenter" alt="" src="http://seitad.files.wordpress.com/2012/07/bardsciencecenter.jpg?w=200" width="200" height="300" /></a>But things get *exponentially worse* with three, four, and more people. And this is where the hearing aid&#8217;s lack of ability to make sound distinctive hurts me. What typically happens is the other people get involved in a conversation that I can&#8217;t follow. There are multiple factors that hinder my hearing in this kind of situation.
+<a href="http://seitad.wordpress.com/2012/07/30/hearing-aids-how-they-help-and-how-they-fall-short-in-group-situations/bardsciencecenter/" rel="attachment wp-att-386"><img class="alignleft size-medium wp-image-386" title="BardScienceCenter" alt="" src="http://seitad.files.wordpress.com/2012/07/bardsciencecenter.jpg?w=200" width="200" height="300" /></a>
+
+But things get *exponentially worse* with three, four, and more people. And this is where the
+hearing aid&#8217;s lack of ability to make sound distinctive hurts me. What typically happens is
+the other people get involved in a conversation that I can&#8217;t follow. There are multiple
+factors that hinder my hearing in this kind of situation.
 
 The first is what I explained before, with the hearing aid&#8217;s difficulty in clarifying amplified sound. Incidentally, I won&#8217;t go into depth on technical reasons, since there are a whole host of articles that such as [this one][2] that talk about hair cells. A second one is that in a group conversation, people often don&#8217;t look directly at me when talking, thus rendering my lip-reading skills useless. (Lip-reading can account for about 25 percent of my comprehension.) Moreover, my hearing aids are designed to best amplify sound when it&#8217;s coming directly at me, towards my eyes, which isn&#8217;t always the case. It&#8217;s even less common if all of us are *moving* (i.e. walking), which adds another roadblock to my comprehension.
 

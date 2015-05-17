@@ -43,8 +43,8 @@ It&#8217;s not &#8220;what you see is what you get&#8221; (WYSIWYG), which for s
 understandably a major drawback. Nonetheless, LaTeX has become so popular and is standard knowledge
 among serious mathematicians and scientists, so in hindsight, Knuth&#8217;s creation was an enormous
 success. In fact, WordPress even allows LaTeX directly into its posts, such as the following
-(random) integral: $latex int\_0^infty (x^5 - 3x) dx$, which was generated with the following
-text: ```\int_0^infty (x^5 - 3x) dx```, surrounded by appropriate *tags*, which are usually dollar
+(random) integral: $$\int_0^\infty (x^5 - 3x) dx$$, which was generated with the following
+text: ```\int_0^\infty (x^5 - 3x) dx```, surrounded by appropriate *tags*, which are usually dollar
 signs.
 
 **Rationale**

@@ -47,7 +47,7 @@ they are self-imposed. What matters is being efficient and not using the &#8220;
 in the world&#8221; excuse when you&#8217;re taking unnecessary breaks.
 
 I particularly wonder about work habits in academia. What happens to those professors who tend to
-leave work early* as compared to those who stay up past their students pulling all-nighters?
+leave work early[^work] as compared to those who stay up past their students pulling all-nighters?
 I&#8217;d be interesting in collecting data and seeing if those who spend more time in their offices
 may actually be doing themselves a disservice. But the problem is that times can be wildly
 unpredictable. A professor could leave work at 5:00 PM one day, leave at 3:30 AM the next, and not
@@ -66,6 +66,6 @@ blogging, of course).
 The lazy days between the end of my sophomore year and the start of my research internship are past
 me. It&#8217;s time to set laziness aside and &#8230; focus!
 
-(*) By early, I arbitrarily mean before 6:00 PM.
+[^work]: By early, I arbitrarily mean before 6:00 PM.
 
  [1]: http://mashable.com/2012/04/05/sheryl-sandberg-leaves-work-at-530/ "..."
