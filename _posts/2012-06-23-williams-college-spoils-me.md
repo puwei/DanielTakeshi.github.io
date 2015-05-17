@@ -16,5 +16,5 @@ They were outstanding, and I&#8217;m wishing the same quality of services existe
 
 So for all RID-certified interpreters out there, thank you for taking the extra step to ensure that you are delivering high quality interpreting services. I can only hope that my own signing will be up to your standards one day.
 
- [1]: http://seitad.wordpress.com/2012/06/03/summer-at-bard/
+ [1]: http://danieltakeshi.github.io/2012/06/03/summer-at-bard/
  [2]: http://www.rid.org/
