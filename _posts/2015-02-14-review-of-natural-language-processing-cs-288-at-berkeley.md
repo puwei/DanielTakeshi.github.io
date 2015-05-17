@@ -15,7 +15,8 @@ tags:
   - natural language processing
   - programming projects
 ---
-[<img class="aligncenter size-large wp-image-2167" src="https://seitad.files.wordpress.com/2014/12/siri.jpg?w=460" alt="siri" width="460" height="283" />][1]
+
+<img src="{{site.url}}/assets/siri.jpg" alt="siri">
 
 This is the much-delayed review of the other class I took last semester. [I wrote a little bit about
 Statistical Learning Theory a few <del>weeks</del> months ago][2], and now, I&#8217;ll discuss
@@ -41,7 +42,7 @@ CS 288 was a typical lecture class, and the grading was based exclusively on fiv
 projects. They were not exactly easy. Look at the following slide that Dan put up on the first day
 of class:
 
-[<img class="alignnone size-large wp-image-2264 aligncenter" src="https://seitad.files.wordpress.com/2015/01/cs288_slide.png?w=460" alt="CS288_Slide" width="460" height="345" />][4]
+<img src="{{site.url}}/assets/cs288_slide.png" alt="cs288">
 
 I come into every upper-level computer science expecting to be worked to oblivion, so this slide
 didn&#8217;t intimidate me, but seeing that text there gave me an initial extra &#8220;edge&#8221;

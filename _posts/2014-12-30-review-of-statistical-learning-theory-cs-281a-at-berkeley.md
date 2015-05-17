@@ -12,7 +12,8 @@ tags:
   - statistical learning theory
   - statistics
 ---
-[<img class="aligncenter size-large wp-image-2155" src="https://seitad.files.wordpress.com/2014/12/statistical_learning_theory.png?w=460" alt="statistical_learning_theory" width="460" height="345" />][1]
+
+<img src="{{site.url}}/assets/statistical_learning_theory.png" alt="slt">
 
 Now that I&#8217;ve finished my first semester at Berkeley, I think it&#8217;s time for me to review
 how I felt about the two classes I took: Statistical Learning Theory (CS 281a) and Natural Language

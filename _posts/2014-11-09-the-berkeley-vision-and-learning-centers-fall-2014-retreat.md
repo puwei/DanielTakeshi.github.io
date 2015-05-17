@@ -16,7 +16,8 @@ tags:
   - poster session
   - Red Bull Stratos
 ---
-[<img class="aligncenter size-large wp-image-2061" src="https://seitad.files.wordpress.com/2014/11/berkeley_faculty_club.jpg?w=460" alt="berkeley_faculty_club" width="460" height="242" />][1]
+
+<img src="{{site.url}}/assets/berkeley_faculty_club.jpg" alt="bvlc">
 
 On November 5, I attended part of the Fall 2014 Retreat for the [Berkeley Vision and Learning
 Center][2] (BVLC). The BVLC is a new group of faculty, students, and industry partners in EECS that

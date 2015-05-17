@@ -15,7 +15,7 @@ tags:
   - U.S. President
 ---
 
-[<img class="aligncenter size-full wp-image-2366" src="https://seitad.files.wordpress.com/2015/04/dem-2016-clinton-banner.jpg" alt="Hillary Rodham Clinton" width="640" height="163" />][1]
+<img src="{{site.url}}/assets/dem-2016-clinton-banner.jpg" alt="clinton">
 
 It&#8217;s time to gear up for the 2016 United States Presidential election race! [Ted Cruz][2],
 [Rand Paul][3], [Hillary Clinton][4], and [Marco Rubio][5] &#8212; in that order &#8212; have all

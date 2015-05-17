@@ -51,11 +51,11 @@ for unknown coefficients $$ a_{11},a_{12},a_{21},a_{22} $$.
 Here's a graphical version, [from a well-known ICA paper][1]. The following image shows two
 (unrealistic) wavelength diagrams of two people's voices:
 
-[<img class="aligncenter size-large wp-image-2195" src="https://seitad.files.wordpress.com/2015/01/ica1.png?w=460" alt="ica1" width="460" height="186" />][2]
+<img src="{{site.url}}/assets/ica1.png" alt="ica1">
 
 The data that is observed from the two microphones is in the following image:
 
-[<img class="aligncenter size-large wp-image-2196" src="https://seitad.files.wordpress.com/2015/01/ica2.png?w=460" alt="ica2" width="460" height="191" />][3]
+<img src="{{site.url}}/assets/ica2.png" alt="ica2">
 
 The goal is to recover the original people's wavelengths (i.e., the two graphs in the first of
 the two images I posted) when we are only given the observed data (i.e., the two graphs from the
@@ -128,7 +128,7 @@ Unfortunately, we don't know the density of the individual sources, so we approx
 "good" density and make them equal to each other. We can do this by taking the derivative of the
 sigmoid function:
 
-[<img class="aligncenter size-large wp-image-2209" src="https://seitad.files.wordpress.com/2015/01/logistic-curve.png?w=460" alt="Logistic-curve" width="460" height="307" />][4]
+<img src="{{site.url}}/assets/logistic-curve.png" alt="sigmoid">
 
 The reason why this works is that the sigmoid function satisfies the properties of a *cumulative
 distribution function*, and by differentiating such a function, we get a *probability density

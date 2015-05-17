@@ -13,7 +13,8 @@ tags:
   - recitation
   - university
 ---
-[<img class="aligncenter size-large wp-image-2145" src="https://seitad.files.wordpress.com/2014/12/williams_auditorium.jpg?w=460" alt="williams_auditorium" width="460" height="368" />][1]
+
+<img src="{{site.url}}/assets/williams_auditorium.jpg" alt="williams">
 
 At Williams, the largest mathematics or computer science course I took had probably 55 students. The
 normal size was 20 to 35 students. This meant I had many opportunities to talk to the professors

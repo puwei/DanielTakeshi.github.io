@@ -14,7 +14,8 @@ tags:
   - Oticon
   - water resistance
 ---
-[<img class="aligncenter size-large wp-image-2329" src="https://seitad.files.wordpress.com/2015/03/aquaris-wave.gif?w=460" alt="aquaris-wave" width="460" height="426" />][1]
+
+<img src="{{site.url}}/assets/aquaris-wave.gif" alt="hearingaid">
 
 Today, I played basketball for the first time since I arrived in Berkeley. It was a lot of fun, and
 I was at Berkeley&#8217;s Rec Sports Facility for 1.5 hours. Unfortunately, I also received a
