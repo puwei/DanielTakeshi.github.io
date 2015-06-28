@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thoughts on the Same Sex Marriage Ruling"
+title:  "The Same Sex Marriage Ruling, and a Paradox"
 date:   2015-06-27 23:00:00
 permalink: thoughts-on-the-same-sex-marriage-ruling
 ---
