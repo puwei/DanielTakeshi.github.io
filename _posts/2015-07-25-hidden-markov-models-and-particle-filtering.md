@@ -94,7 +94,7 @@ them. To do this efficiently, we use a dynamic programming algorithm called the 
 algorithm**, which folds together the paths that could have generated the observations.
 
 I find it easiest to think of this computation just by looking at a trellis, like the one in the
-following image from Jurafsky's book:
+following image from Jurafsky's book[^illegal]:
 
 <img src="{{site.url}}/assets/forward_trellis.png" alt="forward_trellis">
 
@@ -285,5 +285,9 @@ on this because couldn't we just perform the computations in log space?
 [^forwardback]: In the EM chapter, Russell says that his forward-backward algorithm can be slightly
     *modified* for the EM case.
 
+[^illegal]: I know it says the words "DRAFT" there, because I copied these images from an online
+    version of the book. However, I *did* buy a hard copy of the book, so I think it is fine for me
+    to do this (i.e., not illegal). If I did not have that online version, I would have taken a
+    picture of the book with a cell phone, but then the figure would not have been perfectly flat.
 
 
