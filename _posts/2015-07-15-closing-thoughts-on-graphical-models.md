@@ -52,7 +52,7 @@ determine whether such a statement is true (and therefore should be listed in th
 independences) we delete the nodes of $$X_C$$ and check whether a path still exists from $$X_A$$ to
 $$X_B$$.
 
-The undirected case is a little more complicated, but more intellectual. We run something called the
+The directed case is a little more complicated, but more intellectual. We run something called the
 **Bayes Ball** algorithm. To explain this, we first consider three canonical graphs: a chain $$A
 \rightarrow B \rightarrow C$$, a wedge $$A \leftarrow B \rightarrow C$$, and (the most interesting
 case) a v-node $$A \rightarrow B \leftarrow C$$. The rules are as follows:
