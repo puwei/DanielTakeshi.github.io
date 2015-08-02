@@ -42,7 +42,7 @@ $$V^*(s) = \max_a \sum_{s'} P(s,a,s') [R(s,a,s') + \gamma V^*(s')]$$
 Both of these equation sets can be called the **Bellman Equations**, which characterize the optimal
 values (but we will generally need some other way of computing them, as we show shortly). In
 general, I will utilize the second formulation, but the formulations are not fundamentally
-different[^notdifferent].
+different.
 
 It is also common to define a new quantity called a *Q-value* with respect to state-action pairs:
 
@@ -333,11 +333,7 @@ I found four interesting questions related to MDPs and reinforcement learning.
   factors. A higher discount factor means we need to be more certain that we have bandits before we
   commit to making air shipments.
 
-TODO figure out the correlation between R(s) and R(s,a,s)?
-
 ***
-
-[^notdifferent]: TODO  need to figure this one out, actually
 
 [^confused]: Here is where I get confused. Why are we having Berkeley's AI class use a different
     formulation than what R & N are using? I mean, Stuart Russell *is a faculty member here*, so why
