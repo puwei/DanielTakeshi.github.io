@@ -114,7 +114,7 @@ maximizing the log likelihood with $$\theta$$ is the same as minimizing the leas
 function, and all we assumed are IID sampling and Gaussian errors. Thus, we can avoid most of our
 geometric, constraint satisfaction approaches in favor of just computing the data log likelihood,
 since they evidently get the same results. This is assuming we stay in the maximum likelihood
-framework, by the way; the least-squarest cost function can lead to a frequentist "estimator",
+framework, by the way; the least-squares cost function can lead to a frequentist "estimator",
 *regardless* of whether or not the data errors are Gaussian, and then that estimator and the MLE
 would not coincide. But here, they do.
 
@@ -126,7 +126,8 @@ $$\theta^Tx_n$$, but we will instead use the logistic function:
 $$h_\theta(x) = \frac{1}{1 + e^{-\theta^Tx_n}}$$
 
 I hope to discuss logistic regression in more detail in a future blog post. Note that this is suited
-for binary problems, but we can do 1-vs-all for general classification.
+for binary problems, but we can do 1-vs-all for general classification. (EDIT: No, we would use the
+softmax function.)
 
 Finally, [here is another source about the LMS
 algorithm](http://cs229.stanford.edu/notes/cs229-notes1.pdf), courtesy of Andrew Ng. A lot of his
