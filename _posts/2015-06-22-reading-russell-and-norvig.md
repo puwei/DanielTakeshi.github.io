@@ -731,15 +731,15 @@ sense. But here are the highlights regardless:
   design an agent! One way is to describe an *upper ontology* of the world by listing some general
   things first, and then moving to more specific items down the tree (this is what we do in object
   oriented programming).
-- We need to represent the following: categories, objects, and events. We can do represent
-  categories by using straightforward predicates (e.g., the category of basketballs could be
-  $$Basketball(b)$$) or by **reification**[^reify], a.k.a. *thingification*, which means
-  representing it as an object $$Basketballs$$. To *reason* about categories, we can use the
-  graphically appealing **semantic network** framework, or appeal to formalism with **description
-  logic**[^exceptions]. Objects should be arranged in a hierarchy of categories with subclassing and
-  inheritance, kind of like (again) how we do it in object-oriented programming. For events, rather
-  than the *situational calculus* we saw earlier, we should use **event calculus** to deal with
-  continuity.  Event calculus reifies fluents and events.
+- We need to represent the following: categories, objects, and events. We can represent categories
+  by using straightforward predicates (e.g., the category of basketballs could be $$Basketball(b)$$)
+  or by **reification**[^reify], a.k.a. *thingification*, which means representing it as an object
+  $$Basketballs$$. To *reason* about categories, we can use the graphically appealing **semantic
+  network** framework, or appeal to formalism with **description logic**[^exceptions]. Objects
+  should be arranged in a hierarchy of categories with subclassing and inheritance, kind of like
+  (again) how we do it in object-oriented programming. For events, rather than the *situational
+  calculus* we saw earlier, we should use **event calculus** to deal with continuity.  Event
+  calculus reifies fluents and events.
 - Sometimes, we may wish to represent mental beliefs by **model logic** rather than first-order
   logic, because the former lets us take *sentences* as arguments, and allows us to represent a set
   of *possible worlds* of beliefs. The notation $$K_AP$$ means that agent $$A$$ knows $$P$$.
