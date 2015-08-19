@@ -43,7 +43,7 @@ $$\begin{align}
 J(\theta) &= \frac{1}{2}\sum_{n=1}^N \epsilon_n^2\\
 &= \frac{1}{2} \sum_{n=1}^N (y_n - \theta^Tx_n)^2 \\
 &= \frac{1}{2} (y - X\theta)^T(y - X\theta)\\
-&= \frac{1}{2} \|y - \theta^TX\|_2^2
+&= \frac{1}{2} \|y - X\theta\|_2^2
 \end{align}$$
 
 If someone asks you about what LMS (which we will discuss shortly) is supposed to optimize, it is
