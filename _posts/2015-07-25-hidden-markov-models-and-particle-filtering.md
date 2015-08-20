@@ -206,7 +206,7 @@ Thus, we need to use approximate inference methods. In a [previous
 post](http://danieltakeshi.github.io/closing-thoughts-on-graphical-models/), I discussed likelihood
 weighting, which is a sampling algorithm that we can adapt for the HMM setting. We do, however, have
 to ensure that we do not unroll the entire HMM, and we have to make sure our weights are not being
-driven to zero
+driven to zero.
 
 Likelihood weighting (just like rejection sampling) suffers as the number of evidence variables
 increases, because the weight of each sample is based on the product of all the $$P(E_i = e_i \mid

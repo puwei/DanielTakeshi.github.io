@@ -56,8 +56,8 @@ algorithm for solving the normal equations*.
 
 ## The LMS Algorithm
 
-The gradient of the cost function over all the data (i.e., the "batch" case, not the "online" case)
-leads to the update rule:
+The gradient of the cost function[^grad] over all the data (i.e., the "batch" case, not the "online"
+case) leads to the update rule:
 
 $$\theta^{(t+1)} = \theta^{(t)} + \rho \underbrace{\sum_{n=1}^N(y_n - (\theta^{(t)})^T x_n)x_n}_{\nabla J(\theta)}$$ 
 
@@ -118,20 +118,35 @@ framework, by the way; the least-squares cost function can lead to a frequentist
 *regardless* of whether or not the data errors are Gaussian, and then that estimator and the MLE
 would not coincide. But here, they do.
 
-It's interesting to consider the question as to whether we can use LMS for classification. As it is,
-it's not a good fit for the classification case, but if we wanted to, we could adapt it into
-*logistic regression*. Then what this means is our hypothesis will *still* involve some form of
-$$\theta^Tx_n$$, but we will instead use the logistic function:
+It's interesting to consider the question as to whether we can use LMS as discussed here for
+classification. As it is, it's not a good fit for the classification case, but if we wanted to, we
+could adapt it into *logistic regression*. Then what this means is our hypothesis will *still*
+involve some form of $$\theta^Tx_n$$, but we will instead use the logistic function:
 
 $$h_\theta(x) = \frac{1}{1 + e^{-\theta^Tx_n}}$$
 
-I hope to discuss logistic regression in more detail in a future blog post. Note that this is suited
-for binary problems, but we can do 1-vs-all for general classification. (EDIT: No, we would use the
-softmax function.)
+And the LMS would look like:
 
-Finally, [here is another source about the LMS
-algorithm](http://cs229.stanford.edu/notes/cs229-notes1.pdf), courtesy of Andrew Ng. A lot of his
-notes really make things clear!
+$$\theta \leftarrow \theta + \rho \left( y_i - \frac{1}{1+e^{-\theta^Tx_i}} \right) x_i$$
+
+How do we derive this? Take the gradient of the log likelihood of the data *under our logistic
+regression assumption*, and pick the $$i$$th element.
+
+It's important to realize what we've done here. We have a similar algorithm as before, except here
+the conditional expectation of $$y_i$$ given $$x_i$$ is not measured by $$\theta^Tx_i$$ but rather
+by the logistic regression. Also, we've assumed a logistic function *from the outset*, and are
+trying to fit this to data. This is known as the *discriminative* form of learning. Alternatively,
+we could have a *generative* classifier, which would involve computing class conditionals $$P(x\mid
+y)$$ and categorical $$P(y)$$. But in those cases, we don't need iterative algorithms because we can
+get maximum likelihood estimates easily.
+
+For the multi-class case, use the softmax function. Also, this still converges to something "linear"
+in the sense that this kind of classifier partitions the space into pieces, and this "partitioning"
+process is done with hyperplane surfaces, which are linear.
+
+I hope to discuss logistic regression in more detail in a future blog post. While I (and you?) wait,
+[here is another source about the LMS algorithm](http://cs229.stanford.edu/notes/cs229-notes1.pdf),
+courtesy of Andrew Ng. A lot of his notes really make things clear!
 
 ***
 
@@ -165,4 +180,10 @@ notes really make things clear!
 [^dotprod]: Recall that $$\|a\| \|b\| \cos \theta = a \cdot b$$. It took me a surprisingly long time
     to verify that the projection actually worked, so it might be worth it to go through the math
     and trigonometry involved, if necessary.
+
+[^grad]: A word of caution on the gradient: get $$\nabla_\theta J(\theta)$$ by using the formulation
+    of $$J(\theta) = \sum_{i=1}^N(y_i - \theta^Tx_i)^2$$, *not* the matrix formulation, because in
+    the latter it's a little harder to see how we actually get the form of the update.
+
+
 
