@@ -7,8 +7,8 @@ permalink: miscellaneous-prelim-review-part-2
 
 This will probably be my last prelim review post. The topics I'll cover in this post are convex
 optimization, statistical learning theory (broadly), and logic/planning.  Actually, I wanted to
-write about Kalman filtering, but I think I've done more than enough here, and there are too many
-equations involved to write that quickly.
+make some detailed notes about Kalman filtering, but I think I've done more than enough here, and
+there are too many equations involved to write that quickly.
 
 ## Convex Optimization
 
@@ -27,8 +27,8 @@ keep reminding myself of this.
 In most cases, we need to use *iterative* algorithms to find $$x^*$$. The class of algorithms we use
 are known as *descent* algorithms because they generate points $$\{x^1,x^2,\ldots \}$$ such that
 $$f(x^k) > f(x^{k+1})$$ unless we are at the optimum. Actually, a little side-note: there *is*
-exactly one optimal $$x^*$$ because we are actually assuming that $$f$$ is *strictly* convex, not
-just convex (and strict convexity is not the same as strong convexity!). By strong convexity, we
+exactly one optimal $$x^*$$ because we are actually assuming that $$f$$ is *strongly* convex, not
+just convex (and strong convexity is not the same as strict convexity!). By strong convexity, we
 assume that there is a constant $$m > 0$$ such that $$\nabla^2 f(x) \ge mI$$, which means $$\nabla^2
 f(x) - mI$$ is positive semidefinite.
 
@@ -50,7 +50,9 @@ backtracking search. For some reason, it took me a really long time to understan
 search, but after looking at that figure in Boyd's book for ages, I understand what it does now. We
 have to keep decrementing $$t$$ until our function $$f(x + t (\Delta x))$$ lies below a given upper
 bound. Backtracking line search is important because it's more efficient and in practice, it often
-works just as well (or better!) than exact line search.
+works just as well (or better!) than exact line search. To explain it, remember that figure with the
+three curves in it: one is $$f$$ and two are straight curves which follow from the FOC of $$f$$ at
+$$y=x+\Delta x$$.
 
 But the real difference in the various gradient algorithms comes when we pick $$\Delta x$$. There
 are three options:
@@ -59,8 +61,13 @@ are three options:
   increase* of $$f$$ at $$x$$ (by definition) so why on earth would we not use the negative of
   that? This is *gradient descent*. 
 - Use the direction that maximizes the negative gradient in the direction determined by a
-  pre-specified norm. TODO I didn't quite describe this clearly. This is *steepest descent*, and
-  equals gradient descent when we are using the $$\ell_2$$ norm.
+  pre-specified norm. Precisely, our first-order approximation of $$x$$ at $$x-v$$ is $$f(x+v)
+  \approx f(x) + \nabla f(x)^Tv$$, and we want to find $$\arg_v \min \{\nabla f(x)^Tv : \|v\| \le
+  1\}$$; in other words, we want to make the directional derivative as negative as possible. We need
+  to restrict $$\|v\|$$ because if not we could first pick a direction that makes it negative when
+  multiplied by the gradient, and then make it arbitrarily large.  Also notice that we are *not*
+  specifying the exact norm. This is *steepest descent*, and equals gradient descent when $$\|v\|$$
+  is the $$\ell_2$$ norm.
 - use $$-(\nabla^2 f(x))^{-1}\nabla f(x)$$, i.e., the negative of the *inverse* of the Hessian,
   multiplied by the gradient. Whew! This comes from the second order approximation of $$f(x + \Delta
   x)$$ -- just take the gradient with respect to $$x$$, then solve. This is *Newton's Method*. TODO
@@ -68,37 +75,66 @@ are three options:
 
 Gradient descent is simple, and works perfectly (i.e., converges in one step) when the data are
 "isotropic," that is to say, roughly "equal in all directions." It's bad when the condition number
-of the Hessian or the sublevel sets is high. The classic example is the ellipsoid "bowl" where we
-have a 3-D bowl that is much wider in one direction than the other. Gradient descent with exact line
-search will always "overshoot" the optimal location and keeps going back and forth, zig-zagging to
-the center.
+of the Hessian or the sublevel sets is high (e.g., in the 1000s). The classic example is the
+ellipsoid "bowl" where we have a 3-D bowl that is much wider in one direction than the other.
+Gradient descent with exact line search will always "overshoot" the optimal location and keeps going
+back and forth, zig-zagging to the center. The stopping criterion for gradient descent is if
+$$\|\nabla f(x)\|_2 \le \eta$$ for some pre-specified $$\eta$$.
 
 Steepest descent is a generalization of gradient descent in that we get the option of picking the
-norm that we want to use as a metric of our "gradient" here.
+norm that we want to use as a metric of our "gradient" here. A quick warning: there are actually two
+versions of $$\Delta x$$. I tend to assume we are using the *normalized* version $$\Delta x_{\rm
+nsd}$$, where the $$v$$ we pick has norm bounded by one.  There's also the *un-normalized* version
+$$\Delta x_{\rm sd} = \|\nabla f(x)\|_{*} \Delta x_{\rm nsd}$$ but I don't understand how this
+actually works.
 
-TODO more things about norms, e.g, quadratic norm, and if we use l-1, it's coordinate ascent,
-modifying one coordinate at a time.
+Steepest descent can work with the $$\ell_1$$, $$\ell_2$$, and quadratic norms. In the $$\ell_1$$,
+it is equivalent to coordinate descent (modifying one coordinate of $$x$$ at a time), and the way to
+think about this is that we are taking the maximum component (in absolute value) of $$\nabla f(x)$$
+and setting our $$v$$ to be zero everywhere except for $$\pm 1$$ at that "largest component." The
+derivation for $$\Delta x_{\rm nsd}$$ in the quadratic norm is more complicated (for the
+un-normalized, it's just $$-P^{-1}\nabla f(x)$$), but visualizing it is easier: we have a point
+$$x$$, draw an ellipse around it (determined by the norm), and then pick the direction that results
+in the greatest decrease. More intuition: extend as far as possible in the direction of $$-\nabla
+f(x)$$, while *staying* inside that unit ball. It's also worth noting that we can transform
+coordinates from the quadratic norm's matrix $$P$$ to get gradient descent. In fact, this gives a
+useful test for a norm: how well steepest descent performs will depend on how well the transformed
+points $$P^{1/2}x$$ have "equal" isocontours suited for gradient descent.
 
 Newton's method is a step up from gradient descent in that we use a *second-order* approximation of
 $$f$$. The way I think of it is that gradient descent will produce a plane in 3-D (e.g., for a 3-D
 "bowl" that we're trying to reach the minimum of) but Newton's method will produce *another* bowl,
 though this bowl will usually be entirely above of the original one, save for the tangent point.
 
+The book mentions three "perspectives" on Newton's method:
+
+- Minimization of the second-order approximation of $$f$$, which is how I see it.
+- Steepest descent in the Hessian norm: it's like the quadratic norm described earlier, but the
+  Hessian is a *really* good "$$P$$" matrix to use since its condition number approximates the
+  condition number of the sublevel sets!
+- Solution of linearized optimality condition. I did not understand this at first, but actually,
+  think of Newton's method for approximating roots of a function $$f$$, where we need to subtract
+  $$f/f'$$. In our case, we want to find the minimizer of $$f$$, which means we want the *roots* of
+  the *derivative* $$f'$$, which involves $$f'/f''$$. That's exactly what we have here!
+
 More facts about Newton's method:
 
-- If the original bowl was already quadratic, Newton's method converges in one step.
+- If the original function is already quadratic, Newton's method converges in one step.
+- It is independent of affine coordinate transformations. When we do iterates with $$x^{(k)}$$
+  versus $$Tx^{(k)}$$, the relationship between the points will remain the same.
+- It uses something called the *Newton decrement* $$\lambda(x) \approx f(x) - f(x^\star)$$ to
+  determine when to stop.
+- There is a *damped* phase versus a *pure* phase. In the former, the difference in $$f$$ when we
+  change $$x$$ decreases by a *fixed* quantity (this is good!). In the latter, the backtracking line
+  search always picks $$t=1$$ and the number of accurate digits *doubles*. Thus, there is no need
+  to run that second phase more than, say, four times.
+- Newton's method still works with badly-conditioned sublevel sets of $$f$$.
 - The *downside* of Newton's method compared to gradient or steepest descent is that (1) we have to
   compute the Hessian, and (2) we have to store it -- remember that the Hessian will be $$n \times
   n$$, whereas the *gradient* will only be $$n \times 1$$.
-- Affine invariant, transformation of coordinates
-- Damped phase versus pure phase (I think?), after the damped phase, the number of accurate digits
-  *doubles*.
 
 The usual disclaimers apply in that we don't really know various constants that get involved in the
-proof, unfortunately.
-
-TODO Read through ALL FORTY pages and fill in any missing gaps above. Don't get too heavy on math.
-
+proofs, unfortunately.
 
 ## Statistical Concepts and Logistic Regression
 
@@ -257,9 +293,41 @@ But anyway, there are a few important facts worth discussing about the multivari
 In addition to knowing that the marginals and the conditionals are Gaussian, the sum of independent
 Gaussians is Gaussians.
 
-TODO mixture models, and give an example of an EM derivation?
+We can extend the mixture model discussion from last section into the multivariate Gaussian setting,
+where the hidden variables indicate the particular multivariate Gaussian distribution of interest.
+Here, we have $$p(x\mid \theta) = \sum_i \pi_i \mathcal{N}(x\mid \mu_i, \Sigma_i)$$, and assuming
+IID points, we want to find the $$\pi$$, $$\mu$$, and $$\Sigma$$ parameters to maximize the log
+likelihood. This requires Expectation-Maximization, which involves computing the probability that a
+particular distribution generated point $$x$$, which is of obvious interest for classification.
+(Admittedly this case works best in the binary setting where the conditional expectation is the same
+as the conditional probability of being one.) One can also think of K-Means as a simplified version
+of EM. We use EM rather than maximum likelihood because our "log" term has a sum inside it, which is
+due to the probabilities of the point being in multiple possible classes. In the previous section
+(on classification), we *had* the class so we effectively take only one term in that summation, in
+which MLE follows easily.
 
-TODO Kalman filtering
+One thing I didn't quite realize earlier was that in the EM for Gaussians, we can take the log
+likelihood, differentiate it with respect to $$\pi_i$$ (or $$\mu_i$$ or $$\Sigma_i$$) and we end up
+finding solutions that match the EM algorithm, which is interesting and implies that our "heuristic"
+update formulas may not be so bad because they indicate maxima of the log likelihood. Of course, one
+can also derive the update formulas "systematically" by appealing to the expected complete log
+likelihood, where we take expectations with respect to the hidden variables. (See my [previous
+post](http://danieltakeshi.github.io/expectation-maximization/) for more information about this
+quantity.)
+
+The E-step in general involves computing the expected complete log likelihood, and the M-step in
+general involves maximizing the expected complete log likelihood with respect to $$\theta$$. The
+full power of this terminology is not needed in the simple Gaussian example, but it is a useful
+exercise to ensure that we derive the same update formulas we developed "heuristically." In general,
+the expected complete log likelihood does not suffer from the "coupling" of variables as the
+*original* log likelihood.
+
+Finally, we consider the "mixture of experts" case, which is when we have a mixture model for the
+purposes of regression or classification. Mike Jordan's notes appear to be missing some figures, so
+it's a little hard to see what he's trying to do, but I think the first figure represents a
+"V"-shaped set of data, and we need to fit two different regressions on that. The key is figuring
+out where to split, which is our "EM-like" task. In the mixture of experts, the M-step involves two
+different maximization steps.
 
 
 ## Logic and Planning
