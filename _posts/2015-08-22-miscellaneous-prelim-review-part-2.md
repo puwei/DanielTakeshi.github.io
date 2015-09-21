@@ -70,8 +70,7 @@ are three options:
   is the $$\ell_2$$ norm.
 - use $$-(\nabla^2 f(x))^{-1}\nabla f(x)$$, i.e., the negative of the *inverse* of the Hessian,
   multiplied by the gradient. Whew! This comes from the second order approximation of $$f(x + \Delta
-  x)$$ -- just take the gradient with respect to $$x$$, then solve. This is *Newton's Method*. TODO
-  confirm this computation?
+  x)$$ -- just take the gradient with respect to $$x$$, then solve. This is *Newton's Method*.
 
 Gradient descent is simple, and works perfectly (i.e., converges in one step) when the data are
 "isotropic," that is to say, roughly "equal in all directions." It's bad when the condition number
