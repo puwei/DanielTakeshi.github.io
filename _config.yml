@@ -5,8 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is my blog, where I have written over 175 articles on a variety of topics, most of which are
   about one of two major themes. The first is computer science, which is my area of speciality as a
   Ph.D. student at UC Berkeley. The second can be broadly categorized as "deafness," which relates
-  to my experience and knowledge of being deaf. Note that this blog migrated from Wordpress to
-  Jekyll in May 2015, so if you see any dead links or formatting problems, please contact me.
+  to my experience and knowledge of being deaf.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://danieltakeshi.github.io" # yourdomain.com # the base hostname & protocol for your site
 twitter_username: (Never!)
