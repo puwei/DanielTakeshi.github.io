@@ -16,7 +16,7 @@ algebra and problem solving. If a student lacks one or both of these skills, he 
 serious trouble. For a linear algebra concept, consider this problem: $$\max_{\{x : \|x\|_2=1\}}
 x^TAx$$ for symmetric $$A$$. We encountered this at the start of the semester and would see it *over
 and over again*.  The professor, [Laurent El Ghaoui][4], said: "If you didn't immediately know that
-the answer to this was the maximum eigenvector of $$A$$, or $$\lambda_{\max}(A)$$, then run away to
+the answer to this was the maximum eigenvalue of $$A$$, or $$\lambda_{\max}(A)$$, then run away to
 EE 227A. This is all linear algebra." I *did* know that, in fact, but the class material was
 nonetheless very difficult for me to understand.
 
