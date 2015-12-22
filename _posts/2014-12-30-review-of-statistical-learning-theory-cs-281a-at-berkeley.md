@@ -1,5 +1,5 @@
 ---
-title: Review of Statistical Learning Theory (CS 281a) at Berkeley
+title: Review of Statistical Learning Theory (CS 281A) at Berkeley
 author: Daniel Seita
 layout: post
 permalink: /2014/12/30/review-of-statistical-learning-theory-cs-281a-at-berkeley/
@@ -16,7 +16,7 @@ tags:
 <img src="{{site.url}}/assets/statistical_learning_theory.png" alt="slt">
 
 Now that I&#8217;ve finished my first semester at Berkeley, I think it&#8217;s time for me to review
-how I felt about the two classes I took: Statistical Learning Theory (CS 281a) and Natural Language
+how I felt about the two classes I took: Statistical Learning Theory (CS 281A) and Natural Language
 Processing (CS 288). In this post, I&#8217;ll discuss CS 281a, a class that I&#8217;m extremely
 happy I took even if it was a bit stressful to be in lecture (more on that later).
 
@@ -38,7 +38,7 @@ electrical engineering building). I would have thought that since the popular Pr
 Jordan taught it last spring, that would have pulled away some of the students in this year&#8217;s
 cycle, but I guess not.
 
-In past years, I think CS 281a focused almost exclusively on graphical models. My class seemed
+In past years, I think CS 281A focused almost exclusively on graphical models. My class seemed
 different: I had Professor Ben Recht, who was teaching it for the first time, and he changed the
 material so that we only discussed graphical models for about four lectures, giving us time to go
 over detection theory, hypothesis testing, and other fields. He told me personally that he dislikes
@@ -58,7 +58,7 @@ gave me a chance to discuss some of the homework problems &#8220;virtually.&#822
 few in-person collaborations, CS 281a gave me a collaboration experience that I never had at
 Williams in my math courses. Having Piazza would have made some of those classes much easier!
 
-Back to CS 281a: somewhat unexpectedly, we had a midterm! It was a 25.5-hour take-home midterm, open
+Back to CS 281A: somewhat unexpectedly, we had a midterm! It was a 25.5-hour take-home midterm, open
 note, and open internet (!). At first, I was disappointed about having to take a midterm because I
 think I have proven my ability to understand concepts and describe them under timed exam
 constraints, but I ended up enjoying the test and benefited from it. I didn&#8217;t check, but
