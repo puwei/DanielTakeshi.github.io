@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "If you are Deaf and Know Sign Language, but are not using Video Relay Services, you are Missing Out"
+title: "Give Video Relay Services a Try"
 date:   2015-06-06 21:30:00
-permalink: 2015-06-06-if-you-are-deaf-and-know-sign-language-but-are-not-using-video-relay-services-you-are-missing-out
+permalink: 2015-06-06-give-video-relay-services-a-try
 ---
 
 [Video Relay Services](https://www.fcc.gov/guides/video-relay-services) is a federally-subsidized
@@ -59,6 +59,3 @@ contact
 information](http://danieltakeshi.github.io/2015/01/31/deaf-friendly-tactic-provide-an-email-address/).
 But for someone with my background, Video Relay Services takes care of a lot of my needs, and I am
 thankful for that.
-
-
-
