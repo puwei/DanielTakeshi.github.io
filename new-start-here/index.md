@@ -9,9 +9,7 @@ geo_public:
   - 0
 ---
 
-I will list some of my recommended posts on this page. Due to (as of May 14, 2015) the migration
-of this blog from Wordpress to Jekyll, I will need to fix up some of the links here and modify some
-old entries. Once I've done that, I'll update this page with some of my favorite or best entries.
+[In progress] I'm going to list some of my favorite blog posts here. Someday.
 
 In the meantime, here's a little bit of information that I put in a sidebar, that will do for now:
 
@@ -20,5 +18,5 @@ about one of two major themes. The first is computer science, which is my area o
 Ph.D. student at UC Berkeley. The second can be broadly categorized as "deafness," which relates to
 my experience and knowledge of being deaf.*
 
-If you find this website useful, please do let me know about it (and also encourage me to fix up
-this page!).
+If you find this website useful, please do let me know about it, and also encourage me to fix up
+this page.
