@@ -3,6 +3,19 @@ layout: page
 title: Archive
 ---
 
+<script>
+  (function() {
+    var cx = '012587250564323129862:w5iqfetffay';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
 ## Blog Posts
 
 {% for post in site.posts %}
