@@ -70,7 +70,7 @@ web browser (for me, it's Firefox). I then click *New -> Python 2* to start the 
 plot, I can start by importing the library: ```import matplotlib.pyplot as plt```, but then ---
 crucially --- I use the ```%matplotlib inline``` command.  The reason for using that is so that when
 I write code to plot, and then execute it with a simple SHIFT-ENTER, the image will appear *directly
-under that code cell*. Here's a simple example (click to enlarge):
+under that code cell*. Here's a simple example:
 
 <img src="{{site.url}}/assets/jupyter_1.png" alt="Jupyter_Image_1">
 
