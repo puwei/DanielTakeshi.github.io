@@ -3,6 +3,8 @@ layout: page
 title: Archive
 ---
 
+Find an article within this site using search terms: 
+
 <script>
   (function() {
     var cx = '012587250564323129862:w5iqfetffay';
@@ -16,7 +18,7 @@ title: Archive
 </script>
 <gcse:search></gcse:search>
 
-## Blog Posts
+## All Blog Posts
 
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
