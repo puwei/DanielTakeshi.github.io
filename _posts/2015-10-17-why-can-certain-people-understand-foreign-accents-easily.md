@@ -2,7 +2,7 @@
 layout: post
 title:  "Why Can Certain People Understand Foreign Accents Easily?"
 date:   2015-10-17 19:00:00
-permalink: why-can-certain-people-understand-foreign-accents-easily
+permalink: why-can-certain-people-understand-foreign-accents-easily/
 ---
 
 Lately, I've observed an interesting phenomenon when my sign language interpreters have a tough time

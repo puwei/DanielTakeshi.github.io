@@ -2,7 +2,7 @@
 layout: post
 title:  "Notes on Exact Inference in Graphical Models"
 date:   2015-07-12 18:00:00
-permalink: notes-on-exact-inference-in-graphical-models
+permalink: 2015-07-12-notes-on-exact-inference-in-graphical-models/
 ---
 
 In an effort to help me understand certain topics better for my prelim exam next month, I thought

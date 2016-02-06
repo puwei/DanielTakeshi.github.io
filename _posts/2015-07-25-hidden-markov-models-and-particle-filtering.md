@@ -2,7 +2,7 @@
 layout: post
 title:  "Hidden Markov Models and Particle Filtering"
 date:   2015-07-25 23:00:00
-permalink: hidden-markov-models-and-particle-filtering
+permalink: 2015-07-25-hidden-markov-models-and-particle-filtering/
 ---
 
 In this post, we will continue our discussion of graphical models by going over a special kind known

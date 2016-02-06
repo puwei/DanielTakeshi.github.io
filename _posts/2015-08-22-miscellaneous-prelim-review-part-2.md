@@ -2,7 +2,7 @@
 layout: post
 title:  "Miscellaneous Prelim Review (Part 2)"
 date:   2015-08-22 23:00:00
-permalink: miscellaneous-prelim-review-part-2
+permalink: 2015-08-22-miscellaneous-prelim-review-part-2/
 ---
 
 This will probably be my last prelim review post. The topics I'll cover in this post are convex

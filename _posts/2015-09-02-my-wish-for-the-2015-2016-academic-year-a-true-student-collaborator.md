@@ -2,7 +2,7 @@
 layout: post
 title:  "My Wish for the 2015-2016 Academic Year: A True Student Collaborator"
 date:   2015-09-02 23:00:00
-permalink: my-wish-for-the-2015-2016-academic-year-a-true-student-collaborator
+permalink: 2015-09-02-my-wish-for-the-2015-2016-academic-year-a-true-student-collaborator/
 ---
 
 After a year into my doctorate program at Berkeley, I know that my experience has been suboptimal in

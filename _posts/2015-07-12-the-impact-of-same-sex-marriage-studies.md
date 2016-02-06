@@ -2,7 +2,7 @@
 layout: post
 title:  "The Impact of Same Sex Marriage Studies"
 date:   2015-07-12 14:20:00
-permalink: the-impact-of-same-sex-marriage-studies
+permalink: 2015-07-12-the-impact-of-same-sex-marriage-studies/
 ---
 
 In a continuation of [my post regarding the same sex marriage

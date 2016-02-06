@@ -2,7 +2,7 @@
 layout: post
 title:  "Markov Decision Processes and Reinforcement Learning"
 date:   2015-08-02 13:00:00
-permalink: markov-decision-processes-and-reinforcement-learning.md
+permalink: 2015-08-02-markov-decision-processes-and-reinforcement-learning/
 ---
 
 In this post, we'll review Markov Decision Processes and Reinforcement Learning. This material is

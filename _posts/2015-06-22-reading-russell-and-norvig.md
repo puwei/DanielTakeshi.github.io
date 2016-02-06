@@ -2,7 +2,7 @@
 layout: post
 title:  "Reading Russell and Norvig"
 date:   2015-06-22 16:00:00
-permalink: reading-russell-and-norvig
+permalink: 2015-06-22-reading-russell-and-norvig/
 ---
 
 I had [previously

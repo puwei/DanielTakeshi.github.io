@@ -2,7 +2,7 @@
 layout: post
 title:  "Finished the Wordpress-to-Jekyll Migration"
 date:   2015-05-22 17:20:00
-permalink: 2015/05/22/finished-moving-to-jekyll.html
+permalink: 2015/05/22/finished-moving-to-jekyll/
 ---
 
 In my [last post][1], I talked about the process of migrating my Wordpress.com blog into this Jekyll

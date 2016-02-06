@@ -2,7 +2,7 @@
 layout: post
 title:  "Review of Computer Vision (CS 280) at Berkeley"
 date:   2015-05-31 22:00:00
-permalink: 2015-05-31-review-computer-vision-berkeley
+permalink: 2015-05-31-review-computer-vision-berkeley/
 ---
 
 Last semester, I took Berkeley's graduate-level computer vision class (CS 280) as part of my course

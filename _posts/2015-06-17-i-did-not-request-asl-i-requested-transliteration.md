@@ -2,7 +2,7 @@
 layout: post
 title:  "I Did Not Request ASL. I Requested Transliteration."
 date:   2015-06-17 22:50:00
-permalink: i-did-not-request-asl-i-requested-transliteration
+permalink: 2015-06-17-i-did-not-request-asl-i-requested-transliteration/
 ---
 
 Before the start of the spring 2015 semester, I had a meeting with Randy Jordan, who works in

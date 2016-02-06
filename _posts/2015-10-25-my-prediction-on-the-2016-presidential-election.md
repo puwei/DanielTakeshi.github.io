@@ -2,7 +2,7 @@
 layout: post
 title:  "My Prediction on the 2016 Presidential Election"
 date:   2015-10-25 12:00:00
-permalink: my-prediction-on-the-2016-presidential-election
+permalink: 2015-10-25-my-prediction-on-the-2016-presidential-election/
 ---
 
 When I [briefly wrote about the 2016 US presidential

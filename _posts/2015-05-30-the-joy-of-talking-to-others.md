@@ -2,7 +2,7 @@
 layout: post
 title:  "The Joy of Talking To Others"
 date:   2015-05-30 21:00:00
-permalink: 2015-05-30-the-joy-of-talking-to-others.html
+permalink: 2015-05-30-the-joy-of-talking-to-others/
 ---
 
 I had a vision of what I wanted to be like before I entered graduate school. Some things have worked

@@ -2,7 +2,7 @@
 layout: post
 title:  "Closing Thoughts on Graphical Models"
 date:   2015-07-15 12:00:00
-permalink: closing-thoughts-on-graphical-models
+permalink: 2015-07-15-closing-thoughts-on-graphical-models/
 ---
 
 ## The Basics

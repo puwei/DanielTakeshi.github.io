@@ -2,7 +2,7 @@
 layout: post
 title:  "Miscellaneous Prelim Review (Part 1)"
 date:   2015-08-18 12:0:00
-permalink: miscellaneous-prelim-review-part-1
+permalink: 2015-08-18-miscellaneous-prelim-review-part-1/
 ---
 
 Here is a random assortment of notes I created to wrap up some of the remaining material I need to

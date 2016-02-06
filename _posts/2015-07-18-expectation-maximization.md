@@ -2,7 +2,7 @@
 layout: post
 title:  "Expectation-Maximization"
 date:   2015-07-18 23:00:00
-permalink: expectation-maximization
+permalink: 2015-07-18-expectation-maximization/
 ---
 
 All right, [I lied in the title of my last

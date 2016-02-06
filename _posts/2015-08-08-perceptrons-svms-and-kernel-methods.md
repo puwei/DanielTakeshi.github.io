@@ -2,7 +2,7 @@
 layout: post
 title:  "Perceptrons, SVMs, and Kernel Methods"
 date:   2015-08-08 12:00:00
-permalink: perceptrons-svms-and-kernel-methods.md
+permalink: 2015-08-08-perceptrons-svms-and-kernel-methods.md/
 ---
 
 In this post, we'll discuss the perceptron and the support vector machine (SVM) classifiers, which

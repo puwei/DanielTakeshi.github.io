@@ -2,7 +2,7 @@
 layout: post
 title:  "Advocate For Yourself"
 date:   2015-06-20 22:50:00
-permalink: advocate-for-yourself
+permalink: 2015-06-20-advocate-for-yourself/
 ---
 
 > Advocate For Yourself

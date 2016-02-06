@@ -2,7 +2,7 @@
 layout: post
 title:  "An Unbelievably Pleasant Social Gathering"
 date:   2015-09-19 23:59:00
-permalink: an-unbelievably-pleasant-social-situation
+permalink: an-unbelievably-pleasant-social-situation/
 ---
 
 A few weeks ago, there was a Berkeley AI social event. My natural reaction upon finding out about

@@ -2,7 +2,7 @@
 layout: post
 title:  "Stanford's Linear Algebra Review"
 date:   2015-07-26 23:00:00
-permalink: stanfords-linear-algebra-review
+permalink: 2015-07-26-stanfords-linear-algebra-review/
 ---
 
 I'll take a break from the recent discussion on graphical models to go over some old linear algebra

@@ -2,7 +2,7 @@
 layout: post
 title:  "The Least Mean Squares Algorithm"
 date:   2015-07-29 21:00:00
-permalink: the-least-mean-squares-algorithm
+permalink: 2015-07-29-the-least-mean-squares-algorithm/
 ---
 
 

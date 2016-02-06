@@ -2,7 +2,7 @@
 layout: post
 title:  "Suggestions on Improving Access Services Requests"
 date:   2015-10-9 23:59:00
-permalink: suggestions-on-improving-access-services-requests
+permalink: 2015-10-9-suggestions-on-improving-access-services-requests/
 ---
 
 It's nice that Berkeley has an [access services

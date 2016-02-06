@@ -2,7 +2,7 @@
 layout: post
 title:  "Seita's Place has Migrated from Wordpress to Jekyll!"
 date:   2015-05-14 15:16:49
-permalink: 2015/05/14/moved-to-jekyll.html
+permalink: 2015/05/14/moved-to-jekyll/
 ---
 
 # A New Era

@@ -2,7 +2,7 @@
 layout: post
 title:  "My Prelims"
 date:   2015-09-01 23:00:00
-permalink: my-prelims
+permalink: 2015-09-01-my-prelims/
 ---
 
 *Note: I wrote the following "transcript" of my exam from memory, so it should not be taken as

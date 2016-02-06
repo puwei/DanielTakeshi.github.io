@@ -2,7 +2,7 @@
 layout: post
 title:  "Thoughts on Isolation: How Often do Students Work Together on Homework?"
 date:   2015-11-21 23:59:00
-permalink: 2015-11-21-thoughts-on-isolation-how-often-do-students-work-together-on-homework
+permalink: 2015-11-21-thoughts-on-isolation-how-often-do-students-work-together-on-homework/
 ---
 
 Well, I finally did it. I submitted my last homework assignment for this semester, the fifth one for

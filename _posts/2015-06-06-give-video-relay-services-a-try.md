@@ -2,7 +2,7 @@
 layout: post
 title: "Give Video Relay Services a Try"
 date:   2015-06-06 21:30:00
-permalink: 2015-06-06-give-video-relay-services-a-try
+permalink: 2015-06-06-give-video-relay-services-a-try/
 ---
 
 [Video Relay Services](https://www.fcc.gov/guides/video-relay-services) is a federally-subsidized

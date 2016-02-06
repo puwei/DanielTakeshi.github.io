@@ -2,7 +2,7 @@
 layout: post
 title:  "The Benefits of Having the Same Group of Interpreters"
 date:   2015-10-31 11:00:00
-permalink: 2015-10-31-the-benefits-of-having-the-same-group-of-interpreters
+permalink: 2015-10-31-the-benefits-of-having-the-same-group-of-interpreters/
 ---
 
 
