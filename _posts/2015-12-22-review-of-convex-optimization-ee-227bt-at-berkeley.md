@@ -2,7 +2,7 @@
 layout: post
 title:  "Review of Convex Optimization (EE 227BT) at Berkeley"
 date:   2015-12-22 23:59:00
-permalink: 2015-12-22-review-of-convex-optimization-ee-227bt-at-berkeley
+permalink: 2015-12-22-review-of-convex-optimization-ee-227bt-at-berkeley/
 ---
 
 The third class I took this semester was Convex Optimization (EE 227BT), which was also my first

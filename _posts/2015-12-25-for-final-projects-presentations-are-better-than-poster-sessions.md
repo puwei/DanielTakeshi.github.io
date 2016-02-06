@@ -2,7 +2,7 @@
 layout: post
 title:  "For Final Projects, Class Presentations are Better than Poster Sessions"
 date:   2015-12-25 23:59:00
-permalink: 2015-12-25-for-final-projects-class-presentations-are-better-than-poster-sessions
+permalink: 2015-12-25-for-final-projects-class-presentations-are-better-than-poster-sessions/
 ---
 
 In computer science graduate-level courses at Berkeley, it is typical to have final projects instead

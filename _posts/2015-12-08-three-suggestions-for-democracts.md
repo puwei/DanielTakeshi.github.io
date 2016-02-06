@@ -2,7 +2,7 @@
 layout: post
 title:  "Three Suggestions for Democrats"
 date:   2015-12-08 23:59:00
-permalink: 2015-12-08-three-suggestions-for-democracts
+permalink: 2015-12-08-three-suggestions-for-democracts/
 ---
 
 As I have followed politics with increasing interest and fervor over the last few years, I'm

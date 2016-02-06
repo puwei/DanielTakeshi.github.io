@@ -2,7 +2,7 @@
 layout: post
 title:  "My Three Favorite Books I Read in 2015"
 date:   2015-12-28 23:59:00
-permalink: 2015-12-28-my-three-favorite-books-i-read-in-2015
+permalink: 2015-12-28-my-three-favorite-books-i-read-in-2015/
 ---
 
 As the year 2015 wraps up, I've been reviewing my New Year's Resolution document. Yes, I do keep

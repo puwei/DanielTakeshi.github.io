@@ -2,7 +2,7 @@
 layout: post
 title:  "Review of Advanced Robotics (CS 287) at Berkeley"
 date:   2015-12-21 23:59:00
-permalink: 2015-12-21-review-of-advanced-robotics-cs-287-at-berkeley
+permalink: 2015-12-21-review-of-advanced-robotics-cs-287-at-berkeley/
 ---
 
 I took Advanced Robotics (CS 287) last semester, which is the graduate level class that [Pieter

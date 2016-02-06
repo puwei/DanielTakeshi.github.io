@@ -2,7 +2,7 @@
 layout: post
 title:  "Review of Deep Reinforcement Learning (CS 294-112) at Berkeley"
 date:   2015-12-17 23:59:00
-permalink: 2015-12-17-review-of-deep-reinforcement-learning-cs-294-112-at-berkeley
+permalink: 2015-12-17-review-of-deep-reinforcement-learning-cs-294-112-at-berkeley/
 ---
 
 At the start of the semester, [Pieter Abbeel](http://www.cs.berkeley.edu/~pabbeel/) told me, "If you

@@ -2,7 +2,7 @@
 layout: post
 title:  "IPython, Jupyter Notebooks, and matplotlib"
 date:   2016-01-16 23:59:00
-permalink: 2016-01-16-ipython-jupyter-notebooks-and-matplotlib
+permalink: 2016-01-16-ipython-jupyter-notebooks-and-matplotlib/
 ---
 
 Two and a half years ago, I [wrote a post about programming in Python][1]. One of my tips was to use

@@ -2,7 +2,7 @@
 layout: post
 title:  "Why I (Reluctantly) Don't Show up to Class"
 date:   2016-02-05 23:59:00
-permalink: 2016-02-05-why-i-reluctantly-dont-show-up-to-class
+permalink: 2016-02-05-why-i-reluctantly-dont-show-up-to-class/
 ---
 
 At the end of the first [CS 267 (Applications of Parallel Computing)][1] lecture, I was looking

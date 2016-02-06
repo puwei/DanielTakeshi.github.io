@@ -2,7 +2,7 @@
 layout: post
 title:  "The Enrollment Surge in Graduate Courses"
 date:   2016-01-10 23:59:00
-permalink: 2016-01-10-the-enrollment-surge-in-graduate-courses
+permalink: 2016-01-10-the-enrollment-surge-in-graduate-courses/
 ---
 
 This link on [Berkeley "By the Numbers"][8] states that 73 percent of undergraduate classes have

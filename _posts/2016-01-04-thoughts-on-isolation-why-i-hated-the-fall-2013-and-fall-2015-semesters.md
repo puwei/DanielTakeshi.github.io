@@ -2,7 +2,7 @@
 layout: post
 title:  "Thoughts on Isolation: Why I Hated the Fall 2013 and Fall 2015 Semesters"
 date:   2016-01-04 23:59:00
-permalink: 2016-01-04-thoughts-on-isolation-why-i-hated-the-fall-2013-and-fall-2015-semesters
+permalink: 2016-01-04-thoughts-on-isolation-why-i-hated-the-fall-2013-and-fall-2015-semesters/
 ---
 
 ## Fall 2013
