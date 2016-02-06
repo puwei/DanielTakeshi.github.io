@@ -2,7 +2,7 @@
 layout: post
 title:  "The First Day of Class is the Most Awkward"
 date:   2016-01-20 23:59:00
-permalink: 2016-01-20-the-first-day-of-class-is-the-most-awkward
+permalink: 2016-01-20-the-first-day-of-class-is-the-most-awkward/
 ---
 
 I have now completed the first class sessions for all the courses I'm taking this semester.
