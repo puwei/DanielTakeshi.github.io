@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Are Deaf People Immune to Certain Things?"
-date:   2016-02-14 23:59:00
+date:   2016-02-14 12:00:00
 permalink: 2016-02-14-are-deaf-people-immune-to-certain-things/
 ---
 
