@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Mood -- Not Skill -- is the Limiting Factor"
-date:   2016-02-28 23:50:00
+date:   2016-02-28 08:00:00
 permalink: 2016-02-28-my-mood-not-skill-is-the-limiting-factor/
 ---
 
