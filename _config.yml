@@ -14,5 +14,6 @@ github_username: DanielTakeshi
 # Build settings
 markdown: kramdown
 #markdown: redcarpet # Does not make multiline ``` ... ``` work!
+gems: [jekyll-paginate]
 paginate: 20
 #excerpt_separator: <!--more--> # Has problems with hyperlinks in the excerpt
