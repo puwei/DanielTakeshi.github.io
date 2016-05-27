@@ -57,7 +57,7 @@ On top of all that, there are some nice views of the bay. The upside of clutchin
 running is the ability to stop and take pictures as desired. I took pictures along some of the
 route. Here's the trail that you'll see soon after you pass that pedestrian bridge.
 
-<img src="{{site.url}}/assets/runroute_aftermatrak.JPG" alt="running_after_amtrak">
+<img src="{{site.url}}/assets/runroute_afterbridge.JPG" alt="running_after_amtrak">
 
 Looks pretty simple, right?
 
