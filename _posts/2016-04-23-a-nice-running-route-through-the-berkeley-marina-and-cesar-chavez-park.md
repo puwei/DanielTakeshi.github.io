@@ -61,7 +61,7 @@ route. Here's the trail that you'll see soon after you pass that pedestrian brid
 
 Looks pretty simple, right?
 
-Here's one I took that's relatively close to a favorite restaurant of mine, [Skates on the Bay][2]:
+Here's one I took that's close to a favorite restaurant of mine, [Skates on the Bay][2]:
 
 <img src="{{site.url}}/assets/runroute_bayview1.JPG" alt="running_route_chavez1">
 
