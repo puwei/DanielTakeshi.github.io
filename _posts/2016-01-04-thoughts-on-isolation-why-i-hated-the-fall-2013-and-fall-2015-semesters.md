@@ -239,9 +239,8 @@ attention towards making women and minorities feel more included in computer sci
 *little* frustrated. OK, sometimes more than "a little."
 
 To be clear, I'm not saying that I don't have advantages from being a Caucasian and Asian male. I
-have never been racially insulted, or sexually assaulted. I have been driving for seven years and
-have *never been pulled over by the police -- ever*. If I had a different body type, those aspects
-about my life might be different.
+have never been racially insulted, or sexually assaulted. If I had a different body type, those
+aspects about my life might be different.
 
 But on the other hand, suppose I were black and *hearing*. Then, wouldn't it be possible for me to
 sit through a lecture and finally piece together a few consecutive sentences from the lecturer?
