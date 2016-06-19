@@ -100,8 +100,7 @@ home midterm, but Ben said students should be able to finish the midterm in two 
 opinion: while I agree that there are students in the class who can finish the midterm in less than
 two hours, I don't think that's the case for the majority of students. At least, it wasn't for *me*
 --- I needed about six hours --- and I got a good score. The day we got our midterms back, Ben said
-that if we got less than an 80 on the midterm, we shouldn't talk to him to "complain about our
-grades."
+that if we got above an 80 on the midterm, we shouldn't talk to him to "complain about our grades."
 
 Incidentally, the midterm had four questions. One question wasn't even related to the material that
 much (it was about critical points) and another was about duality and Lagrange multipliers, so that
