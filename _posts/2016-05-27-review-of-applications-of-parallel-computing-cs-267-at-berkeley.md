@@ -54,7 +54,9 @@ bad C programmer in the survey so you can get paired up with an "expert".
 **Homework 2: Parallelize Particle Simulation**. It's helpful to look at the GIF of the particle
 simulation:
 
-<img src="{{site.url}}/assets/cs267_animation.gif" alt="animation">
+<p style="text-align:center;">
+<img style="float: center;" src="{{site.url}}/assets/cs267_animation.gif" alt="animation">
+</p>
 
 This is implemented by having an array of particles (which themselves are C structs). During each
 iteration, the particle positions are updated based on simple forces that cause particles to repel.
