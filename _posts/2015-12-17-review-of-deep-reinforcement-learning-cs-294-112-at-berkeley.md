@@ -24,8 +24,9 @@ happily now up.
 
 3. If you're looking for other resources to learn about deep reinforcement learning, I have several
 recommendations. In terms of courses, check out [David Silver's reinforcement learning course][4]
-and the [Deep Learning Summer School][5]; the latter has our class instructor as part of the course
-staff, so the material is probably going to be similar to what we covered. I have these courses
+and the recent [Machine Learning Summer School][8]; the latter had our class instructor as part of the course
+staff, so the material is probably going to be similar to what we covered. (Coming up in a few weeks
+is the [Deep Learning Summer School][5], something you might also want to check out.) I have all these courses
 bookmarked and am trying to carve out some time to read the slides. In terms of code, I would
 strongly recommend starting with either [the deep_q_rl library][3] or [OpenAI Gym][7]. The former is
 a super easy-to-read Python library that allows you to replicate DeepMind's results in their 2013
@@ -165,3 +166,4 @@ offered again (in some form) so long as deep learning remains the king of machin
 [5]:https://sites.google.com/site/deeplearningsummerschool2016/home
 [6]:http://karpathy.github.io/2016/05/31/rl/
 [7]:https://gym.openai.com/
+[8]:http://learning.mpi-sws.org/mlss2016/
