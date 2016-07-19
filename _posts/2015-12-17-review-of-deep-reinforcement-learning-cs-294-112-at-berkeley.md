@@ -39,9 +39,9 @@ there is no need to post your email publicly as I can see it regardless.
 Thanks everyone, and that's all! After this paragraph is the original post as I had written it. But
 one more thing: after rereading this post, I think I was a little too harsh on the class.
 Furthermore, even though people have said they liked this post, I don't think I gave reinforcement
-learning its due. So to rectify my regrets, I'm planning on launching a new series of (deep)
-reinforcement learning posts on this blog, similar to the style of [Andrej Karpathy's excellent blog
-post][6]. I've [already written a post on basic reinforcement learning][2], so I'm hoping to
+learning its due. So to rectify my regrets, **I'm planning on launching a new series of deep
+reinforcement learning posts on this blog**, similar to the style of [Andrej Karpathy's excellent
+blog post][6]. I've [already written a post on basic reinforcement learning][2], so I'm hoping to
 progress towards more advanced topics. My goal is to have the first post up sometime in August.
 Hopefully those will be a good resource for some enthusiasts out there.
 
