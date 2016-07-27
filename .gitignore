@@ -2,3 +2,4 @@ _site
 .sass-cache
 .DS_Store
 seita039splace.wordpress.2015-05-11.xml
+*.swp
