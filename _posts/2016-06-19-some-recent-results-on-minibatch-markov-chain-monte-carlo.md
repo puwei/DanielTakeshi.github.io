@@ -51,7 +51,7 @@ all $$N$$ of the likelihood factors. Remember, this has to be done *every iterat
 just to get one bit of data (whether to accept or not) is not a good tradeoff. Hence, there has been
 substantial research on how to perform *minibatch* MCMC on large datasets. In this case, rather than
 use all $$N$$ data points, we just use a subset $$n \ll N$$ of points each iteration.  This
-approximates the target distribution. The downside? It no longer satisfies detailed balance! (I
+approximates the target distribution. The downside? It no longer satisfies detailed balance. (I
 don't know the details on why, and it probably involves some complicated convergence studies, but I
 am willing to believe it.)
 
@@ -92,7 +92,7 @@ probabilities. If we use $$n$$ instead of $$N$$ terms, that summation is strictl
 absolute value. So we must rescale to make the value on the same order of magnitude.
 
 What's the problem with the above for Bayesian posterior inference? *It doesn't actually do Bayesian
-posterior inference!* The above will mean $$\theta$$ converges to a single value. We instead want a
+posterior inference.* The above will mean $$\theta$$ converges to a single value. We instead want a
 *distribution*. So what can we do? We can use Langevin Dynamics, meaning that (for the full batch
 case) our updates are:
 
