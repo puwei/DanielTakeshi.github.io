@@ -28,7 +28,7 @@ $$\lambda I_d X^T = \lambda X^TI_n$$
 
 Note that this doesn't change the equality, because multiplying a matrix with the identity will not
 change it, regardless of the multiplication ordering. As a sanity check, the LHS is $$(d \times
-d)\times (d \times n)$$ and the RHS is $$(d\times n)\times (n\times n)$$ and both result in an $$(n
+d)\times (d \times n)$$ and the RHS is $$(d\times n)\times (n\times n)$$ and both result in a $$(d
 \times n)$$-dimensional matrix so the dimensions match up. Next, add $$X^TXX^T$$ to both sides and
 get
 
