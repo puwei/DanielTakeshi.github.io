@@ -330,7 +330,7 @@ probably worth it only for the -root-dir argument above. Finally, I&#8217;m not 
 &#8220;:8&#8243; to the language model argument, because I don&#8217;t know what that does (to do:
 find out!).
 
-**Update 11/29/14: **Apparently, that extra :8 argument forces the use of KenLM instead of SRILM
+**Update 11/29/14:** Apparently, that extra :8 argument forces the use of KenLM instead of SRILM
 &#8230; so yes, include an extra :8 after the language model file name. The above command, while
 still correct I believe, should not be used.
 
