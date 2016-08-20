@@ -14,7 +14,7 @@ In my computer organization class, we’ve discussed three major topics: Assembl
 Programming, and Digital Logic. We’re now moving on to our final topic, microcode, but I thought I
 would just share some feelings about the third item I listed.
 
-<img src="{{site.url}}/assets/237.gif" alt="237_image">
+<p style="text-align:center;"> <img src="{{site.url}}/assets/237.gif" alt="237_image"> </p>
 
 Digital logic is incredible. That’s the first thing you should know about it. Logic gates, such as
 AND, OR, NOR, and NAND, are the basic building blocks for any computer. They combine to form latches

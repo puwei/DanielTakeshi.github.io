@@ -56,7 +56,7 @@ Before I end this post (which, sadly, coincides with the end of a Williams Colle
 
 I did not include &#8220;knowing the alphabet&#8221; since that should be acquired before doing ANY sign language at all. Seriously, if you can&#8217;t sign the alphabet on one hand in less than ten seconds, review the signs. Meanwhile, I&#8217;m going to explore the Internet a bit more and see what revisions to make to my axioms.
 
-<img src="{{site.url}}/assets/aslalphabet.gif" alt="asl_alphabet">
+<p style="text-align:center;"> <img src="{{site.url}}/assets/aslalphabet.gif" alt="asl_alphabet"> </p>
 
  [1]: http://www.lifeprint.com/asl101/pages-layout/syntax.htm "Lifeprint"
  [2]: http://www.aslpro.com/cgi-bin/aslpro/aslpro.cgi "ASL Pro"

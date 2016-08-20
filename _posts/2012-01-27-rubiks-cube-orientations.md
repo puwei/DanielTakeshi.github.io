@@ -1,15 +1,8 @@
 ---
-title: 'Rubik&#8217;s Cube Orientations'
+title: "Rubik's Cube Orientations"
 author: Daniel Seita
 layout: post
-permalink: /2012/01/27/121/
-twitter_cards_summary_img_size:
-  - 'a:7:{i:0;i:400;i:1;i:410;i:2;i:2;i:3;s:24:"width="400" height="410"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}'
-categories:
-  - Everything Else
-tags:
-  - mathematics
-  - "Rubik's cube"
+permalink: /2012/01/27/rubiks-cube-orientations/
 ---
 A completely solved cube is one orientation of a Rubik’s Cube. Turning a face results in another …
 so how many total orientations of the Rubik’s Cube are there? To answer that, we need to look at how
@@ -17,7 +10,7 @@ many possible combinations of corner and edge pieces are valid, in the sense tha
 solvable. Later, I’ll discuss how many possible ways there are of combining the pieces randomly
 after disassembling the cube, which usually results in an unsolvable cube.
 
-<img src="{{site.url}}/assets/RubiksCube.jpg" alt="rubiks">
+<p style="text-align:center;"> <img src="{{site.url}}/assets/RubiksCube.jpg" alt="rubiks"> </p>
 
 There are six center “pieces” that do not move; they are fixed in place. Then we have the corners
 and edges that compose the rest of each of the six faces of the cube. There are eight corner pieces,

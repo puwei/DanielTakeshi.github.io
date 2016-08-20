@@ -2,7 +2,7 @@
 title: Where Not to Study
 author: Daniel Seita
 layout: post
-permalink: /2011/12/21/93/
+permalink: /2011/12/21/where-not-to-study/
 categories:
   - Computer Science
 tags:
@@ -22,6 +22,6 @@ While it was no doubt thrilling to see that happen, especially from the perspect
 
 *A picture of the main tables of Schow library, from the Williams College website. I have avoided studying in this area for months, despite its attractive architecture.*
 
-<img src="{{site.url}}/assets/schow.jpg" alt="schow">
+<p style="text-align:center;"> <img src="{{site.url}}/assets/schow.jpg" alt="schow"> </p>
 
  [1]: http://www.youtube.com/watch?v=pI0eDy2mMzI "Quidditch"
