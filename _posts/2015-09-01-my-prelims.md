@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Prelims"
+title:  "My Prelims (Transcript)"
 date:   2015-09-01 23:00:00
 permalink: 2015-09-01-my-prelims/
 ---
