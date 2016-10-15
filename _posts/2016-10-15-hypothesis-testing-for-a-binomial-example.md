@@ -99,7 +99,7 @@ $$
 (There is only one $$\theta$$ possibility here, so we do not need a "sup" term.)
 
 By using the fact that a likelihood ratio must be defined by a cutoff point
-where if $$L(X)>k$$, we accept, else if $$L(X) < k$$ we reject (and with
+where if $$L(X)>k$$, we reject, else if $$L(X) < k$$ we accept (and with
 equality, we randomize), we see that our test must be $$\phi(0)=\phi(1)=0$$ and
 $$\phi(2)=1/5$$. If we were to equate this with our definitions above, this
 would be:
