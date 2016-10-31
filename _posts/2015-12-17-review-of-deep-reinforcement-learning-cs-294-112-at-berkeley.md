@@ -6,6 +6,16 @@ author: Daniel Seita
 permalink: 2015-12-17-review-of-deep-reinforcement-learning-cs-294-112-at-berkeley/
 ---
 
+**Update October 31, 2016**: I received an announcement that CS 294-112 *will*
+be taught again next semester! That sounds exciting, and while I won't be
+enrolling in the course, I will be following its progress and staying in touch
+on the concepts taught. 
+
+And by the way, today I *finally* published my reinforcement learning post that
+I said I would write in my July update. [You can see it here][9].
+
+***
+
 **Update July 18, 2016**: This post seems to have gotten a considerable amount of attention, at
 least compared to my normal blog posts, so I would like to answer some of the common questions that
 I've received in either the comments or by private email.
@@ -167,3 +177,4 @@ offered again (in some form) so long as deep learning remains the king of machin
 [6]:http://karpathy.github.io/2016/05/31/rl/
 [7]:https://gym.openai.com/
 [8]:http://learning.mpi-sws.org/mlss2016/
+[9]:https://danieltakeshi.github.io/2016/10/31/going-deeper-into-reinforcement-learning-understanding-q-learning-and-linear-function-approximation/
