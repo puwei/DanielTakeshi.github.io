@@ -107,7 +107,7 @@ for *policy gradients*:
 
 $$g = \mathbb{E}\left[\sum_{t=1}^T \Psi_t \nabla_\theta \log \pi_\theta (a_t \mid s_t)\right]$$
 
-To understand this, one has to process lots of material, such as what it means to take the gradient
+To understand[^update] this, one has to process lots of material, such as what it means to take the gradient
 of the log of a policy, and that $$\Psi_t$$ isn't just a simple scalar but can represent concepts
 like the advantage function, which involves *another* sequence of expectations and sums of rewards.
 Connecting this material is challenging in real time, and I felt that the lectures did not provide
@@ -168,6 +168,11 @@ was immensely frustrating for me to try and understand the material directly fro
 the haphazard nature of the course did not help.  I suspect that future iterations of the course
 will proceed more smoothly, and yes, even though no one's told me personally, this class *will* be
 offered again (in some form) so long as deep learning remains the king of machine learning. 
+
+***
+
+[^update]: **Update November 3, 2016**: After studying more about policy
+    gradients, I now feel like I truly understand this formula.
 
 [1]:https://github.com/rll/deeprlhw2
 [2]:http://danieltakeshi.github.io/2015-08-02-markov-decision-processes-and-reinforcement-learning/
