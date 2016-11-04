@@ -78,7 +78,9 @@ abundantly clear.
     States (oh no ...), I would grind my teeth and vote for Trump. But let's
     hope that never happens.
 
-[^not_socialist]: I am not a socialist, so Bernie Sanders was also not my first choice.
+[^not_socialist]: I am not a socialist, so Bernie Sanders was also not my first
+    choice. Of the major candidates, I think I would consider Michael Bloomberg
+    as my top choice (if he counts as one...).
 
 [1]:https://www.washingtonpost.com/politics/trump-recorded-having-extremely-lewd-conversation-about-women-in-2005/2016/10/07/3b9ce776-8cb4-11e6-bf8a-3d26847eeed4_story.html?tid=pm_pop_b
 [2]:http://www.nytimes.com/interactive/2016/08/29/us/politics/at-least-110-republican-leaders-wont-vote-for-donald-trump-heres-when-they-reached-their-breaking-point.html?hp&action=click&pgtype=Homepage&clickSource=image&module=b-lede-package-region&region=top-news&WT.nav=top-news
