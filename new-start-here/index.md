@@ -5,7 +5,7 @@ layout: page
 
 You can see the one-paragraph description of the blog in the footers, repeated here for convenience:
 
-*This is my blog, where I have written over 200 articles on a variety of topics, most of which are
+*This is my blog, where I have written over 225 articles on a variety of topics, most of which are
 about one of two major themes. The first is computer science, which is my area of specialty as a
 Ph.D. student at UC Berkeley. The second can be broadly categorized as "deafness," which relates to
 my experience and knowledge of being deaf.*
