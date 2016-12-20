@@ -2,7 +2,7 @@
 layout: post
 title:  "Mitt Romney Should be Secretary of State"
 date:   2016-12-19 12:00:00
-permalink: 2016-12-19-mitt-romney-should-be-secretary-of-state/
+permalink: 2016/12/19/mitt-romney-should-be-secretary-of-state/
 ---
 
 Another day, more news about Russian shenanigans. The CIA and other intelligence
