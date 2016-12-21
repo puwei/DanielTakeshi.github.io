@@ -5,6 +5,13 @@ date:   2016-12-19 12:00:00
 permalink: 2016/12/19/mitt-romney-should-be-secretary-of-state/
 ---
 
+**Update December 20, 2016**: This is interesting. The Wall Street Journal [just
+published a fantastic opinion piece][5] about Mitt Romney and Russia, *and even
+says people should give Mr. Romney an apology*, just as I said! No, I wasn't
+reading their minds, this was just pure coincidence.
+
+***
+
 Another day, more news about Russian shenanigans. The CIA and other intelligence
 agencies have now [concluded with high confidence that Russia was behind the
 hacks][1] that leaked documents from Democratic political campaigns, presumably
@@ -56,3 +63,4 @@ must be willing to apologize.
 [2]:http://www.politifact.com/truth-o-meter/statements/2012/oct/22/barack-obama/obama-romney-called-russia-our-top-geopolitical-fo/
 [3]:https://twitter.com/marcorubio/status/807962818272235521
 [4]:http://www.politico.com/blogs/donald-trump-administration/2016/12/trump-to-name-secretary-of-state-pick-tuesday-232544
+[5]:http://www.wsj.com/articles/romney-was-right-about-russia-1482277097
