@@ -89,7 +89,7 @@ the talk (especially if it's not about work I did!) so the next best thing that
 really helps is being reasonably funny.
 
 Thus, I came up with the following tentative plan: since it's election season,
-let's have "Anca for President"!  I would include am image like the following in
+let's have "Anca for President"!  I would include an image like the following in
 my slides, where going from left to right correlates with how much respect I
 have for that person.
 
