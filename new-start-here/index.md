@@ -3,47 +3,58 @@ title: New? Start Here
 layout: page
 ---
 
-You can see the one-paragraph description of the blog in the footers, repeated here for convenience:
+You can see the one-paragraph description of the blog in the footers, repeated
+here for convenience:
 
-*This is my blog, where I have written over 225 articles on a variety of topics, most of which are
-about one of two major themes. The first is computer science, which is my area of specialty as a
-Ph.D. student at UC Berkeley. The second can be broadly categorized as "deafness," which relates to
-my experience and knowledge of being deaf.*
+*This is my blog, where I have written over 225 articles on a variety of topics,
+most of which are about one of two major themes. The first is computer science,
+which is my area of specialty as a Ph.D. student at UC Berkeley. The second can
+be broadly categorized as "deafness," which relates to my experience and
+knowledge of being deaf.*
 
-The easiest way to find something that you'll be interested in is to [look at the archives][10] and
-browse the titles, which (I hope) are descriptive. Using the built-in Google site search there would
-also be prudent.
+The easiest way to find something that you'll be interested in is to [look at
+the archives][10] and browse the titles, which (I hope) are descriptive. Using
+the built-in Google site search there would also be useful.
 
-If you're interested in knowing more about the classes at Berkeley, I write reviews on all the ones
-I have taken. Here are a few examples:
+If you're interested in knowing more about the classes at Berkeley, I write
+reviews on all the ones I have taken. Here are a few examples:
 
 - [CS 287, Advanced Robotics][1]
 - [CS 294-112, Deep Reinforcement Learning][2]
+- [CS 294-115, Algorithmic Human-Robot Interaction][29]
 - [EE 227BT, Convex Optimization][3]
 - [EE 227C, Convex Optimization and Approximation][4]
+- [STAT 210A, Theoretical Statistics][28]
 
-When I was preparing for the AI prelims at Berkeley, I wrote a lot about AI topics. I also wrote a
-"transcript" of my prelims.
+When I was preparing for the AI prelims at Berkeley, I wrote a lot about AI
+topics. I also wrote a "transcript" of my prelims.
 
+- [My Prelims][9] *[Transcript]*
 - [Markov Decision Processes and Reinforcement Learning][5]
 - [Perceptrons, SVMs, and Kernel Methods][6]
 - [Notes on Exact Inference in Graphical Models][7]
 - [The Least Mean Squares Algorithm][8]
-- [My Prelims][9] *[Transcript]*
 
-I also write a lot about other technical areas, and am attempting to write up more about my thoughts
-on various technical research papers. I also have reviews of non-technical books here. Here are a
-few:
+I write sometimes about the books I read, such as in the following:
 
+- [All the Books I Read in 2016, Plus My Thoughts [Long]][26]
+- [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will
+  Remake Our World][27]
+- [My Three Favorite Books I Read in 2015][20]
+
+I also write a lot about other technical areas, and am attempting to write up
+more about my thoughts on various technical research papers. Here are a few:
+
+- [Going Deeper Into Reinforcement Learning: Understanding Deep-Q-Networks][30]
 - [Some Recent Results on Minibatch Markov Chain Monte Carlo Methods][25]
-- [My Three Favorite Books I Read in 2015][20] *[Non-Technical]*
 - [Independent Component Analysis --- A Gentle Introduction][17]
 - [Ten Things Python Programmers Should Know][14]
 
-If you are interested in knowing about what it's like being deaf, then there are a *lot* of options.
-Here are a few that might be informative:
+If you are interested in knowing about what it's like being deaf, then there are
+a *lot* of options.  Here are a few that might be informative:
 
 - [The Obligatory "Can I Lip Read?" Question][19]
+- [The BVLC (BAIR) Retreat: Disaster Averted!][18]
 - [Advocate for Yourself][13]
 - [After a Few Weeks of CART, Why do I Feel Dissatisfied?][16]
 - [The Problem with Seminars][15]
@@ -52,11 +63,10 @@ Here are a few that might be informative:
 - [Hearing Aids: How They Help and How They Fall Short in Group Situations][11]
 - [Technical Term Dilemma][21]
 
-Finally, here are a few random posts that I thought were interesting.
+Finally, here are a few random posts that I still think are interesting:
 
-- [The BVLC (BAIR) Retreat: Disaster Averted!][18]
+- [Five Years of Blogging][31]
 - [Why Computer Science is a Good Major for Deaf Students][12]
-- [It's Time to Ditch PowerPoint and Word in Favor of LaTeX][24]
 
 [1]:https://danieltakeshi.github.io/2015-12-21-review-of-advanced-robotics-cs-287-at-berkeley/
 [2]:https://danieltakeshi.github.io/2015-12-17-review-of-deep-reinforcement-learning-cs-294-112-at-berkeley/
@@ -83,4 +93,9 @@ Finally, here are a few random posts that I thought were interesting.
 [23]:https://danieltakeshi.github.io/2013/06/28/new-closed-captioning-glasses/
 [24]:https://danieltakeshi.github.io/2013/07/12/its-time-to-ditch-powerpoint-and-word-in-favor-of-latex/
 [25]:https://danieltakeshi.github.io/2016-06-19-some-recent-results-on-minibatch-markov-chain-monte-carlo-methods/
-
+[26]:https://danieltakeshi.github.io/2016/12/31/all-the-books-i-read-in-2016-plus-my-thoughts-long
+[27]:https://danieltakeshi.github.io/2016-05-31-the-master-algorithm-how-the-quest-for-the-ultimate-learning-machine-will-remake-our-world/
+[28]:https://danieltakeshi.github.io/2016/12/20/review-of-theoretical-statistics-stat-210a-at-berkeley/
+[29]:https://danieltakeshi.github.io/2016/12/20/review-of-algorithmic-human-robot-interaction-cs-294-115-at-berkeley/
+[30]:https://danieltakeshi.github.io/2016/12/01/going-deeper-into-reinforcement-learning-understanding-dqn/
+[31]:https://danieltakeshi.github.io/2016/12/30/five-years-of-blogging/
