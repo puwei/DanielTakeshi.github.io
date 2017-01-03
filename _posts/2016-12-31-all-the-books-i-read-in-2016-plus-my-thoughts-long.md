@@ -790,7 +790,7 @@ I've arranged them by publication date.
   America is therefore the arrogant bully who wants things run his way and
   manipulates the media in doing so. As a side effect, America actually
   *hinders* progress towards some of its goals.  Take the "Iranian nuclear
-  threat" for instance. America and the West view Iran as one of the gravest
+  threat" for instance. America and the West (myself included) view Iran as one of the gravest
   threats to the world, but this is not the case in the Arab world or elsewhere.
   The Iranian threat could have been resolved many years ago, Chomsky argued, if
   we had not invaded Iraq or invited Iranians to study nuclear engineering at
