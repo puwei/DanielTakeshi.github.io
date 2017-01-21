@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Understanding Local Gradient Computation for Backpropagation in Deep Neural Networks"
+title:  "Understanding Higher Order Local Gradient Computation for Backpropagation in Deep Neural Networks"
 date:   2017-01-21 10:00:00
-permalink: 2017/01/21/understanding-local-gradient-computation-for-backpropagation-in-deep-neural-networks/
+permalink: 2017/01/21/understanding-higher-order-local-gradient-computation-for-backpropagation-in-deep-neural-networks/
 ---
 
 ## Introduction

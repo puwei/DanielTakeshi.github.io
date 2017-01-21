@@ -45,6 +45,7 @@ I write sometimes about the books I read, such as in the following:
 I also write a lot about other technical areas, and am attempting to write up
 more about my thoughts on various technical research papers. Here are a few:
 
+- [Understanding Higher Order Local Gradient Computation for Backpropagation in Deep Neural Networks][32]
 - [Going Deeper Into Reinforcement Learning: Understanding Deep-Q-Networks][30]
 - [Some Recent Results on Minibatch Markov Chain Monte Carlo Methods][25]
 - [Independent Component Analysis --- A Gentle Introduction][17]
@@ -99,3 +100,4 @@ Finally, here are a few random posts that I still think are interesting:
 [29]:https://danieltakeshi.github.io/2016/12/20/review-of-algorithmic-human-robot-interaction-cs-294-115-at-berkeley/
 [30]:https://danieltakeshi.github.io/2016/12/01/going-deeper-into-reinforcement-learning-understanding-dqn/
 [31]:https://danieltakeshi.github.io/2016/12/30/five-years-of-blogging/
+[32]:https://danieltakeshi.github.io/2017/01/21/understanding-higher-order-local-gradient-computation-for-backpropagation-in-deep-neural-networks/
