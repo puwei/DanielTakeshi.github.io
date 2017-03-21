@@ -97,7 +97,7 @@ gained from reading the tutorial:
 
   $$H((x_i,y_i)_{i=1}^\infty,D) = - \frac{1}{2} \mathbb{E}_{x \sim p_{\rm
   data}}\Big[ \log D(x)\Big] - \frac{1}{2} \mathbb{E}_{z} \Big[\log
-  (1-G(D(z)))\Big]$$
+  (1-D(G(z)))\Big]$$
 
   This is precisely the loss function for the discriminator, $$J^{(J)}$$.
 
@@ -119,7 +119,7 @@ gained from reading the tutorial:
 
   $$J^{(G)} = -J^{(J)} = \frac{1}{2} \mathbb{E}_{x \sim p_{\rm
   data}}\Big[ \log D(x)\Big] + \frac{1}{2} \mathbb{E}_{z} \Big[\log
-  (1-G(D(z)))\Big]$$
+  (1-D(G(z)))\Big]$$
 
   The second is the **heuristic, non-saturating** version:
 
