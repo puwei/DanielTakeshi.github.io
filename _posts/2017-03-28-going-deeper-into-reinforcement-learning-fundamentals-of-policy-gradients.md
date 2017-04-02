@@ -235,7 +235,7 @@ steps. For now, though, just think of it as a function of $$s_t$$.
 
 # Understanding the Baseline
 
-In this final section, I first go over why inserting $$b$$ above doesn't make
+In this section, I first go over why inserting $$b$$ above doesn't make
 our gradient estimate biased. Next, I will go over why the baseline reduces
 variance of the gradient estimate. These two capture the best of both worlds:
 staying unbiased and reducing variance. In general, any time you have an
@@ -314,11 +314,11 @@ Here are my usual overly-detailed comments (apologies in advance):
   = \nabla_\theta \int \pi_{\theta}(a_t|s_t)da_t = \nabla_\theta \cdot 1 = 0
   $$
 
-  where the last step follows from how $$\pi_\theta$$ is a density. This follows
-  for all time steps, and since the gradient of the log gets distributed for
-  each $$t$$, it applies in all time steps. I switched to the continuous-land
-  version for this, but it also applies with sums, as I just recently used in
-  Note I.
+  where the penultimate step follows from how $$\pi_\theta$$ is a density. This
+  follows for all time steps, and since the gradient of the log gets distributed
+  for each $$t$$, it applies in all time steps. I switched to the
+  continuous-land version for this, but it also applies with sums, as I just
+  recently used in Note I.
 
 The above shows that introducing $$b$$ doesn't cause bias. 
 
@@ -353,7 +353,9 @@ this is a least squares problem, and it is well known that the optimal choice of
 $$b(s_t)$$ is to be the expected value of $$R_t(\tau)$$. In fact, that's *why*
 policy gradient researchers usually want $$b(s_t) \approx
 \mathbb{E}[R_t(\tau)]$$ to approximate the expected return starting at time
-$$t$$. At last, I understand.
+$$t$$, and that's *why* in the vanilla policy gradient algorithm we have to
+re-fit the baseline estimate each time to make it as close to the expected
+return $$\mathbb{E}[R_t(\tau)]$$. At last, I understand.
 
 How accurate are these approximations in practice? My intuition is that they are
 actually fine, because recent advances in reinforcement learning algorithms,
@@ -364,6 +366,86 @@ generated from the same trajectory*.
 
 Well, that's my intuition. If anyone else has a better way of describing it,
 feel free to let me know in the comments or by email.
+
+
+# Discount Factors
+
+So far, we have assumed we wanted to optimize the expected return, or the
+expected *sum of rewards*. However, if you've studied value iteration and policy
+iteration, you'll remember that we usually use *discount factors* $$\gamma \in
+(0,1]$$. These empirically work well because the effect of an action many time
+steps later is likely to be negligible compared to other action. Thus, it may
+not make sense to try and include raw distant rewards in our optimization
+problem. Thus, we often impose a discount as follows:
+
+$$
+\begin{align}
+\nabla_\theta \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)] &= \mathbb{E}_{\tau \sim \pi_\theta} \left[ \sum_{t=0}^{T-1} \nabla_\theta \log \pi_\theta(a_t|s_t) \left(\sum_{t'=t}^{T-1}r_{t'} - b(s_t)\right) \right] \\
+&\approx \mathbb{E}_{\tau \sim \pi_\theta} \left[ \sum_{t=0}^{T-1} \nabla_\theta \log \pi_\theta(a_t|s_t) \left(\sum_{t'=t}^{T-1}\gamma^{t'-t}r_{t'} - b(s_t)\right) \right]
+\end{align}
+$$
+
+where the $$\gamma^{t'-t}$$ serves as the discount, starting from 1, then
+getting smaller as time passes. (The first line above is a repeat of the policy
+gradient formula that I describe earlier.) As this is not exactly the "desired"
+gradient, this is an *approximation*, but it's a reasonable one. This time, we
+now want our baseline to satisfy $$b(s_t) \approx \mathbb{E}[r_t + \gamma
+r_{t+1} + \cdots + \gamma^{T-1-t} r_{T-1}]$$. 
+
+
+# Advantage Functions
+
+In this final section, we replace the policy gradient formula with the following
+*value* functions:
+
+$$Q^\pi(s,a) = \mathbb{E}_{\tau \sim \pi_\theta}\left[\sum_{t=0}^{T-1} r_t \;\Bigg|\; s_0=s,a_0=a\right]$$
+
+$$V^\pi(s) = \mathbb{E}_{\tau \sim \pi_\theta}\left[\sum_{t=0}^{T-1} r_t \;\Bigg|\; s_0=s\right]$$
+
+Both of these should be familiar from basic AI; see the CS 188 notes from
+Berkeley if this is unclear. There are also *discounted* versions, which we can
+denote as $$Q^{\pi,\gamma}(s,a)$$ and $$V^{\pi,\gamma}(s)$$. In addition, we can
+also consider starting at any given time step, as in $$Q^{\pi,\gamma}(s_t,a_t)$$
+which provides the expected (discounted) return assuming that at time $$t$$, our
+state-action pair is $$(s_t,a_t)$$.
+
+What might be new is the *advantage* function. For the undiscounted version, it
+is defined simply as:
+
+$$A^\pi(s,a) = Q^\pi(s,a) - V^\pi(s)$$
+
+with a similar definition for the discounted version. Intuitively, the advantage
+tells us how much better action $$a$$ would be compared to the return based on
+an "average" action.
+
+The above definitions look very close to what we have in our policy gradient
+formula. In fact, we can claim the following:
+
+$$
+\begin{align}
+\nabla_\theta \mathbb{E}_{\tau \sim \pi_\theta}[R(\tau)] &= \mathbb{E}_{\tau \sim \pi_\theta} \left[ \sum_{t=0}^{T-1} \nabla_\theta \log \pi_\theta(a_t|s_t) \left(\sum_{t'=t}^{T-1}r_{t'} - b(s_t)\right) \right] \\
+&{\overset{(i)}{=}}\; \mathbb{E}_{\tau \sim \pi_\theta} \left[ \sum_{t=0}^{T-1} \nabla_\theta \log \pi_\theta(a_t|s_t) \cdot \Big(Q^{\pi}(s_t,a_t)-V^\pi(s_t)\Big) \right] \\
+&{\overset{(ii)}{=}}\; \mathbb{E}_{\tau \sim \pi_\theta} \left[ \sum_{t=0}^{T-1} \nabla_\theta \log \pi_\theta(a_t|s_t) \cdot A^{\pi}(s_t,a_t) \right] \\
+&{\overset{(iii)}{\approx}}\; \mathbb{E}_{\tau \sim \pi_\theta} \left[ \sum_{t=0}^{T-1} \nabla_\theta \log \pi_\theta(a_t|s_t) \cdot A^{\pi,\gamma}(s_t,a_t) \right]
+\end{align}
+$$
+
+In (i), we replace terms with their expectations. This is *not* generally valid
+to do, but it should work in this case. My guess is that if you start from the
+second line above (after the "(i)") and plug in the definition of the
+expectation inside and rearrange terms, you can get the first line. However, I
+have not had the time to check this in detail and it takes a lot of space to
+write out the expectation fully. The conditioning with the value functions makes
+it a bit messy and thus the law of iterated expectation may be needed.
+
+Also from line (i), we notice that *the value function is a baseline*, and hence
+we can add it there without changing the unbiased-ness of the expectation.  Then
+lines (ii) and (iii) are just for the advantage function. The implication of
+this formula is that the problem of policy gradients, in some sense, *reduces to
+finding good estimates $$\hat{A}^{\pi,\gamma}(s_t,a_t)$$ of the advantage
+function* $$A^{\pi,\gamma}(s_t,a_t)$$. That is precisely the topic of the paper
+*[Generalized Advantage Estimation][2]*.
+
 
 # Concluding Remarks
 
