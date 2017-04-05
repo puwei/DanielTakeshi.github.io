@@ -13,13 +13,20 @@ tags:
   - programming
   - summer
 ---
-As 2014 nears, I face the realization that I will have a free summer. If all goes well, it will be the summer after college and before graduate school. I do not think I will be doing an internship so that gives me the freedom to explore some topic in further detail. Given my interests and the realities of my future career options, I thought it would be prudent to pursue a programming project of my choosing.
+
+As 2014 nears, I face the realization that I will have a free summer. If all
+goes well, it will be the summer after college and before graduate school. I do
+not think I will be doing an internship so that gives me the freedom to explore
+some topic in further detail. Given my interests and the realities of my future
+career options, I thought it would be prudent to pursue a programming project of
+my choosing.
 
 <span style="line-height:1.5;">I have some ideas which I&#8217;ll list below, but nothing&#8217;s
 set in stone. (Other ideas are listed <a href="http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/">here</a> and
 <a href="http://nifty.stanford.edu/">here</a>.) I&#8217;ll probably do a few of them to start and
 narrow down on one. I&#8217;ll do my best to describe the project once it gets started, probably by
-posting it on Seita&#8217;s Place. And if readers have suggestions, feel free to email me (see <a href="http://danieltakeshi.github.io/about/index.html com http://seitad.wordpress.com/about/">About</a>).</span>
+posting it on Seita&#8217;s Place. And if readers have suggestions, feel free to
+email me (see [About][1]).
 
 ***Making a Game***
 
@@ -40,3 +47,6 @@ The advantage with this idea is that it&#8217;s less likely I&#8217;ll get lost,
 ***Join an Open-Source Project***
 
 This could be interesting &#8230; the questions is, which ones interest me and would be open to a programmer helping this out for a summer?
+
+
+[1]:https://danieltakeshi.github.io/about/
