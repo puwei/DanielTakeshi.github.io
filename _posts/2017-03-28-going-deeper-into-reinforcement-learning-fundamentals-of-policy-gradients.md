@@ -462,8 +462,12 @@ have become slightly more enlightened.
 **Acknowledgements**: I thank John Schulman for making his notes publicly
 available.
 
+**Update April 19, 2017**: I have code for vanilla policy gradients in my
+[reinforcement learning GitHub repository][6].
+
 [1]:https://danieltakeshi.github.io/2017/03/23/keeping-track-of-research-articles-my-paper-notes-repository/
 [2]:https://arxiv.org/abs/1506.02438
 [3]:https://danieltakeshi.github.io/2016/12/20/review-of-theoretical-statistics-stat-210a-at-berkeley/
 [4]:https://danieltakeshi.github.io/2015-12-17-review-of-deep-reinforcement-learning-cs-294-112-at-berkeley/
 [5]:https://danieltakeshi.github.io/2015-07-12-notes-on-exact-inference-in-graphical-models/
+[6]:https://github.com/DanielTakeshi/rl_algorithms
