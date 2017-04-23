@@ -46,12 +46,12 @@ Anyway, here at last is the question Professor Jordan talked about:
 This problem is certainly on the easier side of the homework questions we've
 had, but it's a good baseline and I'd like to showcase the solution here. Like
 Professor Jordan, I will do this problem (a.k.a. write this blog post) without
-any form of notes. Here goes: for $$\lambda \in \mathbb{R}$$, we have
+any form of notes. Here goes: for $$\lambda \ge 0$$, we have
 
 $$
 \begin{align}
 e^{\lambda \mathbb{E}[\max\{X_1, \ldots, X_n\}]} \;&{\overset{(i)}{\le}}\;\mathbb{E}[e^{\lambda \max\{X_1,\ldots,X_n\}}] \\
-\;&{\overset{(ii)}{\le}}\; \max\left\{\mathbb{E}[e^{\lambda X_1}],\ldots,\mathbb{E}[e^{\lambda X_n}]\right\} \\
+\;&{\overset{(ii)}{=}}\; \mathbb{E}[\max\{e^{\lambda X_1},\ldots,e^{\lambda X_n}\}] \\
 \;&{\overset{(iii)}{\le}}\; \sum_{i=1}^n\mathbb{E}[e^{\lambda X_i}] \\
 \;&{\overset{(iv)}{\le}}\; ne^{\frac{\lambda^2\sigma^2}{2}}
 \end{align}
@@ -61,9 +61,8 @@ where:
 
 - **Step (i)** follows from Jensen's inequality. Yeah, that inequality is
   *everywhere*.
-- **Step (ii)** follows from noting that the term inside the expectation is
-  just picking out the maximal exponential term. One can also analyze by cases
-  with $$\lambda < 0$$ and $$\lambda > 0$$.
+- **Step (ii)** follows from noting that one can pull the maximum outside of the
+  exponential.
 - **Step (iii)** follows from the classic union bound, which can be pretty bad
   but we don't have much else to go on here. The key fact is that the
   exponential makes all terms in the sum positive.
@@ -96,6 +95,11 @@ do this just as easily as I could. But this problem makes clear the *techniques*
 that are often used in theoretical statistics nowadays, so at minimum students
 should have a firm grasp of the content in this blog post.
 
+**Update April 23, 2017**: In an earlier version of this post, I made an error
+with taking a maximum outside of an expectation. I have fixed this post. Thanks
+to [Billy Fang][3] for letting me know about this. 
+
 
 [1]:https://people.eecs.berkeley.edu/~jordan/
 [2]:https://danieltakeshi.github.io/2016/12/20/review-of-theoretical-statistics-stat-210a-at-berkeley/
+[3]:https://www.stat.berkeley.edu/~blfang/
