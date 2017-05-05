@@ -26,6 +26,7 @@ reviews on all the ones I have taken. Here they are:
 - [CS 288, Natural Language Processing][37]
 - [CS 294-112, Deep Reinforcement Learning][2]
 - [CS 294-115, Algorithmic Human-Robot Interaction][29]
+- [CS 294-129, Deep Neural Networks][43] (GSI/TA)
 - [EE 227BT, Convex Optimization][3]
 - [EE 227C, Convex Optimization and Approximation][4]
 - [STAT 210A, Theoretical Statistics][28]
@@ -117,3 +118,4 @@ Finally, I write sometimes about the books I read, such as in the following:
 [40]:https://danieltakeshi.github.io/2016-05-27-review-of-applications-of-parallel-computing-cs-267-at-berkeley/
 [41]:https://danieltakeshi.github.io/2017/03/05/understanding-generative-adversarial-networks/
 [42]:https://danieltakeshi.github.io/2017/04/02/notes-on-the-generalized-advantage-estimation-paper/
+[43]:https://danieltakeshi.github.io/2016/12/19/reflections-on-being-a-gsi-for-deep-neural-networks-cs-294-129-at-berkeley/
