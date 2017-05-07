@@ -35,12 +35,17 @@ When I was preparing for the AI prelims at Berkeley, I wrote a lot about AI
 topics. I also wrote a "transcript" of my prelims.
 
 - [My Prelims][9] *[Transcript]*
+- [Miscellaneous Prelim Review (Part 1)][45]
+- [Miscellaneous Prelim Review (Part 2)][46]
 - [Markov Decision Processes and Reinforcement Learning][5]
 - [Perceptrons, SVMs, and Kernel Methods][6]
 - [Notes on Exact Inference in Graphical Models][7]
+- [Closing Thoughts on Graphical Models][48]
 - [The Least Mean Squares Algorithm][8]
 - [Expectation-Maximization][35]
 - [Hidden Markov Models and Particle Filtering][36]
+- [Reading Russell and Norvig][44]
+- [Stanford's Linear Algebra Review][47]
 
 I also write a lot about other technical areas, and am attempting to write up
 more about my thoughts on various technical research papers. Here are a few:
@@ -119,3 +124,8 @@ Finally, I write sometimes about the books I read, such as in the following:
 [41]:https://danieltakeshi.github.io/2017/03/05/understanding-generative-adversarial-networks/
 [42]:https://danieltakeshi.github.io/2017/04/02/notes-on-the-generalized-advantage-estimation-paper/
 [43]:https://danieltakeshi.github.io/2016/12/19/reflections-on-being-a-gsi-for-deep-neural-networks-cs-294-129-at-berkeley/
+[44]:https://danieltakeshi.github.io/2015-06-22-reading-russell-and-norvig/
+[45]:https://danieltakeshi.github.io/2015-08-18-miscellaneous-prelim-review-part-1/
+[46]:https://danieltakeshi.github.io/2015-08-22-miscellaneous-prelim-review-part-2/
+[47]:https://danieltakeshi.github.io/2015-07-26-stanfords-linear-algebra-review/
+[48]:https://danieltakeshi.github.io/2015-07-15-closing-thoughts-on-graphical-models/
