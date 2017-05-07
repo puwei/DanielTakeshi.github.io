@@ -50,6 +50,7 @@ topics. I also wrote a "transcript" of my prelims.
 I also write a lot about other technical areas, and am attempting to write up
 more about my thoughts on various technical research papers. Here are a few:
 
+- [Mathematical Tricks Commonly Used in Machine Learning and Statistics][49]
 - [Notes on the Generalized Advantage Estimation Paper][42]
 - [Going Deeper Into Reinforcement Learning: Fundamentals of Policy Gradients][33]
 - [Going Deeper Into Reinforcement Learning: Understanding Deep-Q-Networks][30]
@@ -129,3 +130,4 @@ Finally, I write sometimes about the books I read, such as in the following:
 [46]:https://danieltakeshi.github.io/2015-08-22-miscellaneous-prelim-review-part-2/
 [47]:https://danieltakeshi.github.io/2015-07-26-stanfords-linear-algebra-review/
 [48]:https://danieltakeshi.github.io/2015-07-15-closing-thoughts-on-graphical-models/
+[49]:https://danieltakeshi.github.io/2017/05/06/mathematical-tricks-commonly-used-in-machine-learning-and-statistics
