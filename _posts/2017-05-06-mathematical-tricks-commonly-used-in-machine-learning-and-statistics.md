@@ -33,9 +33,9 @@ that I've seen:
 - Variational Representations
 
 If the names are unclear or vague, the examples below should clarify.  All the
-tricks are used except for the law of iterated expectation and Markov's
-inequality. (No particular reason for those omissions; it just turns out the
-exercises I'm interested in didn't require them.)
+tricks are used except for the law of iterated expectation, i.e.
+$$\mathbb{E}[\mathbb{E}[X|Y]] = \mathbb{E}[X]$$. (No particular reason for that
+omission; it just turns out the exercises I'm interested in didn't require it.)
 
 
 
@@ -44,8 +44,10 @@ exercises I'm interested in didn't require them.)
 ## Example 1: Maximum of (Not Necessarily Independent!) sub-Gaussians
 
 I covered this problem in [my last post here][1] so I will not repeat the
-details. However, there is one extension to that problem which I thought would
-be worth noting. To prove an upper bound for the random variable $$Z =
+details. However, there are two extensions to that exercise which I thought would
+be worth noting. 
+
+**First**, To prove an upper bound for the random variable $$Z =
 \max_{i=1,2,\ldots,n}|X_i|$$, it suffices to proceed as we did earlier in the
 non-absolute value case, but *augment* our sub-Gaussian variables
 $$X_1,\ldots,X_n$$ with the set $$-X_1,\ldots,-X_n$$. It's OK to do this because
@@ -55,25 +57,72 @@ can be derived as
 $$\mathbb{E}[Z] \le 2\sqrt{\sigma^2 \log n}$$
 
 This is the same as what we had earlier, except the "2" is now outside the
-square root.
+square root. It's quite intuitive.
+
+**Second**, consider how we can prove the following bound:
+
+$$\mathbb{P}\Big[Z \ge 2\sqrt{\sigma^2 \log n} + \delta\Big] \le 2e^{-\frac{\delta^2}{2\sigma^2}}$$
+
+We start by applying the standard technique of multiplying by $$\lambda>0$$,
+exponentiating and then applying Markov's Inequality with our non-negative
+random variable $$e^{\lambda Z}$$:
+
+$$
+\begin{align*}
+\mathbb{P}\left[Z \ge 2\sqrt{\sigma^2 \log n}+\delta\right] &= \mathbb{P}\left[e^{\lambda Z} \ge e^{\lambda (2\sqrt{\sigma^2 \log n} +\delta)}\right] = \\
+&\le \mathbb{E}[e^{\lambda Z}]e^{-\lambda 2\sqrt{\sigma^2 \log n}} e^{-\lambda \delta} \\
+&{\overset{(i)}\le}\; 2n \exp\left(\frac{\lambda^2\sigma^2}{2}-\lambda\Big(\delta+ 2\sqrt{\sigma^2 \log n}\Big)\right) \\
+&{\overset{(ii)}\le}\; 2n\exp\left(-\frac{1}{2\sigma^2}\Big(\delta+ 2\sqrt{\sigma^2 \log n}\Big)^2\right) \\
+&= 2 \exp\left(-\frac{1}{2\sigma^2}\left[-2\sigma^2 \log n + \delta^2 + 4\delta \sqrt{\sigma^2\log n} + 4\sigma^2\log n \right]\right) 
+\end{align*}
+$$
+
+where in (i) we used a bound previously determined in our bound on
+$$\mathbb{E}[Z]$$ (it came out of an intermediate step), and then used the fact
+that the term in the exponential is a convex quadratic to find the minimizer
+value $$\lambda^* = \frac{\delta+2\sqrt{\sigma^2 \log n}}{\sigma^2}$$ via
+differentiation in (ii).
+
+At this point, to satisfy the desired inequality, we compare terms in the
+exponentials and claim that with $$\delta \ge 0$$,
+
+$$2\sigma^2 \log n + 4\delta \sqrt{\sigma^2\log n} + \delta^2 \ge \delta^2$$
+
+This will result in our desired bound. It therefore remains to prove
+this, but it reduces to checking that
+
+$$
+2\sigma^2 \log n + 4\delta \sqrt{\sigma^2\log n} \ge 0
+$$
+
+and the left hand side is non-negative. Hence, the desired bound holds.
+
 
 Tricks used:
 
 - Jensen's Inequality
+- Markov's Inequality
 - Take a Derivative
 - Union Bound
 
-**Comments**: My earlier blog post shows what I mean when I say "take a
-derivative." It typically happens when there is an upper bound on the left hand
-side and we have a free parameter $$\lambda \in \mathbb{R}$$ (or $$\lambda \ge
-0$$) which we can optimize to get the *tighest* possible bound. Often times,
-such a $$\lambda$$ is *explicitly introduced* via Markov's Inequality. Note the
-use of convexity of the exponential function. It is *very common* to see
-Jensen's inequality applied with the exponential function. Always remember that
-$$e^{\mathbb{E}[X]} \le \mathbb{E}[e^X]$$!! Finally, the procedure that I refer
-to as the "union bound" when I bound a maximum by a sum isn't exactly the
-canonical way of doing it, since that typically involves probabilities, but it
-has a similar flavor. More formally, the [union bound][6] states that 
+**Comments**: My earlier blog post (along with this one) shows what I mean when
+I say "take a derivative." It happens when there is an upper bound on the right
+hand side and we have a free parameter $$\lambda \in \mathbb{R}$$ (or $$\lambda
+\ge 0$$) which we can optimize to get the *tighest* possible bound. Often times,
+such a $$\lambda$$ is *explicitly introduced* via Markov's Inequality, as we
+have here. Just make sure to double check that when taking a derivative, you're
+getting a *minimum*, not a maximum. In addition, Markov's Inequality can only be
+applied to *non-negative* random variables, which is why we often have to
+exponentiate the terms inside a probability statement first.
+
+Note the use of convexity of the exponential function. It is *very common* to
+see Jensen's inequality applied with the exponential function. Always remember
+that $$e^{\mathbb{E}[X]} \le \mathbb{E}[e^X]$$!! 
+
+Finally, the procedure that I refer to as the "union bound" when I bound a
+maximum by a sum isn't exactly the canonical way of doing it, since that
+typically involves probabilities, but it has a similar flavor. More formally,
+the [union bound][6] states that 
 
 $$\mathbb{P}\left[\cup_{i=1}^n A_i\right] \le \sum_{i=1}^n \mathbb{P}\left[A_i\right]$$
 
