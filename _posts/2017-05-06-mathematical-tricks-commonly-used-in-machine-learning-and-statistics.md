@@ -119,10 +119,10 @@ Note the use of convexity of the exponential function. It is *very common* to
 see Jensen's inequality applied with the exponential function. Always remember
 that $$e^{\mathbb{E}[X]} \le \mathbb{E}[e^X]$$!! 
 
-Finally, the procedure that I refer to as the "union bound" when I bound a
-maximum by a sum isn't exactly the canonical way of doing it, since that
-typically involves probabilities, but it has a similar flavor. More formally,
-the [union bound][6] states that 
+The procedure that I refer to as the "union bound" when I bound a maximum by a
+sum isn't exactly the canonical way of doing it, since that typically involves
+probabilities, but it has a similar flavor. More formally, the [union bound][6]
+states that 
 
 $$\mathbb{P}\left[\cup_{i=1}^n A_i\right] \le \sum_{i=1}^n \mathbb{P}\left[A_i\right]$$
 
@@ -130,7 +130,14 @@ for countable sets of events $$A_1,A_2,\ldots$$. When we define a set of events
 based on a maximum of certain variables, that's the same as taking the union of
 the individual events.
 
-
+On a final note, be on the look-out for applications of this type whenever a
+"maximum" operation is seen with something that resembles Gaussians. Sometimes
+this can be a bit subtle. For instance, it's not uncommon to use a bound of the
+form above when dealing with $$\mathbb{E}[\|w\|_\infty]$$, the expectation of
+the $$L_\infty$$-norm of a standard Gaussian vector. In addition, when dealing
+with sparsity, often our "$$n$$" or "$$d$$" is actually something like $${d
+\choose s}$$ or another combinatorics-style value. Seeing a "log" accompanied by
+a square root is a good clue and may help identify such cases.
 
 
 
