@@ -26,8 +26,8 @@ comfortable with elementary programming terminology and Python syntax, such as u
 role of [Python&#8217;s whitespace][2].
 
 I also make substantive use of code throughout this post, so just be aware that one-line comments in
-Python are preceded by a hashtag (#). To comment a *block* of text in Python, we can wrap the text
-around with three quotation marks (&#8221;&#8217;) at the start and end. This method makes it easier
+Python are preceded by a hashtag ```#```. To comment a *block* of text in Python, we can wrap the text
+around with three quotation marks ```"""``` at the start and end. This method makes it easier
 to comment multiple lines, since we don&#8217;t have to put slashes at the start of each line.
 
 Finally, before we get to the meat of the post, if one plans to seriously use Python, then it is
