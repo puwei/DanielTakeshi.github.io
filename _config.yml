@@ -1,19 +1,20 @@
 # Site settings
-title: Seita's Place
-email: seita@berkeley.edu
+title:              "Seita's Place"
+email:              seita@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This is my blog, where I have written over 225 articles on a variety of topics, most of which are
-  about one of two major themes. The first is computer science, which is my area of specialty as a
-  Ph.D. student at UC Berkeley. The second can be broadly categorized as "deafness," which relates
-  to my experience and knowledge of being deaf.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://danieltakeshi.github.io" # yourdomain.com # the base hostname & protocol for your site
-twitter_username: (Never!)
-github_username: DanielTakeshi
+  This is my blog, where I have written over 225 articles on a variety of
+  topics, most of which are about one of two major themes. The first is computer
+  science, which is my area of specialty as a Ph.D. student at UC Berkeley. The
+  second can be broadly categorized as "deafness," which relates to my
+  experience and knowledge of being deaf.
+baseurl:            ""
+url:                "https://danieltakeshi.github.io"
+twitter_username:   (Never!)
+github_username:    DanielTakeshi
+future:             True
+timezone:           America/Los_Angeles
 
 # Build settings
-markdown: kramdown
-#markdown: redcarpet # Does not make multiline ``` ... ``` work!
-gems: [jekyll-paginate]
-paginate: 20
-#excerpt_separator: <!--more--> # Has problems with hyperlinks in the excerpt
+markdown:           kramdown
+gems:               [jekyll-paginate]
+paginate:           20

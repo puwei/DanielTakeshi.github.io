@@ -1,6 +1,7 @@
 ---
-title: New? Start Here
-layout: page
+title:      "New? Start Here"
+layout:     page
+permalink:  /new-start-here.html
 ---
 
 You can see the one-paragraph description of the blog in the footers, repeated

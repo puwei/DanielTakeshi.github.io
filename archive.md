@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Archive
+layout:     page
+title:      Archive
+permalink:  /archive.html
 ---
 
 Find an article within this site using search terms: 
