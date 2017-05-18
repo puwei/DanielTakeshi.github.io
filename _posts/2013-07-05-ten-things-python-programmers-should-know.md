@@ -623,36 +623,41 @@ experiment.
 
 ***10. Classes and Functions***
 
-It's pretty easy to define a function in Python, using ```def```, such as the following trivial
-example, which counts the number of zeroes in the input, which will be a string.
+It's pretty easy to define a function in Python, using ```def```, such as the
+following trivial example, which counts the number of zeros in the input, which
+will be a string.
 
 {%highlight python%}
-def count_zeroes(string):  
-total = 0  
-for c in string:  
-  if c == 0:  
-    total += 1  
-return total
+def count_zeros(string):  
+  total = 0  
+  for c in string:  
+    if c == 0:  
+      total += 1  
+  return total
 
-print(count_zeroes('00102')) # Will return 3  
+print(count_zeros('00102')) # Will return 3  
 {%endhighlight%}
 
-Recursive functions are also straightforward, and behave as in most major object-oriented programming languages.
+Recursive functions are also straightforward, and behave as in most major
+object-oriented programming languages.
 
-Compared to Java, I haven&#8217;t used too many classes in my Python Programs, so my expertise in
-this realm is quite limited. Still, classes are an important part of object-oriented languages, and
-Python is (contrary to some people&#8217;s opinions) object-oriented, so it&#8217;s worth it to read
-the [Classes][28] documentation if you have the time. The documentation page I just linked to,
-though, states affirmatively that:
+Compared to Java, I haven&#8217;t used too many classes in my Python Programs,
+so my expertise in this realm is quite limited. Still, classes are an important
+part of object-oriented languages, and Python is (contrary to some
+people&#8217;s opinions) object-oriented, so it&#8217;s worth it to read the
+[Classes][28] documentation if you have the time. The documentation page I just
+linked to, though, states affirmatively that:
 
-> Python classes provide all the standard features of Object Oriented Programming: the class
-> inheritance mechanism allows multiple base classes, a derived class can override any methods of
-> its base class or classes, and a method can call the method of a base class with the same name.
-> Objects can contain arbitrary amounts and kinds of data. As is true for modules, classes partake
-> of the dynamic nature of Python: they are created at runtime, and can be modified further after
-> creation.
+> Python classes provide all the standard features of Object Oriented
+> Programming: the class inheritance mechanism allows multiple base classes, a
+> derived class can override any methods of its base class or classes, and a
+> method can call the method of a base class with the same name.  Objects can
+> contain arbitrary amounts and kinds of data. As is true for modules, classes
+> partake of the dynamic nature of Python: they are created at runtime, and can
+> be modified further after creation.
 
-A really simple example of a Python class (with Python 2.7 syntax) is shown [here][29].
+A really simple example of a Python class (with Python 2.7 syntax) is shown
+[here][29].
 
 ***Conclusion***
 
@@ -663,7 +668,7 @@ write up something that&#8217;s interesting to you (Google around for solvable p
 necessary) and see if you can incorporate some of these concepts. There are also some important
 concepts that I&#8217;ve skipped over for the purposes of keeping this post targeted at a more
 beginner-oriented audience. Python *decorators,* for instance, are something that a serious
-programer should be sure to understand. If you&#8217;re ambitious, you can also check out this
+programmer should be sure to understand. If you&#8217;re ambitious, you can also check out this
 [Stack Overflow question][30] and try to loosely follow the most up-voted answer&#8217;s suggestions
 on how to go from beginner to intermediate/expert.
 
