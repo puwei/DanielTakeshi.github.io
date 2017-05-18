@@ -1,22 +1,21 @@
 ---
 title: Ten Things Python Programmers Should Know
-author: Daniel Seita
 layout: post
+date: 2013-07-05
 permalink: /2013/07/05/ten-things-python-programmers-should-know/
-tagazine-media:
-  - 'a:7:{s:7:"primary";s:62:"http://seitad.files.wordpress.com/2013/07/python_terminal1.png";s:6:"images";a:1:{s:62:"http://seitad.files.wordpress.com/2013/07/python_terminal1.png";a:6:{s:8:"file_url";s:62:"http://seitad.files.wordpress.com/2013/07/python_terminal1.png";s:5:"width";i:623;s:6:"height";i:251;s:4:"type";s:5:"image";s:4:"area";i:156373;s:9:"file_path";b:0;}}s:6:"videos";a:0:{}s:11:"image_count";i:1;s:6:"author";s:8:"25629085";s:7:"blog_id";s:8:"25755956";s:9:"mod_stamp";s:19:"2013-07-05 22:08:46";}'
-geo_public:
-  - 0
-categories:
-  - Computer Science
-tags:
-  - advice
-  - command line
-  - object-oriented
-  - programming
-  - Python
-  - tutorial
 ---
+
+**Update May 18, 2017**: It's been almost four years since I wrote this original
+blog post. It has become, according to Google Analytics, the most popular blog
+post that I've ever written. Also, during that four-year range, I have had much
+more experience programming in Python as part of my computer science
+undergraduate major followed my my Ph.D. studies, so I think it's about high
+time I provide an update soon. Stay tuned for a new blog post! (This post will
+remain archived for historical reasons, and because I like to look back at my
+earlier writing.)
+
+***
+
 I used to program in Java, before I [transitioned][1] to Python. And now that I&#8217;ve become a
 huge Python fan, I thought I&#8217;d provide ten basic but important facts or concepts about Python.
 All of these were useful to me within the past year as I made Python my primary programming
@@ -103,9 +102,9 @@ import sys
 print("My version Number: {}".format(sys.version))  
 {% endhighlight %}
 
-Here, the text inside the quotation marks gets printed as it is, except for the brackets { and },
-which transform into the ```sys.version``` or in other words, the Python version.  This is
-classic *string formatting*.
+Here, the text inside the quotation marks gets printed as it is, except for the
+brackets ```{``` and ```}```, which transform into the ```sys.version``` or in
+other words, the Python version.  This is classic *string formatting*.
 
 Alternatively, if you&#8217;re using a Linux or Mac computer, you can do the same stuff directly in
 the Python interpreter on the command line interpreter (i.e. Unix Shell) or the Mac OS X Terminal.
@@ -115,12 +114,14 @@ our next point &#8230;
 
 ***2. Using the Python Shell***
 
-Without a doubt, one of the most useful aspects of Python is that it comes auto-installed with its
-own shell. The Python Shell can be executed by typing in &#8216;python&#8217; from the command line
-(in Windows, there should be an application that you can just double-click). By doing so,
-you&#8217;ll see the default version number, a copyright notice, and three arrows (or
-&#8220;r-angles&#8221;) ```>>>``` asking for your input. If you have multiple versions of Python
-installed, you may need to add in the version number ```python3.3``` to get the correct version.
+Without a doubt, one of the most useful aspects of Python is that it comes
+auto-installed with its own shell. The Python Shell can be executed by typing in
+```python``` from the command line (in Windows, there should be an application
+that you can just double-click). By doing so, you&#8217;ll see the default
+version number, a copyright notice, and three arrows (or "r-angles" in
+LaTeX-speak) ```>>>``` asking for your input. If you have multiple versions of
+Python installed, you may need to add in the version number ```python3.3``` to
+get the correct version.
 
 So why is the Python shell so useful? Simply put, it lets you test out simple commands in isolation.
 In many cases, you&#8217;ll be able to detect if there&#8217;s going to be a syntax or logical error
@@ -128,12 +129,14 @@ in some command you want to use *before* it gets tested in some gigantic script
 memory or be time-intensive.
 
 Below, I&#8217;ve included a screenshot of me performing some commands on my Macbook Pro&#8217;s
-Terminal, using the 3.3 Python shell. (Click to enlarge.)
+Terminal, using the 3.3 Python shell.
 
+<p style="text-align:center;">
 <img src="{{site.url}}/assets/Python_Terminal.png" alt="python">
+</p>
 
 This set of commands sets up an empty list (```list1```) and adds to it all the *even* integers in
-the range [2, 16).
+the range $$[2, 16)$$.
 
 For the sake of showing why this shell might be useful, suppose I had forgotten to put in the last
 parameter of ```range``` so I had typed in ```range(2,16)``` instead.  Then when I printed the
@@ -189,22 +192,26 @@ with open(sys.argv[1], 'r') as feature_file:
   # Do stuff with the file  
 {% endhighlight %}
 
-Here, ```sys.argv``` represents the list of command line arguments, with the name of the code as the
-first element. If I&#8217;ve put in the correct parameters, then the program should proceed
-smoothly, with ```sys.argv[1]``` and ```sys.argv[2]``` seamlessly incorporated.
+Here, ```sys.argv``` represents the list of command line arguments, with the
+name of the code as the first element. If I've put in the correct parameters,
+then the program should proceed smoothly, with ```sys.argv[1]``` and
+```sys.argv[2]``` seamlessly incorporated.
 
-In addition to speed, another advantage of command line arguments is that they can be used as part
-of a process to automate the same script over and over again. Suppose I wanted to run my
-kmeans\_clustering script over and over again with the cluster value ranging from 2 to 100. One way
-is to tediously call kmeans\_clustering on the command line with &#8216;2&#8217; as the last
-parameter, then do the same with &#8216;3&#8217; after the first run has finished, and then do
-&#8216;4&#8217; and so on. In other words, I&#8217;d have to call the program 99 times!
+In addition to speed, another advantage of command line arguments is that they
+can be used as part of a process to automate the same script over and over
+again. Suppose I wanted to run my ```kmeans_clustering``` script over and over
+again with the cluster value ranging from 2 to 100. One way is to tediously call
+```kmeans_clustering``` on the command line with &#8216;2&#8217; as the last
+parameter, then do the same with &#8216;3&#8217; after the first run has
+finished, and then do &#8216;4&#8217; and so on. In other words, I'd have to
+call the program 99 times!
 
-A better way is to make another Python script and use [os.system][15] to call kmeans_clustering as
-many times as I want. And this is as easy as changing the input to ```os.system```. It takes in a
-string, so I would set a for loop that would create its unique string which would then act as input
-to the command line. See the following code for an example, where ```file1.arff``` is the
-made-up file that I&#8217;m using as an example.
+A better way is to make another Python script and use [os.system][15] to call
+```kmeans_clustering``` as many times as I want. And this is as easy as changing
+the input to ```os.system```. It takes in a string, so I would set a for loop
+that would create its unique string which would then act as input to the command
+line. See the following code for an example, where ```file1.arff``` is the
+made-up file that I'm using as an example.
 
 {%highlight python%}
 import os
@@ -222,10 +229,11 @@ the program gets called.
 
 ***4. List Comprehension***
 
-In my opinion, *list comprehension*, or the process of forming lists out of other lists or
-structures, is something that exemplifies the beauty and simplicity of Python programming. Remember
-the code I wrote earlier which set up a list that contained all the even integers in [2,16)? I could
-have just written the following one-liner:
+In my opinion, *list comprehension*, or the process of forming lists out of
+other lists or structures, is something that exemplifies the beauty and
+simplicity of Python programming. Remember the code I wrote earlier which set up
+a list that contained all the even integers in $$[2,16)$$? I could have just
+written the following one-liner:
 
 {%highlight python%}
 >>> list1 = [i for i in range(2,16,2)]  
@@ -285,12 +293,13 @@ through a list and apply a function to all but its last element. I kept using an
 iterated through the indices of the list and performed a check each time to ensure that I
 wasn&#8217;t at that last element.
 
-I eventually realized that this was one of the dumbest things I was doing, so I searched about how
-to obtain everything but the last element. And that was when I began my slicing journey. For this
-particular example, we can just use ```[:-1]``` to obtain everything* *but the element with index
-negative one, which will be the last element. (If one makes a list with N elements, then the element
-located at index N-1 *also* has an equivalent index of -1, and similarly for the indices N-2 and -2,
-and so on.)
+I eventually realized that this was one of the dumbest things I was doing, so I
+searched about how to obtain everything but the last element. And that was when
+I began my slicing journey. For this particular example, we can just use
+```[:-1]``` to obtain everything* *but the element with index negative one,
+which will be the last element. (If one makes a list with $$N$$ elements, then
+the element located at index $$N-1$$ *also* has an equivalent index of $$-1$$,
+and similarly for the indices $$N-2$$ and $$-2$$, and so on.)
 
 {%highlight python%}
 # The bad way  
@@ -303,21 +312,23 @@ for element in list4[:-1]:
   # Do something  
 {%endhighlight%}
 
-Fortunately, slicing isn&#8217;t limited to just getting rid of one element. Letting ```list1``` be
-an arbitrary list, we can make ```list2``` be a new list taking on a specified subset of
-```list1```s values by using the following general syntax:
+Fortunately, slicing isn&#8217;t limited to just getting rid of one element.
+Letting ```list1``` be an arbitrary list, we can make ```list2``` be a new list
+taking on a specified subset of ```list1```s values by using the following
+general syntax:
 
 {%highlight python%}
 list2 = list1[start:stop:step]  
 {%endhighlight%}
 
-Here, ```start``` is the index of the first element we want, ```stop``` is the index of the first
-element we don&#8217;t want (remember that in Python, ending indices are often exclusive rather than
-inclusive), and ```step``` represents the number *k* where we take each *k*th value. It can be
-negative, too, which would indicate that we&#8217;re moving backwards through the list. Not all of
-these values are needed; if the ```step``` is omitted, it defaults to +1. And as the example earlier
-should make clear, if either ```start``` or ```stop``` are omitted, they should default to 0 and the
-length of the list, respectively.
+Here, ```start``` is the index of the first element we want, ```stop``` is the
+index of the first element we don&#8217;t want (remember that in Python, ending
+indices are often exclusive rather than inclusive), and ```step``` represents
+the number $$k$$ where we take each $$k$$-th value. It can be negative, too,
+which would indicate that we&#8217;re moving backwards through the list. Not all
+of these values are needed; if the ```step``` is omitted, it defaults to +1. And
+as the example earlier should make clear, if either ```start``` or ```stop```
+are omitted, they should default to 0 and the length of the list, respectively.
 
 To gain a better intuition of slicing, it also helps to know how the indexing process works for
 negative numbers. In the official documentation, there&#8217;s a nice ASCII-style diagram (with the
@@ -366,16 +377,19 @@ Lists are by far the most common data structure I use when Python programming, b
 extensive use of dictionaries, sets, and other data structures, since they have their own
 advantages.
 
-A set is simply a container that holds items, like a list, but only holds distinct elements. That
-is, if you add in element X to a set already containing X, the set doesn&#8217;t change. This can be
-an advantage of sets over lists, since I often need to ignore duplicates when I&#8217;m managing
-lists, and making a set based on a pre-existing list is as easy as typing in ```set(list_name)```.
+A set is simply a container that holds items, like a list, but only holds
+distinct elements. That is, if you add in element ```X``` to a set already
+containing ```X```, the set doesn't change. This can be an advantage of sets
+over lists, since I often need to ignore duplicates when I'm managing lists, and
+making a set based on a pre-existing list is as easy as typing in
+```set(list_name)```.
 
-But possibly an even bigger advantage with sets is their *super fast* lookup. Testing if an element
-is in a list takes O(n) time. With sets, however, membership testing is constant, O(1)-time. Of
-course, this requires set elements to be [hashable][19], which means that items need to be
-associated with some constant number (i.e. &#8220;hash value&#8221;) so that they can be looked up
-in a table quickly.
+But possibly an even bigger advantage with sets is their *super fast* lookup.
+Testing if an element is in a list takes $$O(n)$$ time. With sets, however,
+membership testing is constant, $$O(1)$$-time. Of course, this requires set
+elements to be [hashable][19], which means that items need to be associated with
+some constant number (i.e. "hash value") so that they can be looked up in a
+table quickly.
 
 {%highlight python%}
 >>> example1 = [i for i in range(5)]  
@@ -392,13 +406,14 @@ in a table quickly.
 {0, 1, 2, 3, 4, 5, 6, 7}  
 {%endhighlight%}
 
-Of course the downside with sets over lists is that they don&#8217;t support indexing of elements,
-so there&#8217;s no ordering. This is a pretty big drawback, but regardless, if you don&#8217;t care
-about order and duplicates, and want speedy membership testing, sets are the way to go.
+Of course the downside with sets over lists is that they don't support indexing
+of elements, so there's no ordering. This is a pretty big drawback, but
+regardless, if you don't care about order and duplicates, and want speedy
+membership testing, sets are the way to go.
 
-In addition to sets, I find dictionaries to be an incredibly useful data structure. A dictionary is
-something that associates to each *key* a *value*, so it&#8217;s essentially a function that pairs
-up elements together.
+In addition to sets, I find dictionaries to be an incredibly useful data
+structure. A dictionary is something that associates to each *key* a *value*, so
+it's essentially a function that pairs up elements together.
 
 {%highlight python%}
 >>> dict_example = {'Bob' : 21, 'Chris' : 33, 'Dave' : 40}  
@@ -411,9 +426,10 @@ up elements together.
 21  
 {%endhighlight%}
 
-There are many scenarios where dictionaries are useful. As an added benefit, searching the values by
-key is efficiently done in constant time, just like in sets. Due to their widespread use,
-dictionaries are one of the most heavily optimized data structures in basic Python.
+There are many scenarios where dictionaries are useful. As an added benefit,
+searching the values by key is efficiently done in constant time, just like in
+sets. Due to their widespread use, dictionaries are one of the most heavily
+optimized data structures in basic Python.
 
 <b style="font-style:italic;">7. Copying Structures (and Basic Memory Management)</b>
 
