@@ -86,7 +86,7 @@ Not very helpful.
 The paper then proceeds to describe their testing scenario, and packs some
 important results in the figure reproduced below:
 
-![Figure_01]({{site.url}}/assets/understanding_dl_rethinking_gen.png)
+<p style="text-align:center;"> <img src="{{site.url}}/assets/understanding_dl_rethinking_gen.png"> </p>
 
 This figure represents a neural network classifying the images in the
 widely-benchmarked CIFAR-10 dataset.  The network the authors used is a
