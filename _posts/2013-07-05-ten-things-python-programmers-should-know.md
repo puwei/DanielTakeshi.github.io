@@ -576,12 +576,13 @@ learned a lot about generators just by reading that page.
 
 ***9. File Management***
 
-With many Python scripts using files as input, such as my kmeans_clustering code I posted earlier,
-it&#8217;s important to know the correct ways to incorporate files in one&#8217;s code. The official
-documentation explains that the [open][27] keyword is used for this purpose. It&#8217;s pretty
-straightforward, and we can loop through the file to analyze it line by line. Alternatively, we can
-use the ```readlines()``` method to create a list consisting of each line in the file, but just be
-wary if the file is large.
+With many Python scripts using files as input, such as my ``kmeans_clustering``
+code I posted earlier, it's important to know the correct ways to incorporate
+files in one's code. The official documentation explains that the [open][27]
+keyword is used for this purpose. It is pretty straightforward, and we can loop
+through the file to analyze it line by line.  Alternatively, we can use the
+```readlines()``` method to create a list consisting of each line in the file,
+but just be wary if the file is large.
 
 {%highlight python%}
 f = open('test.txt', 'r')  
