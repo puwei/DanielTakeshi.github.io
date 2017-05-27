@@ -82,6 +82,7 @@ Finally, I write sometimes about the books I read, such as in the following:
 - [All the Books I Read in 2016, Plus My Thoughts [Long]][26]
 - [My Three Favorite Books I Read in 2015][20]
 - [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will
+  Remake Our World][27]
 - [Alan Turing: The Enigma][51]
 
 [1]:https://danieltakeshi.github.io/2015-12-21-review-of-advanced-robotics-cs-287-at-berkeley/
