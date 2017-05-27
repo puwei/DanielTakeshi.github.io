@@ -26,6 +26,7 @@ reviews on all the ones I have taken. Here they are:
 - [CS 287, Advanced Robotics][1]
 - [CS 288, Natural Language Processing][37]
 - [CS 294-112, Deep Reinforcement Learning][2]
+- [CS 294-112, Deep Reinforcement Learning (self-study)][50]
 - [CS 294-115, Algorithmic Human-Robot Interaction][29]
 - [CS 294-129, Deep Neural Networks][43] (GSI/TA)
 - [EE 227BT, Convex Optimization][3]
@@ -81,7 +82,7 @@ Finally, I write sometimes about the books I read, such as in the following:
 - [All the Books I Read in 2016, Plus My Thoughts [Long]][26]
 - [My Three Favorite Books I Read in 2015][20]
 - [The Master Algorithm: How the Quest for the Ultimate Learning Machine Will
-  Remake Our World][27]
+- [Alan Turing: The Enigma][51]
 
 [1]:https://danieltakeshi.github.io/2015-12-21-review-of-advanced-robotics-cs-287-at-berkeley/
 [2]:https://danieltakeshi.github.io/2015-12-17-review-of-deep-reinforcement-learning-cs-294-112-at-berkeley/
@@ -132,3 +133,5 @@ Finally, I write sometimes about the books I read, such as in the following:
 [47]:https://danieltakeshi.github.io/2015-07-26-stanfords-linear-algebra-review/
 [48]:https://danieltakeshi.github.io/2015-07-15-closing-thoughts-on-graphical-models/
 [49]:https://danieltakeshi.github.io/2017/05/06/mathematical-tricks-commonly-used-in-machine-learning-and-statistics
+[50]:https://danieltakeshi.github.io/2017/05/24/deep-reinforcement-learning-cs-294-112-at-berkeley-take-two
+[51]:https://danieltakeshi.github.io/2017/05/21/alan-turing-the-enigma
