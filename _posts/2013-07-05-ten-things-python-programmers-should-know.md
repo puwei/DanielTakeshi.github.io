@@ -521,7 +521,7 @@ though I almost always use ```xrange()``` over ```range()``` in Python 2.7 code,
 its uses, such as if one needs an actual list.
 
 Basically, ```range()``` and ```xrange()``` perform the same task, but the difference is that
-```range(n)``` will literally construct a list consisting of the numbers 1 through n-1, while
+```range(n)``` will literally construct a list consisting of the numbers 0 through n-1, while
 ```xrange(n)``` only provides us with those numbers when we need them.
 
 As a testament to the usefulness of generators, Python 3 changed ```range()``` so that it now
