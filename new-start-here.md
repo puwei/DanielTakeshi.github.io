@@ -32,6 +32,7 @@ reviews on all the ones I have taken. Here they are:
 - [EE 227BT, Convex Optimization][3]
 - [EE 227C, Convex Optimization and Approximation][4]
 - [STAT 210A, Theoretical Statistics][28]
+- [STAT 210B, Theoretical Statistics][52]
 
 When I was preparing for the AI prelims at Berkeley, I wrote a lot about AI
 topics. I also wrote a "transcript" of my prelims.
@@ -136,3 +137,4 @@ Finally, I write sometimes about the books I read, such as in the following:
 [49]:https://danieltakeshi.github.io/2017/05/06/mathematical-tricks-commonly-used-in-machine-learning-and-statistics
 [50]:https://danieltakeshi.github.io/2017/05/24/deep-reinforcement-learning-cs-294-112-at-berkeley-take-two
 [51]:https://danieltakeshi.github.io/2017/05/21/alan-turing-the-enigma
+[52]:https://danieltakeshi.github.io/2017/06/26/review-of-theoretical-statistics-stat-210b-at-berkeley/
