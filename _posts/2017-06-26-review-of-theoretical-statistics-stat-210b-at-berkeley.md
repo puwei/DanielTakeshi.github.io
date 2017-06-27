@@ -327,7 +327,7 @@ Here are a few other random thoughts and comments I have about the course:
 - We had a class Piazza. As usual, I posted way too many times there, but it was
   interesting to see that we had a lot more discussion compared to 210A. 
 
-- The class consists of mostly PhD students in statistics, mathematics, EECS,
+- The class consisted of mostly PhD students in statistics, mathematics, EECS,
   and mechanical engineering, but there were a few talented undergrads who
   joined the party.
 
